@@ -1,0 +1,6338 @@
+{
+  "Robe de Erudito": {
+    "T5": {
+      ".0": {
+        "price": 15510,
+        "quantity_sold": 1135
+      },
+      ".1": {
+        "price": 24212,
+        "quantity_sold": 202
+      },
+      ".2": {
+        "price": 74996,
+        "quantity_sold": 31
+      },
+      ".3": {
+        "price": 370363,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 35200,
+        "quantity_sold": 603
+      },
+      ".1": {
+        "price": 66999,
+        "quantity_sold": 101
+      },
+      ".2": {
+        "price": 296631,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 651976,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 96570,
+        "quantity_sold": 176
+      },
+      ".1": {
+        "price": 244333,
+        "quantity_sold": 26
+      },
+      ".2": {
+        "price": 722987,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 2600000,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 279994,
+        "quantity_sold": 16
+      },
+      ".1": {
+        "price": 598885,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 2690990,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 6999996,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Robe de Clérigo": {
+    "T5": {
+      ".0": {
+        "price": 16103,
+        "quantity_sold": 894
+      },
+      ".1": {
+        "price": 25339,
+        "quantity_sold": 128
+      },
+      ".2": {
+        "price": 68266,
+        "quantity_sold": 23
+      },
+      ".3": {
+        "price": 269999,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 34089,
+        "quantity_sold": 518
+      },
+      ".1": {
+        "price": 66995,
+        "quantity_sold": 76
+      },
+      ".2": {
+        "price": 239000,
+        "quantity_sold": 25
+      },
+      ".3": {
+        "price": 601897,
+        "quantity_sold": 4
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 97910,
+        "quantity_sold": 142
+      },
+      ".1": {
+        "price": 232778,
+        "quantity_sold": 22
+      },
+      ".2": {
+        "price": 706858,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 2195898,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 254429,
+        "quantity_sold": 22
+      },
+      ".1": {
+        "price": 831990,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 2627979,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6299999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Robe de Mago": {
+    "T5": {
+      ".0": {
+        "price": 14887,
+        "quantity_sold": 575
+      },
+      ".1": {
+        "price": 21996,
+        "quantity_sold": 189
+      },
+      ".2": {
+        "price": 68994,
+        "quantity_sold": 53
+      },
+      ".3": {
+        "price": 470999,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 36990,
+        "quantity_sold": 539
+      },
+      ".1": {
+        "price": 64499,
+        "quantity_sold": 126
+      },
+      ".2": {
+        "price": 299991,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 606967,
+        "quantity_sold": 5
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 97905,
+        "quantity_sold": 248
+      },
+      ".1": {
+        "price": 299524,
+        "quantity_sold": 46
+      },
+      ".2": {
+        "price": 672968,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 2400511,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 330980,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 612970,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 2499969,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6999989,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Robe de Druida": {
+    "T5": {
+      ".0": {
+        "price": 29499,
+        "quantity_sold": 332
+      },
+      ".1": {
+        "price": 39095,
+        "quantity_sold": 115
+      },
+      ".2": {
+        "price": 72999,
+        "quantity_sold": 48
+      },
+      ".3": {
+        "price": 359398,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 73499,
+        "quantity_sold": 490
+      },
+      ".1": {
+        "price": 113000,
+        "quantity_sold": 136
+      },
+      ".2": {
+        "price": 279923,
+        "quantity_sold": 34
+      },
+      ".3": {
+        "price": 719971,
+        "quantity_sold": 6
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 121999,
+        "quantity_sold": 79
+      },
+      ".1": {
+        "price": 258977,
+        "quantity_sold": 18
+      },
+      ".2": {
+        "price": 659978,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 2299993,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 423996,
+        "quantity_sold": 47
+      },
+      ".1": {
+        "price": 1099990,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 2599970,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 6199999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Casaco de Mercenário": {
+    "T5": {
+      ".0": {
+        "price": 187600,
+        "quantity_sold": 1042
+      },
+      ".1": {
+        "price": 27395,
+        "quantity_sold": 158
+      },
+      ".2": {
+        "price": 85688,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 333426,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 49926,
+        "quantity_sold": 407
+      },
+      ".1": {
+        "price": 97660,
+        "quantity_sold": 63
+      },
+      ".2": {
+        "price": 299983,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 859962,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 164589,
+        "quantity_sold": 85
+      },
+      ".1": {
+        "price": 336496,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 994080,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 3095974,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 339995,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 995986,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 2744921,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6999982,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Casaco de Caçador": {
+    "T5": {
+      ".0": {
+        "price": 18893,
+        "quantity_sold": 1106
+      },
+      ".1": {
+        "price": 28868,
+        "quantity_sold": 160
+      },
+      ".2": {
+        "price": 91997,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 399999,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 47189,
+        "quantity_sold": 508
+      },
+      ".1": {
+        "price": 90371,
+        "quantity_sold": 95
+      },
+      ".2": {
+        "price": 309997,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 1095999,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 164935,
+        "quantity_sold": 144
+      },
+      ".1": {
+        "price": 328997,
+        "quantity_sold": 22
+      },
+      ".2": {
+        "price": 996984,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 3152066,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 431108,
+        "quantity_sold": 13
+      },
+      ".1": {
+        "price": 988883,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 2882000,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Casaco de Assassino": {
+    "T5": {
+      ".0": {
+        "price": 18602,
+        "quantity_sold": 1045
+      },
+      ".1": {
+        "price": 29622,
+        "quantity_sold": 204
+      },
+      ".2": {
+        "price": 88987,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 399995,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 46779,
+        "quantity_sold": 365
+      },
+      ".1": {
+        "price": 98874,
+        "quantity_sold": 76
+      },
+      ".2": {
+        "price": 378935,
+        "quantity_sold": 17
+      },
+      ".3": {
+        "price": 985570,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 159971,
+        "quantity_sold": 84
+      },
+      ".1": {
+        "price": 419999,
+        "quantity_sold": 9
+      },
+      ".2": {
+        "price": 950000,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 311111,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 376996,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 975844,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 2790972,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 7387993,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Casaco de Espreitador": {
+    "T5": {
+      ".0": {
+        "price": 23999,
+        "quantity_sold": 232
+      },
+      ".1": {
+        "price": 29988,
+        "quantity_sold": 55
+      },
+      ".2": {
+        "price": 120000,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 459986,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 83553,
+        "quantity_sold": 229
+      },
+      ".1": {
+        "price": 108498,
+        "quantity_sold": 25
+      },
+      ".2": {
+        "price": 299997,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 940092,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 190650,
+        "quantity_sold": 51
+      },
+      ".1": {
+        "price": 364998,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 1395981,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 2998986,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 513999,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 1150000,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 3078997,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 7999997,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Armadura de Soldado": {
+    "T5": {
+      ".0": {
+        "price": 19439,
+        "quantity_sold": 883
+      },
+      ".1": {
+        "price": 25974,
+        "quantity_sold": 144
+      },
+      ".2": {
+        "price": 94995,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 400000,
+        "quantity_sold": 5
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 42989,
+        "quantity_sold": 609
+      },
+      ".1": {
+        "price": 82996,
+        "quantity_sold": 145
+      },
+      ".2": {
+        "price": 328888,
+        "quantity_sold": 11
+      },
+      ".3": {
+        "price": 1043998,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 98535,
+        "quantity_sold": 235
+      },
+      ".1": {
+        "price": 279999,
+        "quantity_sold": 23
+      },
+      ".2": {
+        "price": 1178886,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 2398874,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 293985,
+        "quantity_sold": 19
+      },
+      ".1": {
+        "price": 977758,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 2629944,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5638829,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Armadura de Cavaleiro": {
+    "T5": {
+      ".0": {
+        "price": 18981,
+        "quantity_sold": 854
+      },
+      ".1": {
+        "price": 31996,
+        "quantity_sold": 201
+      },
+      ".2": {
+        "price": 103102,
+        "quantity_sold": 33
+      },
+      ".3": {
+        "price": 400000,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 39759,
+        "quantity_sold": 670
+      },
+      ".1": {
+        "price": 80846,
+        "quantity_sold": 114
+      },
+      ".2": {
+        "price": 316664,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1009989,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 95992,
+        "quantity_sold": 238
+      },
+      ".1": {
+        "price": 308887,
+        "quantity_sold": 10
+      },
+      ".2": {
+        "price": 1000000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 2708975,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 284895,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 838970,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 2399274,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6249989,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Armadura de Guardião": {
+    "T5": {
+      ".0": {
+        "price": 16947,
+        "quantity_sold": 1147
+      },
+      ".1": {
+        "price": 27743,
+        "quantity_sold": 204
+      },
+      ".2": {
+        "price": 92888,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 400000,
+        "quantity_sold": 5
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 39869,
+        "quantity_sold": 540
+      },
+      ".1": {
+        "price": 79981,
+        "quantity_sold": 112
+      },
+      ".2": {
+        "price": 387383,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 985927,
+        "quantity_sold": 4
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 92198,
+        "quantity_sold": 182
+      },
+      ".1": {
+        "price": 290000,
+        "quantity_sold": 16
+      },
+      ".2": {
+        "price": 1000000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 2749999,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 333997,
+        "quantity_sold": 11
+      },
+      ".1": {
+        "price": 1000000,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 2749998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 6449000,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Armadura de Guarda-tumbas": {
+    "T5": {
+      ".0": {
+        "price": 21500,
+        "quantity_sold": 248
+      },
+      ".1": {
+        "price": 36995,
+        "quantity_sold": 75
+      },
+      ".2": {
+        "price": 144935,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 449996,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 59499,
+        "quantity_sold": 268
+      },
+      ".1": {
+        "price": 103979,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 398388,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 949999,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 123908,
+        "quantity_sold": 68
+      },
+      ".1": {
+        "price": 364999,
+        "quantity_sold": 17
+      },
+      ".2": {
+        "price": 1068986,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 2949986,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 430000,
+        "quantity_sold": 27
+      },
+      ".1": {
+        "price": 1158997,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 3489996,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5150000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Capote de Erudito": {
+    "T5": {
+      ".0": {
+        "price": 8725,
+        "quantity_sold": 623
+      },
+      ".1": {
+        "price": 192890,
+        "quantity_sold": 428
+      },
+      ".2": {
+        "price": 37569,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 136999,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 19987,
+        "quantity_sold": 392
+      },
+      ".1": {
+        "price": 34987,
+        "quantity_sold": 117
+      },
+      ".2": {
+        "price": 132222,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 304997,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 51981,
+        "quantity_sold": 133
+      },
+      ".1": {
+        "price": 136000,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 499497,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1227929,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 165939,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 341979,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1100998,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 2999000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Capote de Clérigo": {
+    "T5": {
+      ".0": {
+        "price": 9490,
+        "quantity_sold": 625
+      },
+      ".1": {
+        "price": 16477,
+        "quantity_sold": 200
+      },
+      ".2": {
+        "price": 34999,
+        "quantity_sold": 74
+      },
+      ".3": {
+        "price": 167913,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 22525,
+        "quantity_sold": 601
+      },
+      ".1": {
+        "price": 38988,
+        "quantity_sold": 58
+      },
+      ".2": {
+        "price": 142222,
+        "quantity_sold": 11
+      },
+      ".3": {
+        "price": 409993,
+        "quantity_sold": 5
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 49996,
+        "quantity_sold": 118
+      },
+      ".1": {
+        "price": 154999,
+        "quantity_sold": 22
+      },
+      ".2": {
+        "price": 454706,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1308728,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 221105,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 386991,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1099978,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 2729822,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Capote de Mago": {
+    "T5": {
+      ".0": {
+        "price": 10455,
+        "quantity_sold": 750
+      },
+      ".1": {
+        "price": 16821,
+        "quantity_sold": 130
+      },
+      ".2": {
+        "price": 38999,
+        "quantity_sold": 22
+      },
+      ".3": {
+        "price": 199895,
+        "quantity_sold": 5
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 23485,
+        "quantity_sold": 342
+      },
+      ".1": {
+        "price": 38985,
+        "quantity_sold": 108
+      },
+      ".2": {
+        "price": 146444,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 436425,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 46769,
+        "quantity_sold": 119
+      },
+      ".1": {
+        "price": 143987,
+        "quantity_sold": 27
+      },
+      ".2": {
+        "price": 354868,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1289984,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 178873,
+        "quantity_sold": 12
+      },
+      ".1": {
+        "price": 325000,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 1299929,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 2999992,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Capote de Druida": {
+    "T5": {
+      ".0": {
+        "price": 155530,
+        "quantity_sold": 322
+      },
+      ".1": {
+        "price": 22983,
+        "quantity_sold": 32
+      },
+      ".2": {
+        "price": 54989,
+        "quantity_sold": 11
+      },
+      ".3": {
+        "price": 174082,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 40997,
+        "quantity_sold": 240
+      },
+      ".1": {
+        "price": 79000,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 184997,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 380777,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 72000,
+        "quantity_sold": 47
+      },
+      ".1": {
+        "price": 220000,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 477990,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 1354320,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 394000,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 409590,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1697000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Capuz de Mercenário": {
+    "T5": {
+      ".0": {
+        "price": 9736,
+        "quantity_sold": 997
+      },
+      ".1": {
+        "price": 15297,
+        "quantity_sold": 188
+      },
+      ".2": {
+        "price": 44273,
+        "quantity_sold": 24
+      },
+      ".3": {
+        "price": 198987,
+        "quantity_sold": 5
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 26849,
+        "quantity_sold": 326
+      },
+      ".1": {
+        "price": 47951,
+        "quantity_sold": 57
+      },
+      ".2": {
+        "price": 164995,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 489000,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 74973,
+        "quantity_sold": 116
+      },
+      ".1": {
+        "price": 180607,
+        "quantity_sold": 10
+      },
+      ".2": {
+        "price": 445000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1589899,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 185000,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 452222,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1490916,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 3198993,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Capuz de Caçador": {
+    "T5": {
+      ".0": {
+        "price": 12487,
+        "quantity_sold": 1449
+      },
+      ".1": {
+        "price": 1192,
+        "quantity_sold": 479
+      },
+      ".2": {
+        "price": 44993,
+        "quantity_sold": 91
+      },
+      ".3": {
+        "price": 191999,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 27797,
+        "quantity_sold": 1335
+      },
+      ".1": {
+        "price": 53882,
+        "quantity_sold": 413
+      },
+      ".2": {
+        "price": 176666,
+        "quantity_sold": 83
+      },
+      ".3": {
+        "price": 479997,
+        "quantity_sold": 9
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 88998,
+        "quantity_sold": 432
+      },
+      ".1": {
+        "price": 180500,
+        "quantity_sold": 92
+      },
+      ".2": {
+        "price": 494961,
+        "quantity_sold": 24
+      },
+      ".3": {
+        "price": 1598862,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 179969,
+        "quantity_sold": 168
+      },
+      ".1": {
+        "price": 578887,
+        "quantity_sold": 29
+      },
+      ".2": {
+        "price": 1607171,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 3758851,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Capuz de Assassino": {
+    "T5": {
+      ".0": {
+        "price": 9146,
+        "quantity_sold": 2305
+      },
+      ".1": {
+        "price": 13066,
+        "quantity_sold": 992
+      },
+      ".2": {
+        "price": 43514,
+        "quantity_sold": 95
+      },
+      ".3": {
+        "price": 159129,
+        "quantity_sold": 15
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 26542,
+        "quantity_sold": 1548
+      },
+      ".1": {
+        "price": 48819,
+        "quantity_sold": 485
+      },
+      ".2": {
+        "price": 183171,
+        "quantity_sold": 69
+      },
+      ".3": {
+        "price": 493982,
+        "quantity_sold": 12
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 88992,
+        "quantity_sold": 428
+      },
+      ".1": {
+        "price": 159966,
+        "quantity_sold": 107
+      },
+      ".2": {
+        "price": 533994,
+        "quantity_sold": 13
+      },
+      ".3": {
+        "price": 1620997,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 189262,
+        "quantity_sold": 196
+      },
+      ".1": {
+        "price": 478980,
+        "quantity_sold": 27
+      },
+      ".2": {
+        "price": 1406615,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 3248784,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Capuz de Espreitador": {
+    "T5": {
+      ".0": {
+        "price": 17777,
+        "quantity_sold": 99
+      },
+      ".1": {
+        "price": 22992,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 53800,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 229995,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 45999,
+        "quantity_sold": 205
+      },
+      ".1": {
+        "price": 81000,
+        "quantity_sold": 24
+      },
+      ".2": {
+        "price": 182906,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 525000,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 109997,
+        "quantity_sold": 29
+      },
+      ".1": {
+        "price": 186180,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 604998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1589989,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 376983,
+        "quantity_sold": 0
+      },
+      ".1": {
+        "price": 586996,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 1759987,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 3639777,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Elmo de Soldado": {
+    "T5": {
+      ".0": {
+        "price": 6975,
+        "quantity_sold": 1092
+      },
+      ".1": {
+        "price": 10863,
+        "quantity_sold": 346
+      },
+      ".2": {
+        "price": 44925,
+        "quantity_sold": 31
+      },
+      ".3": {
+        "price": 164591,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 15185,
+        "quantity_sold": 537
+      },
+      ".1": {
+        "price": 40690,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 159987,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 499913,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 56890,
+        "quantity_sold": 145
+      },
+      ".1": {
+        "price": 199880,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 540000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1549993,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 121980,
+        "quantity_sold": 15
+      },
+      ".1": {
+        "price": 449746,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1547995,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 3610000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Elmo de Cavaleiro": {
+    "T5": {
+      ".0": {
+        "price": 7593,
+        "quantity_sold": 896
+      },
+      ".1": {
+        "price": 10762,
+        "quantity_sold": 351
+      },
+      ".2": {
+        "price": 48398,
+        "quantity_sold": 33
+      },
+      ".3": {
+        "price": 209992,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 16919,
+        "quantity_sold": 664
+      },
+      ".1": {
+        "price": 39993,
+        "quantity_sold": 149
+      },
+      ".2": {
+        "price": 178888,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 528998,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 57941,
+        "quantity_sold": 194
+      },
+      ".1": {
+        "price": 145143,
+        "quantity_sold": 26
+      },
+      ".2": {
+        "price": 578946,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1579999,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 135548,
+        "quantity_sold": 12
+      },
+      ".1": {
+        "price": 432213,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 1279999,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 2719999,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Elmo de Guardião": {
+    "T5": {
+      ".0": {
+        "price": 6974,
+        "quantity_sold": 659
+      },
+      ".1": {
+        "price": 11596,
+        "quantity_sold": 327
+      },
+      ".2": {
+        "price": 48888,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 199929,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 19265,
+        "quantity_sold": 500
+      },
+      ".1": {
+        "price": 45929,
+        "quantity_sold": 45
+      },
+      ".2": {
+        "price": 159992,
+        "quantity_sold": 14
+      },
+      ".3": {
+        "price": 487746,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 58575,
+        "quantity_sold": 150
+      },
+      ".1": {
+        "price": 160979,
+        "quantity_sold": 16
+      },
+      ".2": {
+        "price": 599908,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1399787,
+        "quantity_sold": 3
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 134916,
+        "quantity_sold": 15
+      },
+      ".1": {
+        "price": 518888,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1335881,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 3991868,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Elmo de Guarda-tumbas": {
+    "T5": {
+      ".0": {
+        "price": 11872,
+        "quantity_sold": 494
+      },
+      ".1": {
+        "price": 15793,
+        "quantity_sold": 32
+      },
+      ".2": {
+        "price": 40495,
+        "quantity_sold": 18
+      },
+      ".3": {
+        "price": 399991,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 31493,
+        "quantity_sold": 319
+      },
+      ".1": {
+        "price": 53991,
+        "quantity_sold": 40
+      },
+      ".2": {
+        "price": 195998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 503979,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 67986,
+        "quantity_sold": 56
+      },
+      ".1": {
+        "price": 160000,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 599878,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1498970,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 297996,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 640000,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1419980,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 2499979,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sandálias de Erudito": {
+    "T5": {
+      ".0": {
+        "price": 8533,
+        "quantity_sold": 592
+      },
+      ".1": {
+        "price": 17516,
+        "quantity_sold": 140
+      },
+      ".2": {
+        "price": 43498,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 161000,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 25982,
+        "quantity_sold": 342
+      },
+      ".1": {
+        "price": 40937,
+        "quantity_sold": 84
+      },
+      ".2": {
+        "price": 156666,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 429996,
+        "quantity_sold": 4
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 51980,
+        "quantity_sold": 126
+      },
+      ".1": {
+        "price": 136998,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 456999,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1389995,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 160996,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 380863,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 1279000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 3759000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sandálias de Clérigo": {
+    "T5": {
+      ".0": {
+        "price": 8452,
+        "quantity_sold": 591
+      },
+      ".1": {
+        "price": 19848,
+        "quantity_sold": 87
+      },
+      ".2": {
+        "price": 47000,
+        "quantity_sold": 45
+      },
+      ".3": {
+        "price": 154997,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 19978,
+        "quantity_sold": 425
+      },
+      ".1": {
+        "price": 40899,
+        "quantity_sold": 58
+      },
+      ".2": {
+        "price": 152219,
+        "quantity_sold": 24
+      },
+      ".3": {
+        "price": 470937,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 51688,
+        "quantity_sold": 120
+      },
+      ".1": {
+        "price": 147853,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 418999,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1349880,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 231098,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 448200,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1139978,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 3575985,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sandálias de Mago": {
+    "T5": {
+      ".0": {
+        "price": 9636,
+        "quantity_sold": 313
+      },
+      ".1": {
+        "price": 19969,
+        "quantity_sold": 140
+      },
+      ".2": {
+        "price": 44499,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 170000,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 22261,
+        "quantity_sold": 340
+      },
+      ".1": {
+        "price": 469800,
+        "quantity_sold": 50
+      },
+      ".2": {
+        "price": 161110,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 414996,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 540000,
+        "quantity_sold": 114
+      },
+      ".1": {
+        "price": 142999,
+        "quantity_sold": 10
+      },
+      ".2": {
+        "price": 332995,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1499987,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 159996,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 384982,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1225499,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 3999960,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sandálias de Druida": {
+    "T5": {
+      ".0": {
+        "price": 14500,
+        "quantity_sold": 413
+      },
+      ".1": {
+        "price": 29981,
+        "quantity_sold": 66
+      },
+      ".2": {
+        "price": 55879,
+        "quantity_sold": 24
+      },
+      ".3": {
+        "price": 188937,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 34999,
+        "quantity_sold": 384
+      },
+      ".1": {
+        "price": 81999,
+        "quantity_sold": 78
+      },
+      ".2": {
+        "price": 198996,
+        "quantity_sold": 23
+      },
+      ".3": {
+        "price": 495490,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 65840,
+        "quantity_sold": 117
+      },
+      ".1": {
+        "price": 159988,
+        "quantity_sold": 20
+      },
+      ".2": {
+        "price": 509940,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1499990,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 274995,
+        "quantity_sold": 32
+      },
+      ".1": {
+        "price": 615586,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1498494,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 2599999,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Sapatos de Mercenário": {
+    "T5": {
+      ".0": {
+        "price": 8206,
+        "quantity_sold": 2109
+      },
+      ".1": {
+        "price": 13266,
+        "quantity_sold": 721
+      },
+      ".2": {
+        "price": 43881,
+        "quantity_sold": 137
+      },
+      ".3": {
+        "price": 159668,
+        "quantity_sold": 19
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 25994,
+        "quantity_sold": 1886
+      },
+      ".1": {
+        "price": 49728,
+        "quantity_sold": 503
+      },
+      ".2": {
+        "price": 170952,
+        "quantity_sold": 81
+      },
+      ".3": {
+        "price": 486630,
+        "quantity_sold": 10
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 73847,
+        "quantity_sold": 462
+      },
+      ".1": {
+        "price": 163971,
+        "quantity_sold": 83
+      },
+      ".2": {
+        "price": 469970,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 1393597,
+        "quantity_sold": 3
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 167979,
+        "quantity_sold": 200
+      },
+      ".1": {
+        "price": 468000,
+        "quantity_sold": 40
+      },
+      ".2": {
+        "price": 1265855,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 3697983,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Sapatos de Caçador": {
+    "T5": {
+      ".0": {
+        "price": 8964,
+        "quantity_sold": 1140
+      },
+      ".1": {
+        "price": 12279,
+        "quantity_sold": 184
+      },
+      ".2": {
+        "price": 43981,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 192992,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 24406,
+        "quantity_sold": 408
+      },
+      ".1": {
+        "price": 41756,
+        "quantity_sold": 100
+      },
+      ".2": {
+        "price": 205664,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 41466,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 84892,
+        "quantity_sold": 63
+      },
+      ".1": {
+        "price": 249989,
+        "quantity_sold": 22
+      },
+      ".2": {
+        "price": 417946,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1645888,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 176987,
+        "quantity_sold": 11
+      },
+      ".1": {
+        "price": 398888,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 1462968,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 3399888,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sapatos de Assassino": {
+    "T5": {
+      ".0": {
+        "price": 8526,
+        "quantity_sold": 838
+      },
+      ".1": {
+        "price": 13284,
+        "quantity_sold": 153
+      },
+      ".2": {
+        "price": 43932,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 186974,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 25989,
+        "quantity_sold": 383
+      },
+      ".1": {
+        "price": 53956,
+        "quantity_sold": 61
+      },
+      ".2": {
+        "price": 187777,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 454066,
+        "quantity_sold": 4
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 84984,
+        "quantity_sold": 51
+      },
+      ".1": {
+        "price": 164914,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 1450000,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 429745,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 179990,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 462222,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1198995,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 3297000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Sapatos de Espreitador": {
+    "T5": {
+      ".0": {
+        "price": 31999,
+        "quantity_sold": 61
+      },
+      ".1": {
+        "price": 34000,
+        "quantity_sold": 90
+      },
+      ".2": {
+        "price": 62453,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 183985,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 99995,
+        "quantity_sold": 71
+      },
+      ".1": {
+        "price": 129993,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 225952,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 548996,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 128977,
+        "quantity_sold": 37
+      },
+      ".1": {
+        "price": 202996,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 600000,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1522100,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 608998,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 898200,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 1900000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4199994,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Botas de Soldado": {
+    "T5": {
+      ".0": {
+        "price": 6166,
+        "quantity_sold": 693
+      },
+      ".1": {
+        "price": 9751,
+        "quantity_sold": 320
+      },
+      ".2": {
+        "price": 43650,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 159923,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 16094,
+        "quantity_sold": 462
+      },
+      ".1": {
+        "price": 34826,
+        "quantity_sold": 67
+      },
+      ".2": {
+        "price": 141953,
+        "quantity_sold": 17
+      },
+      ".3": {
+        "price": 409994,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 42499,
+        "quantity_sold": 90
+      },
+      ".1": {
+        "price": 147973,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 495995,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 1137990,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 98987,
+        "quantity_sold": 15
+      },
+      ".1": {
+        "price": 355984,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1079878,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 2989892,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Botas de Cavaleiro": {
+    "T5": {
+      ".0": {
+        "price": 7651,
+        "quantity_sold": 797
+      },
+      ".1": {
+        "price": 11578,
+        "quantity_sold": 218
+      },
+      ".2": {
+        "price": 44276,
+        "quantity_sold": 24
+      },
+      ".3": {
+        "price": 149587,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 15998,
+        "quantity_sold": 482
+      },
+      ".1": {
+        "price": 31999,
+        "quantity_sold": 64
+      },
+      ".2": {
+        "price": 129978,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 424360,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 40999,
+        "quantity_sold": 131
+      },
+      ".1": {
+        "price": 113981,
+        "quantity_sold": 25
+      },
+      ".2": {
+        "price": 409994,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1137964,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 130952,
+        "quantity_sold": 15
+      },
+      ".1": {
+        "price": 329999,
+        "quantity_sold": 10
+      },
+      ".2": {
+        "price": 999999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 2949987,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Botas de Guardião": {
+    "T5": {
+      ".0": {
+        "price": 7872,
+        "quantity_sold": 853
+      },
+      ".1": {
+        "price": 9976,
+        "quantity_sold": 179
+      },
+      ".2": {
+        "price": 46400,
+        "quantity_sold": 20
+      },
+      ".3": {
+        "price": 167928,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 16427,
+        "quantity_sold": 654
+      },
+      ".1": {
+        "price": 29999,
+        "quantity_sold": 87
+      },
+      ".2": {
+        "price": 129996,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 430397,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 42973,
+        "quantity_sold": 104
+      },
+      ".1": {
+        "price": 116987,
+        "quantity_sold": 18
+      },
+      ".2": {
+        "price": 398988,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1149897,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 104987,
+        "quantity_sold": 25
+      },
+      ".2": {
+        "price": 1040000,
+        "quantity_sold": 2
+      },
+      ".1": {
+        "price": 299999,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 2899600,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Botas de Guarda-tumbas": {
+    "T5": {
+      ".0": {
+        "price": 19884,
+        "quantity_sold": 100
+      },
+      ".1": {
+        "price": 22500,
+        "quantity_sold": 17
+      },
+      ".2": {
+        "price": 55999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 167998,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 35999,
+        "quantity_sold": 220
+      },
+      ".1": {
+        "price": 62971,
+        "quantity_sold": 68
+      },
+      ".2": {
+        "price": 159000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 289968,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 69983,
+        "quantity_sold": 71
+      },
+      ".1": {
+        "price": 134998,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 514998,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 1669997,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 308999,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1749998,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 707200,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 4023232,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Capa": {
+    "T5": {
+      ".0": {
+        "price": 9652,
+        "quantity_sold": 1465
+      },
+      ".1": {
+        "price": 184820,
+        "quantity_sold": 286
+      },
+      ".2": {
+        "price": 49998,
+        "quantity_sold": 123
+      },
+      ".3": {
+        "price": 222219,
+        "quantity_sold": 11
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 27962,
+        "quantity_sold": 2568
+      },
+      ".1": {
+        "price": 51806,
+        "quantity_sold": 728
+      },
+      ".2": {
+        "price": 183983,
+        "quantity_sold": 144
+      },
+      ".3": {
+        "price": 497999,
+        "quantity_sold": 27
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 80639,
+        "quantity_sold": 516
+      },
+      ".1": {
+        "price": 175974,
+        "quantity_sold": 171
+      },
+      ".2": {
+        "price": 470978,
+        "quantity_sold": 35
+      },
+      ".3": {
+        "price": 1689987,
+        "quantity_sold": 6
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 189974,
+        "quantity_sold": 49
+      },
+      ".1": {
+        "price": 504991,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 1479995,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 3498884,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Bolsa": {
+    "T5": {
+      ".0": {
+        "price": 19277,
+        "quantity_sold": 1492
+      },
+      ".1": {
+        "price": 33392,
+        "quantity_sold": 739
+      },
+      ".2": {
+        "price": 89396,
+        "quantity_sold": 95
+      },
+      ".3": {
+        "price": 328795,
+        "quantity_sold": 15
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 49998,
+        "quantity_sold": 2824
+      },
+      ".1": {
+        "price": 98640,
+        "quantity_sold": 1086
+      },
+      ".2": {
+        "price": 373973,
+        "quantity_sold": 157
+      },
+      ".3": {
+        "price": 933999,
+        "quantity_sold": 37
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 145523,
+        "quantity_sold": 612
+      },
+      ".1": {
+        "price": 316981,
+        "quantity_sold": 329
+      },
+      ".2": {
+        "price": 829988,
+        "quantity_sold": 60
+      },
+      ".3": {
+        "price": 2394998,
+        "quantity_sold": 15
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 343696,
+        "quantity_sold": 33
+      },
+      ".1": {
+        "price": 823955,
+        "quantity_sold": 22
+      },
+      ".2": {
+        "price": 2869997,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 7099997,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Arco do": {
+    "T5": {
+      ".0": {
+        "price": 14538,
+        "quantity_sold": 378
+      },
+      ".1": {
+        "price": 26376,
+        "quantity_sold": 162
+      },
+      ".2": {
+        "price": 141943,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 579997,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 36795,
+        "quantity_sold": 177
+      },
+      ".1": {
+        "price": 78866,
+        "quantity_sold": 67
+      },
+      ".2": {
+        "price": 510908,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1600000,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 161789,
+        "quantity_sold": 27
+      },
+      ".1": {
+        "price": 376879,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1899991,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5749996,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 562219,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 1235998,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4848991,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 12999964,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Arco longo": {
+    "T5": {
+      ".0": {
+        "price": 145460,
+        "quantity_sold": 427
+      },
+      ".1": {
+        "price": 25995,
+        "quantity_sold": 110
+      },
+      ".2": {
+        "price": 95996,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 479896,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 30600,
+        "quantity_sold": 365
+      },
+      ".1": {
+        "price": 85916,
+        "quantity_sold": 86
+      },
+      ".2": {
+        "price": 446885,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1595074,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 167992,
+        "quantity_sold": 22
+      },
+      ".1": {
+        "price": 375923,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1529000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5629989,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 515560,
+        "quantity_sold": 8
+      },
+      ".1": {
+        "price": 1102973,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 5409998,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Arco de Guerra": {
+    "T5": {
+      ".0": {
+        "price": 16027,
+        "quantity_sold": 394
+      },
+      ".1": {
+        "price": 25491,
+        "quantity_sold": 143
+      },
+      ".2": {
+        "price": 139994,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 599990,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 32996,
+        "quantity_sold": 277
+      },
+      ".1": {
+        "price": 89997,
+        "quantity_sold": 68
+      },
+      ".2": {
+        "price": 520977,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 1650997,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 178997,
+        "quantity_sold": 44
+      },
+      ".1": {
+        "price": 409997,
+        "quantity_sold": 9
+      },
+      ".2": {
+        "price": 1550998,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 5200000,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 642219,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 1149945,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4790938,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 11999999,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Besta do": {
+    "T5": {
+      ".0": {
+        "price": 23079,
+        "quantity_sold": 130
+      },
+      ".1": {
+        "price": 45452,
+        "quantity_sold": 31
+      },
+      ".2": {
+        "price": 169999,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 699899,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 62299,
+        "quantity_sold": 124
+      },
+      ".1": {
+        "price": 125479,
+        "quantity_sold": 19
+      },
+      ".2": {
+        "price": 629997,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1748979,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 237407,
+        "quantity_sold": 18
+      },
+      ".1": {
+        "price": 550992,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1849998,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 5799895,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 649995,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 1740142,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 4979488,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 17075344,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Besta Pesada": {
+    "T5": {
+      ".0": {
+        "price": 29943,
+        "quantity_sold": 247
+      },
+      ".1": {
+        "price": 48993,
+        "quantity_sold": 91
+      },
+      ".2": {
+        "price": 190907,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 626983,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 59646,
+        "quantity_sold": 114
+      },
+      ".1": {
+        "price": 143498,
+        "quantity_sold": 30
+      },
+      ".2": {
+        "price": 615977,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1900000,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 205552,
+        "quantity_sold": 34
+      },
+      ".1": {
+        "price": 586947,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1795946,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 4985999,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 644999,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 1839797,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 4899999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 13229995,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Besta Leve": {
+    "T5": {
+      ".0": {
+        "price": 18259,
+        "quantity_sold": 647
+      },
+      ".1": {
+        "price": 43787,
+        "quantity_sold": 143
+      },
+      ".2": {
+        "price": 129997,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 494999,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 50991,
+        "quantity_sold": 479
+      },
+      ".1": {
+        "price": 128983,
+        "quantity_sold": 128
+      },
+      ".2": {
+        "price": 504382,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1299999,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 158885,
+        "quantity_sold": 109
+      },
+      ".1": {
+        "price": 451039,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 1100000,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 3987651,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 515554,
+        "quantity_sold": 26
+      },
+      ".1": {
+        "price": 1419988,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 3499977,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4242524,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Machado de Guerra": {
+    "T5": {
+      ".0": {
+        "price": 14758,
+        "quantity_sold": 366
+      },
+      ".1": {
+        "price": 26790,
+        "quantity_sold": 51
+      },
+      ".2": {
+        "price": 97902,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 442233,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 35963,
+        "quantity_sold": 186
+      },
+      ".1": {
+        "price": 109950,
+        "quantity_sold": 45
+      },
+      ".2": {
+        "price": 507999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1000000,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 177998,
+        "quantity_sold": 20
+      },
+      ".1": {
+        "price": 500000,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1584001,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 3754972,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 488968,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 1129996,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 4399983,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6999996,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Machadão": {
+    "T5": {
+      ".0": {
+        "price": 29472,
+        "quantity_sold": 252
+      },
+      ".1": {
+        "price": 58995,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 176821,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 668885,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 60982,
+        "quantity_sold": 156
+      },
+      ".1": {
+        "price": 126444,
+        "quantity_sold": 16
+      },
+      ".2": {
+        "price": 690000,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1729992,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 216492,
+        "quantity_sold": 35
+      },
+      ".1": {
+        "price": 457970,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1700175,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5269999,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 619950,
+        "quantity_sold": 3
+      },
+      ".1": {
+        "price": 1889979,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 5150000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Alabarda": {
+    "T5": {
+      ".0": {
+        "price": 33678,
+        "quantity_sold": 165
+      },
+      ".1": {
+        "price": 36749,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 159998,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 569991,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 56797,
+        "quantity_sold": 167
+      },
+      ".1": {
+        "price": 98689,
+        "quantity_sold": 44
+      },
+      ".2": {
+        "price": 549998,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1798977,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 199981,
+        "quantity_sold": 35
+      },
+      ".1": {
+        "price": 500929,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 1769882,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5999990,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 461992,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 1669997,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 5749989,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 10500000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Adaga do": {
+    "T5": {
+      ".0": {
+        "price": 25688,
+        "quantity_sold": 284
+      },
+      ".1": {
+        "price": 40771,
+        "quantity_sold": 26
+      },
+      ".2": {
+        "price": 159784,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 532963,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 55950,
+        "quantity_sold": 73
+      },
+      ".1": {
+        "price": 145000,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 568996,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1350000,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 189730,
+        "quantity_sold": 16
+      },
+      ".1": {
+        "price": 543931,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 1700000,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 4259000,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 449999,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1285000,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 4759600,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5298998,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Par de Adagas": {
+    "T5": {
+      ".0": {
+        "price": 29999,
+        "quantity_sold": 216
+      },
+      ".1": {
+        "price": 68067,
+        "quantity_sold": 41
+      },
+      ".2": {
+        "price": 198687,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 719983,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 739340,
+        "quantity_sold": 90
+      },
+      ".1": {
+        "price": 140000,
+        "quantity_sold": 30
+      },
+      ".2": {
+        "price": 689999,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1849996,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 237872,
+        "quantity_sold": 21
+      },
+      ".1": {
+        "price": 654993,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1798988,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5695991,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 791000,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 1689997,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 6149976,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 16000000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Garras do": {
+    "T5": {
+      ".0": {
+        "price": 34435,
+        "quantity_sold": 128
+      },
+      ".1": {
+        "price": 56298,
+        "quantity_sold": 23
+      },
+      ".2": {
+        "price": 179959,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 799996,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 80920,
+        "quantity_sold": 119
+      },
+      ".1": {
+        "price": 166993,
+        "quantity_sold": 26
+      },
+      ".2": {
+        "price": 724000,
+        "quantity_sold": 11
+      },
+      ".3": {
+        "price": 1796663,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 264462,
+        "quantity_sold": 25
+      },
+      ".1": {
+        "price": 679000,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 1999883,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 4599900,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 744443,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 2091999,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 6999999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 13500000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Martelo do": {
+    "T5": {
+      ".0": {
+        "price": 23692,
+        "quantity_sold": 159
+      },
+      ".1": {
+        "price": 429360,
+        "quantity_sold": 37
+      },
+      ".2": {
+        "price": 149994,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 526893,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 57200,
+        "quantity_sold": 319
+      },
+      ".1": {
+        "price": 154995,
+        "quantity_sold": 53
+      },
+      ".2": {
+        "price": 414953,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1393531,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 249996,
+        "quantity_sold": 28
+      },
+      ".1": {
+        "price": 439898,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1385999,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 4777777,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 498888,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 1450993,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 4395813,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 8389999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Martelo Elevado": {
+    "T5": {
+      ".0": {
+        "price": 33482,
+        "quantity_sold": 318
+      },
+      ".1": {
+        "price": 56787,
+        "quantity_sold": 32
+      },
+      ".2": {
+        "price": 182943,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 689000,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 69994,
+        "quantity_sold": 100
+      },
+      ".1": {
+        "price": 192423,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 702985,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 1645988,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 266997,
+        "quantity_sold": 18
+      },
+      ".1": {
+        "price": 539997,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1730999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5799974,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 699995,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1690998,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 6588784,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 14999989,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Martelo de Batalha": {
+    "T5": {
+      ".0": {
+        "price": 35533,
+        "quantity_sold": 124
+      },
+      ".1": {
+        "price": 48550,
+        "quantity_sold": 28
+      },
+      ".2": {
+        "price": 197797,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 699954,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 73941,
+        "quantity_sold": 90
+      },
+      ".1": {
+        "price": 178000,
+        "quantity_sold": 19
+      },
+      ".2": {
+        "price": 651975,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 1698989,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 279987,
+        "quantity_sold": 38
+      },
+      ".1": {
+        "price": 708919,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 1999996,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 5999985,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 920997,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1809879,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4999989,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 14999993,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Luvas de Lutador": {
+    "T5": {
+      ".0": {
+        "price": 41375,
+        "quantity_sold": 166
+      },
+      ".1": {
+        "price": 85915,
+        "quantity_sold": 37
+      },
+      ".2": {
+        "price": 208965,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 639998,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 94766,
+        "quantity_sold": 75
+      },
+      ".1": {
+        "price": 189472,
+        "quantity_sold": 15
+      },
+      ".2": {
+        "price": 624996,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 1698884,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 344006,
+        "quantity_sold": 18
+      },
+      ".1": {
+        "price": 779999,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1999998,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4999997,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 638953,
+        "quantity_sold": 9
+      },
+      ".1": {
+        "price": 1990170,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 4695970,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 11345152,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Braçadeiras de Batalha": {
+    "T5": {
+      ".0": {
+        "price": 43488,
+        "quantity_sold": 145
+      },
+      ".1": {
+        "price": 69442,
+        "quantity_sold": 63
+      },
+      ".2": {
+        "price": 214769,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 748991,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 117899,
+        "quantity_sold": 161
+      },
+      ".1": {
+        "price": 216983,
+        "quantity_sold": 21
+      },
+      ".2": {
+        "price": 1090000,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 1699999,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 339058,
+        "quantity_sold": 17
+      },
+      ".1": {
+        "price": 845000,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 2011849,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5999998,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 888888,
+        "quantity_sold": 3
+      },
+      ".1": {
+        "price": 1749984,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 5989995,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Manoplas Cravadas": {
+    "T5": {
+      ".0": {
+        "price": 38668,
+        "quantity_sold": 135
+      },
+      ".1": {
+        "price": 59407,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 204992,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 576999,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 98016,
+        "quantity_sold": 253
+      },
+      ".1": {
+        "price": 214433,
+        "quantity_sold": 16
+      },
+      ".2": {
+        "price": 699999,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1799999,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 336886,
+        "quantity_sold": 18
+      },
+      ".1": {
+        "price": 679993,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 2149900,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5538998,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 688888,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 1778978,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 5377980,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 13499998,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Bordão do": {
+    "T5": {
+      ".0": {
+        "price": 46878,
+        "quantity_sold": 120
+      },
+      ".1": {
+        "price": 65677,
+        "quantity_sold": 46
+      },
+      ".2": {
+        "price": 204855,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 699994,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 129979,
+        "quantity_sold": 60
+      },
+      ".1": {
+        "price": 199995,
+        "quantity_sold": 28
+      },
+      ".2": {
+        "price": 688879,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1665531,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 299996,
+        "quantity_sold": 10
+      },
+      ".1": {
+        "price": 671107,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1808998,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5399975,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 766666,
+        "quantity_sold": 11
+      },
+      ".1": {
+        "price": 1811979,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 5999970,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Férreo": {
+    "T5": {
+      ".0": {
+        "price": 46799,
+        "quantity_sold": 163
+      },
+      ".1": {
+        "price": 69466,
+        "quantity_sold": 11
+      },
+      ".2": {
+        "price": 224190,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 665990,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 138989,
+        "quantity_sold": 65
+      },
+      ".1": {
+        "price": 187755,
+        "quantity_sold": 31
+      },
+      ".2": {
+        "price": 890000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1789997,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 309473,
+        "quantity_sold": 22
+      },
+      ".1": {
+        "price": 641982,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1890103,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5099991,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 857988,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 2211287,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 5469984,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 11999192,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Bilaminado": {
+    "T5": {
+      ".0": {
+        "price": 50880,
+        "quantity_sold": 94
+      },
+      ".1": {
+        "price": 74421,
+        "quantity_sold": 29
+      },
+      ".2": {
+        "price": 227947,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 737645,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 124930,
+        "quantity_sold": 58
+      },
+      ".1": {
+        "price": 256634,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 790000,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1690990,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 297754,
+        "quantity_sold": 23
+      },
+      ".1": {
+        "price": 826000,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 1798895,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5999897,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 818998,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 2109999,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 5398884,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 9000000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Lança do": {
+    "T5": {
+      ".0": {
+        "price": 19586,
+        "quantity_sold": 104
+      },
+      ".1": {
+        "price": 39776,
+        "quantity_sold": 26
+      },
+      ".2": {
+        "price": 96643,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 549987,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 52479,
+        "quantity_sold": 83
+      },
+      ".1": {
+        "price": 145554,
+        "quantity_sold": 39
+      },
+      ".2": {
+        "price": 440374,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 1447938,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 199999,
+        "quantity_sold": 18
+      },
+      ".1": {
+        "price": 429963,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1455683,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 4644944,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 589994,
+        "quantity_sold": 3
+      },
+      ".1": {
+        "price": 1221984,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 4749980,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 8999999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Pique": {
+    "T5": {
+      ".0": {
+        "price": 32577,
+        "quantity_sold": 165
+      },
+      ".1": {
+        "price": 56931,
+        "quantity_sold": 33
+      },
+      ".2": {
+        "price": 181949,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 649995,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 74986,
+        "quantity_sold": 72
+      },
+      ".1": {
+        "price": 135549,
+        "quantity_sold": 31
+      },
+      ".2": {
+        "price": 581096,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1784990,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 338000,
+        "quantity_sold": 27
+      },
+      ".1": {
+        "price": 508067,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1811098,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5300000,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 828888,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 1657975,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 5079994,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 14999994,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Archa": {
+    "T5": {
+      ".0": {
+        "price": 34129,
+        "quantity_sold": 91
+      },
+      ".1": {
+        "price": 40651,
+        "quantity_sold": 69
+      },
+      ".2": {
+        "price": 159098,
+        "quantity_sold": 13
+      },
+      ".3": {
+        "price": 587994,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 78996,
+        "quantity_sold": 88
+      },
+      ".1": {
+        "price": 133322,
+        "quantity_sold": 53
+      },
+      ".2": {
+        "price": 525000,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 1855976,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 219992,
+        "quantity_sold": 21
+      },
+      ".1": {
+        "price": 552177,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 1799999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5499999,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 696000,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 1549994,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 5910411,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 13000000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Espada Larga": {
+    "T5": {
+      ".0": {
+        "price": 25540,
+        "quantity_sold": 141
+      },
+      ".1": {
+        "price": 35008,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 179998,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 553994,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 40947,
+        "quantity_sold": 166
+      },
+      ".1": {
+        "price": 164994,
+        "quantity_sold": 33
+      },
+      ".2": {
+        "price": 496994,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1424990,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 152222,
+        "quantity_sold": 28
+      },
+      ".1": {
+        "price": 483000,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1565440,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4490984,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 77777,
+        "quantity_sold": 8
+      },
+      ".1": {
+        "price": 1674988,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4400000,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 11499997,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Montante": {
+    "T5": {
+      ".0": {
+        "price": 41935,
+        "quantity_sold": 154
+      },
+      ".1": {
+        "price": 55572,
+        "quantity_sold": 74
+      },
+      ".2": {
+        "price": 237980,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 609959,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 90908,
+        "quantity_sold": 280
+      },
+      ".1": {
+        "price": 192988,
+        "quantity_sold": 35
+      },
+      ".2": {
+        "price": 692000,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1738999,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 275997,
+        "quantity_sold": 30
+      },
+      ".1": {
+        "price": 629977,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 1888875,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5797989,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 614443,
+        "quantity_sold": 12
+      },
+      ".1": {
+        "price": 2191985,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 5989948,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 17999997,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Espadas Duplas": {
+    "T5": {
+      ".0": {
+        "price": 41792,
+        "quantity_sold": 140
+      },
+      ".1": {
+        "price": 44491,
+        "quantity_sold": 87
+      },
+      ".2": {
+        "price": 164157,
+        "quantity_sold": 23
+      },
+      ".3": {
+        "price": 627742,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 90055,
+        "quantity_sold": 198
+      },
+      ".1": {
+        "price": 186990,
+        "quantity_sold": 18
+      },
+      ".2": {
+        "price": 760092,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1699998,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 329998,
+        "quantity_sold": 15
+      },
+      ".1": {
+        "price": 809996,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 2146437,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 7999993,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 697906,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 1899996,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 8699999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 15199992,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Arcano do": {
+    "T5": {
+      ".0": {
+        "price": 15780,
+        "quantity_sold": 164
+      },
+      ".1": {
+        "price": 18746,
+        "quantity_sold": 146
+      },
+      ".2": {
+        "price": 73968,
+        "quantity_sold": 15
+      },
+      ".3": {
+        "price": 199769,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 22777,
+        "quantity_sold": 601
+      },
+      ".1": {
+        "price": 55999,
+        "quantity_sold": 59
+      },
+      ".2": {
+        "price": 141898,
+        "quantity_sold": 29
+      },
+      ".3": {
+        "price": 509983,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 51991,
+        "quantity_sold": 453
+      },
+      ".1": {
+        "price": 133996,
+        "quantity_sold": 124
+      },
+      ".2": {
+        "price": 507187,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 1644391,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 197761,
+        "quantity_sold": 75
+      },
+      ".1": {
+        "price": 466833,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 1387410,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 4199910,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Arcano Elevado": {
+    "T5": {
+      ".0": {
+        "price": 26815,
+        "quantity_sold": 135
+      },
+      ".1": {
+        "price": 39990,
+        "quantity_sold": 77
+      },
+      ".2": {
+        "price": 195994,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 687951,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 73947,
+        "quantity_sold": 148
+      },
+      ".1": {
+        "price": 166665,
+        "quantity_sold": 23
+      },
+      ".2": {
+        "price": 638996,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1749998,
+        "quantity_sold": 4
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 267777,
+        "quantity_sold": 27
+      },
+      ".1": {
+        "price": 581848,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1830999,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 5699961,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 779997,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 1397000,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 5899975,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 13499998,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Enigmático": {
+    "T5": {
+      ".0": {
+        "price": 34327,
+        "quantity_sold": 286
+      },
+      ".1": {
+        "price": 49493,
+        "quantity_sold": 52
+      },
+      ".2": {
+        "price": 195490,
+        "quantity_sold": 14
+      },
+      ".3": {
+        "price": 722100,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 80895,
+        "quantity_sold": 222
+      },
+      ".1": {
+        "price": 116000,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 742993,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1795935,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 242965,
+        "quantity_sold": 39
+      },
+      ".1": {
+        "price": 456000,
+        "quantity_sold": 11
+      },
+      ".2": {
+        "price": 1769970,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5938984,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 687993,
+        "quantity_sold": 11
+      },
+      ".1": {
+        "price": 1680998,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 5599900,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 10000000,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Amaldiçoado": {
+    "T5": {
+      ".0": {
+        "price": 8368,
+        "quantity_sold": 331
+      },
+      ".1": {
+        "price": 142660,
+        "quantity_sold": 93
+      },
+      ".2": {
+        "price": 30983,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 121280,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 19769,
+        "quantity_sold": 564
+      },
+      ".1": {
+        "price": 40766,
+        "quantity_sold": 61
+      },
+      ".2": {
+        "price": 90000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 420995,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 52040,
+        "quantity_sold": 117
+      },
+      ".1": {
+        "price": 128983,
+        "quantity_sold": 41
+      },
+      ".2": {
+        "price": 417997,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 1294540,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 157382,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 360965,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1369990,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4199997,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Amaldiçoado Elevado": {
+    "T5": {
+      ".0": {
+        "price": 27976,
+        "quantity_sold": 125
+      },
+      ".1": {
+        "price": 48488,
+        "quantity_sold": 21
+      },
+      ".2": {
+        "price": 164994,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 529999,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 69880,
+        "quantity_sold": 98
+      },
+      ".1": {
+        "price": 177777,
+        "quantity_sold": 28
+      },
+      ".2": {
+        "price": 749999,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1660998,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 233000,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 474998,
+        "quantity_sold": 9
+      },
+      ".2": {
+        "price": 1748999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 4894997,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 652216,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1789997,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 4859973,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 12989999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Demoníaco": {
+    "T5": {
+      ".0": {
+        "price": 34319,
+        "quantity_sold": 103
+      },
+      ".1": {
+        "price": 47495,
+        "quantity_sold": 30
+      },
+      ".2": {
+        "price": 180840,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 560884,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 77600,
+        "quantity_sold": 96
+      },
+      ".1": {
+        "price": 176884,
+        "quantity_sold": 28
+      },
+      ".2": {
+        "price": 651991,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1709991,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 217000,
+        "quantity_sold": 35
+      },
+      ".1": {
+        "price": 520970,
+        "quantity_sold": 7
+      },
+      ".2": {
+        "price": 1670109,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 5400000,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 682443,
+        "quantity_sold": 7
+      },
+      ".1": {
+        "price": 1709999,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4089999,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 10997989,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado de Fogo do": {
+    "T5": {
+      ".0": {
+        "price": 15990,
+        "quantity_sold": 344
+      },
+      ".1": {
+        "price": 65000,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 144961,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 496965,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 53600,
+        "quantity_sold": 76
+      },
+      ".1": {
+        "price": 169499,
+        "quantity_sold": 20
+      },
+      ".2": {
+        "price": 600000,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1405000,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 164429,
+        "quantity_sold": 19
+      },
+      ".1": {
+        "price": 439960,
+        "quantity_sold": 8
+      },
+      ".2": {
+        "price": 1422640,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4499985,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 621797,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 1119990,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 4339890,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 12851834,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado de Fogo Elevado": {
+    "T5": {
+      ".0": {
+        "price": 25083,
+        "quantity_sold": 148
+      },
+      ".1": {
+        "price": 51059,
+        "quantity_sold": 46
+      },
+      ".2": {
+        "price": 192109,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 639959,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 83500,
+        "quantity_sold": 8
+      },
+      ".1": {
+        "price": 173327,
+        "quantity_sold": 19
+      },
+      ".2": {
+        "price": 606666,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 1758888,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 240995,
+        "quantity_sold": 19
+      },
+      ".1": {
+        "price": 542105,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1697993,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5599978,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 677775,
+        "quantity_sold": 5
+      },
+      ".1": {
+        "price": 1497989,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 5749995,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 10888800,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Cajado Infernal": {
+    "T5": {
+      ".0": {
+        "price": 31104,
+        "quantity_sold": 119
+      },
+      ".1": {
+        "price": 68866,
+        "quantity_sold": 43
+      },
+      ".2": {
+        "price": 199952,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 689986,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 79969,
+        "quantity_sold": 96
+      },
+      ".1": {
+        "price": 170546,
+        "quantity_sold": 43
+      },
+      ".2": {
+        "price": 673998,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1778907,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 265551,
+        "quantity_sold": 34
+      },
+      ".1": {
+        "price": 619996,
+        "quantity_sold": 13
+      },
+      ".2": {
+        "price": 1799000,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 6000000,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 781109,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1599985,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 4999994,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 15441551,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado de Gelo do": {
+    "T5": {
+      ".0": {
+        "price": 7079,
+        "quantity_sold": 286
+      },
+      ".1": {
+        "price": 9889,
+        "quantity_sold": 120
+      },
+      ".2": {
+        "price": 28477,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 147421,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 14371,
+        "quantity_sold": 267
+      },
+      ".1": {
+        "price": 24688,
+        "quantity_sold": 124
+      },
+      ".2": {
+        "price": 119500,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 537640,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 30484,
+        "quantity_sold": 164
+      },
+      ".1": {
+        "price": 74697,
+        "quantity_sold": 62
+      },
+      ".2": {
+        "price": 422222,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 1394884,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 129987,
+        "quantity_sold": 23
+      },
+      ".1": {
+        "price": 303846,
+        "quantity_sold": 11
+      },
+      ".2": {
+        "price": 1184971,
+        "quantity_sold": 2
+      }
+    }
+  },
+  "Cajado de Gelo Elevado": {
+    "T5": {
+      ".0": {
+        "price": 29312,
+        "quantity_sold": 301
+      },
+      ".1": {
+        "price": 39597,
+        "quantity_sold": 50
+      },
+      ".2": {
+        "price": 175105,
+        "quantity_sold": 18
+      },
+      ".3": {
+        "price": 655543,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 50985,
+        "quantity_sold": 149
+      },
+      ".1": {
+        "price": 118886,
+        "quantity_sold": 44
+      },
+      ".2": {
+        "price": 496999,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1557769,
+        "quantity_sold": 3
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 164986,
+        "quantity_sold": 51
+      },
+      ".1": {
+        "price": 454998,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1599991,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5348990,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 548888,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 1420000,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 5579990,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 13594322,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Glacial": {
+    "T5": {
+      ".0": {
+        "price": 27247,
+        "quantity_sold": 155
+      },
+      ".1": {
+        "price": 40488,
+        "quantity_sold": 75
+      },
+      ".2": {
+        "price": 171996,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 569991,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 49922,
+        "quantity_sold": 199
+      },
+      ".1": {
+        "price": 102215,
+        "quantity_sold": 60
+      },
+      ".2": {
+        "price": 520680,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1743909,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 163999,
+        "quantity_sold": 33
+      },
+      ".1": {
+        "price": 490997,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1779987,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 5298424,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 579999,
+        "quantity_sold": 8
+      },
+      ".1": {
+        "price": 1323996,
+        "quantity_sold": 1
+      },
+      ".2": {
+        "price": 5400000,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 12999998,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Sagrado do": {
+    "T5": {
+      ".0": {
+        "price": 19974,
+        "quantity_sold": 293
+      },
+      ".1": {
+        "price": 40995,
+        "quantity_sold": 67
+      },
+      ".2": {
+        "price": 127981,
+        "quantity_sold": 4
+      },
+      ".3": {
+        "price": 485514,
+        "quantity_sold": 3
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 58994,
+        "quantity_sold": 88
+      },
+      ".1": {
+        "price": 152722,
+        "quantity_sold": 32
+      },
+      ".2": {
+        "price": 575999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 1341829,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 214996,
+        "quantity_sold": 19
+      },
+      ".1": {
+        "price": 463945,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 1440954,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 4399994,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 512220,
+        "quantity_sold": 1
+      },
+      ".1": {
+        "price": 1597989,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 3979995,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 8888885,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Sagrado Elevado": {
+    "T5": {
+      ".0": {
+        "price": 34760,
+        "quantity_sold": 130
+      },
+      ".1": {
+        "price": 52208,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 170983,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 620000,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 84639,
+        "quantity_sold": 146
+      },
+      ".1": {
+        "price": 186065,
+        "quantity_sold": 32
+      },
+      ".2": {
+        "price": 449996,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1700934,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 222204,
+        "quantity_sold": 25
+      },
+      ".1": {
+        "price": 581987,
+        "quantity_sold": 12
+      },
+      ".2": {
+        "price": 1990984,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 5980000,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 522222,
+        "quantity_sold": 6
+      },
+      ".1": {
+        "price": 1639998,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 5198998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 13999998,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Divino": {
+    "T5": {
+      ".0": {
+        "price": 35095,
+        "quantity_sold": 120
+      },
+      ".1": {
+        "price": 49192,
+        "quantity_sold": 70
+      },
+      ".2": {
+        "price": 169990,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 489989,
+        "quantity_sold": 5
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 73647,
+        "quantity_sold": 102
+      },
+      ".1": {
+        "price": 146665,
+        "quantity_sold": 30
+      },
+      ".2": {
+        "price": 555555,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 1699989,
+        "quantity_sold": 2
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 216664,
+        "quantity_sold": 45
+      },
+      ".1": {
+        "price": 480096,
+        "quantity_sold": 4
+      },
+      ".2": {
+        "price": 1799877,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5499997,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 568887,
+        "quantity_sold": 2
+      },
+      ".1": {
+        "price": 1729996,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 4899995,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 11999999,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Cajado da Natureza do": {
+    "T5": {
+      ".0": {
+        "price": 19284,
+        "quantity_sold": 190
+      },
+      ".1": {
+        "price": 34968,
+        "quantity_sold": 19
+      },
+      ".2": {
+        "price": 127980,
+        "quantity_sold": 10
+      },
+      ".3": {
+        "price": 549497,
+        "quantity_sold": 1
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 46997,
+        "quantity_sold": 231
+      },
+      ".1": {
+        "price": 159975,
+        "quantity_sold": 18
+      },
+      ".2": {
+        "price": 519888,
+        "quantity_sold": 5
+      },
+      ".3": {
+        "price": 1497881,
+        "quantity_sold": 0
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 198869,
+        "quantity_sold": 21
+      },
+      ".1": {
+        "price": 410109,
+        "quantity_sold": 5
+      },
+      ".2": {
+        "price": 1299999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 4111,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 624481,
+        "quantity_sold": 12
+      },
+      ".1": {
+        "price": 1310988,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 3099988,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6899948,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado da Natureza Elevado": {
+    "T5": {
+      ".0": {
+        "price": 30973,
+        "quantity_sold": 264
+      },
+      ".1": {
+        "price": 60931,
+        "quantity_sold": 47
+      },
+      ".2": {
+        "price": 134988,
+        "quantity_sold": 37
+      },
+      ".3": {
+        "price": 644982,
+        "quantity_sold": 2
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 7720026,
+        "quantity_sold": 147
+      },
+      ".1": {
+        "price": 196994,
+        "quantity_sold": 14
+      },
+      ".2": {
+        "price": 688888,
+        "quantity_sold": 7
+      },
+      ".3": {
+        "price": 1749997,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 277777,
+        "quantity_sold": 22
+      },
+      ".1": {
+        "price": 639976,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1689999,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 6199999,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 935547,
+        "quantity_sold": 4
+      },
+      ".1": {
+        "price": 1780000,
+        "quantity_sold": 0
+      },
+      ".2": {
+        "price": 6299949,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 13999999,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Cajado Selvagem": {
+    "T5": {
+      ".0": {
+        "price": 29991,
+        "quantity_sold": 116
+      },
+      ".1": {
+        "price": 44496,
+        "quantity_sold": 68
+      },
+      ".2": {
+        "price": 167996,
+        "quantity_sold": 9
+      },
+      ".3": {
+        "price": 533876,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 63997,
+        "quantity_sold": 104
+      },
+      ".1": {
+        "price": 164000,
+        "quantity_sold": 38
+      },
+      ".2": {
+        "price": 666666,
+        "quantity_sold": 8
+      },
+      ".3": {
+        "price": 1859995,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 236666,
+        "quantity_sold": 54
+      },
+      ".1": {
+        "price": 505958,
+        "quantity_sold": 3
+      },
+      ".2": {
+        "price": 1889960,
+        "quantity_sold": 3
+      },
+      ".3": {
+        "price": 5100000,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 654442,
+        "quantity_sold": 3
+      },
+      ".1": {
+        "price": 1790996,
+        "quantity_sold": 2
+      },
+      ".2": {
+        "price": 4249996,
+        "quantity_sold": 0
+      },
+      ".3": {
+        "price": 8999990,
+        "quantity_sold": 0
+      }
+    }
+  },
+  "Tomo de Feitiços": {
+    "T5": {
+      ".0": {
+        "price": 7586,
+        "quantity_sold": 122
+      },
+      ".1": {
+        "price": 39979,
+        "quantity_sold": 119
+      },
+      ".2": {
+        "price": 56486,
+        "quantity_sold": 44
+      },
+      ".3": {
+        "price": 206796,
+        "quantity_sold": 4
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 263000,
+        "quantity_sold": 374
+      },
+      ".1": {
+        "price": 40199,
+        "quantity_sold": 80
+      },
+      ".2": {
+        "price": 131982,
+        "quantity_sold": 12
+      },
+      ".3": {
+        "price": 480000,
+        "quantity_sold": 1
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 67999,
+        "quantity_sold": 114
+      },
+      ".1": {
+        "price": 142962,
+        "quantity_sold": 20
+      },
+      ".2": {
+        "price": 459998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 1299944,
+        "quantity_sold": 1
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 163958,
+        "quantity_sold": 14
+      },
+      ".1": {
+        "price": 379947,
+        "quantity_sold": 6
+      },
+      ".2": {
+        "price": 1420998,
+        "quantity_sold": 1
+      },
+      ".3": {
+        "price": 3840279,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Tocha do": {
+    "T5": {
+      ".0": {
+        "price": 4945,
+        "quantity_sold": 645
+      },
+      ".1": {
+        "price": 5996,
+        "quantity_sold": 186
+      },
+      ".2": {
+        "price": 18975,
+        "quantity_sold": 13
+      },
+      ".3": {
+        "price": 53968,
+        "quantity_sold": 0
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 8173,
+        "quantity_sold": 158
+      },
+      ".1": {
+        "price": 14198,
+        "quantity_sold": 43
+      },
+      ".2": {
+        "price": 42552,
+        "quantity_sold": 16
+      },
+      ".3": {
+        "price": 176963,
+        "quantity_sold": 5
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 19576,
+        "quantity_sold": 210
+      },
+      ".1": {
+        "price": 52206,
+        "quantity_sold": 46
+      },
+      ".2": {
+        "price": 138999,
+        "quantity_sold": 6
+      },
+      ".3": {
+        "price": 388888,
+        "quantity_sold": 2
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 52995,
+        "quantity_sold": 69
+      },
+      ".1": {
+        "price": 145000,
+        "quantity_sold": 10
+      },
+      ".2": {
+        "price": 420983,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 1393989,
+        "quantity_sold": 1
+      }
+    }
+  },
+  "Escudo do": {
+    "T5": {
+      ".0": {
+        "price": 569,
+        "quantity_sold": 658
+      },
+      ".1": {
+        "price": 569,
+        "quantity_sold": 658
+      },
+      ".2": {
+        "price": 569,
+        "quantity_sold": 658
+      },
+      ".3": {
+        "price": 569,
+        "quantity_sold": 658
+      }
+    },
+    "T6": {
+      ".0": {
+        "price": 3960,
+        "quantity_sold": 544
+      },
+      ".1": {
+        "price": 3960,
+        "quantity_sold": 544
+      },
+      ".2": {
+        "price": 3960,
+        "quantity_sold": 544
+      },
+      ".3": {
+        "price": 3960,
+        "quantity_sold": 544
+      }
+    },
+    "T7": {
+      ".0": {
+        "price": 4398,
+        "quantity_sold": 309
+      },
+      ".1": {
+        "price": 3851,
+        "quantity_sold": 281
+      },
+      ".2": {
+        "price": 12976,
+        "quantity_sold": 32
+      },
+      ".3": {
+        "price": 111079,
+        "quantity_sold": 0
+      }
+    },
+    "T8": {
+      ".0": {
+        "price": 6893,
+        "quantity_sold": 332
+      },
+      ".1": {
+        "price": 9999,
+        "quantity_sold": 65
+      },
+      ".2": {
+        "price": 34780,
+        "quantity_sold": 19
+      },
+      ".3": {
+        "price": 180609,
+        "quantity_sold": 1
+      }
+    }
+  }
+}

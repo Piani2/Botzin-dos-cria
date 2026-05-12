@@ -1,0 +1,365 @@
+automation:
+  click_delay: 0.25
+  dropdown_open_delay: 0.18
+  dropdown_select_delay: 0.12
+  filter_settle_delay: 0.22
+  item_select_delay: 0.25
+  max_retries: 3
+  post_read_delay: 0.12
+  screenshot_delay: 0.65
+  tooltip_delay: 0.65
+black_market_ui:
+  enchant_dropdown:
+    open:
+    - 548
+    - 334
+    options:
+      '.0':
+      - 560
+      - 352
+      '.1':
+      - 557
+      - 377
+      '.2':
+      - 558
+      - 400
+      '.3':
+      - 556
+      - 422
+  item_list_first: &id001
+  - 1049
+  - 361
+  item_list_row_step: 76
+  item_list_scroll_per_row: -120
+  item_list_visible_rows: 12
+  item_paging: &id002
+    drag_duration: 0.35
+    drag_steps:
+    - end:
+      - 1122
+      - 399
+      start:
+      - 1124
+      - 364
+    - end:
+      - 1124
+      - 437
+      start:
+      - 1124
+      - 401
+    - end:
+      - 1121
+      - 468
+      start:
+      - 1124
+      - 433
+    - end:
+      - 1119
+      - 504
+      start:
+      - 1123
+      - 469
+    - end:
+      - 1121
+      - 541
+      start:
+      - 1123
+      - 505
+    - end:
+      - 1123
+      - 568
+      start:
+      - 1123
+      - 533
+    - end:
+      - 1126
+      - 611
+      start:
+      - 1124
+      - 576
+    - end:
+      - 1126
+      - 641
+      start:
+      - 1124
+      - 605
+    - end:
+      - 1127
+      - 679
+      start:
+      - 1126
+      - 641
+    enabled: true
+    method: drag
+    page_row_positions:
+      '9':
+      - - 1046
+        - 523
+      - - 1046
+        - 602
+      - - 1050
+        - 673
+    page_size: 5
+    profile: armas
+    reset_key: home
+    row_positions:
+    - *id001
+    - - 1050
+      - 437
+    - - 1050
+      - 510
+    - - 1047
+      - 585
+    - - 1049
+      - 664
+    total_items: 48
+  item_paging_profiles:
+    '38': &id003
+      drag_duration: 0.35
+      drag_steps:
+      - end:
+        - 1123
+        - 412
+        start:
+        - 1123
+        - 367
+      - end:
+        - 1121
+        - 456
+        start:
+        - 1123
+        - 411
+      - end:
+        - 1120
+        - 502
+        start:
+        - 1124
+        - 458
+      - end:
+        - 1126
+        - 546
+        start:
+        - 1126
+        - 502
+      - end:
+        - 1125
+        - 592
+        start:
+        - 1125
+        - 546
+      - end:
+        - 1121
+        - 637
+        start:
+        - 1125
+        - 592
+      - end:
+        - 1124
+        - 681
+        start:
+        - 1123
+        - 637
+      enabled: true
+      method: drag
+      page_row_positions:
+        '7':
+        - - 1046
+          - 528
+        - - 1049
+          - 600
+        - - 1045
+          - 675
+      page_size: 5
+      profile: armaduras
+      reset_key: home
+      row_positions:
+      - - 1048
+        - 359
+      - - 1047
+        - 437
+      - - 1046
+        - 510
+      - - 1046
+        - 585
+      - - 1050
+        - 659
+      total_items: 38
+    '48': *id002
+    armaduras: *id003
+    armas: *id002
+  item_tab_close:
+  - 782
+  - 256
+  quantity_hover:
+  - 1163
+  - 548
+  quantity_tooltip_region:
+  - 1013
+  - 490
+  - 1208
+  - 562
+  tier_dropdown:
+    open: &id004
+    - 437
+    - 336
+    options: &id005
+      T5:
+      - 418
+      - 376
+      T6:
+      - 419
+      - 397
+      T7:
+      - 418
+      - 421
+      T8:
+      - 419
+      - 442
+  tier_dropdown_profiles:
+    default:
+      open: *id004
+      options: *id005
+    t1_to_t8:
+      open:
+      - 437
+      - 336
+      options:
+        T5:
+        - 420
+        - 442
+        T6:
+        - 420
+        - 465
+        T7:
+        - 419
+        - 487
+        T8:
+        - 418
+        - 508
+    t2_to_t8:
+      open:
+      - 437
+      - 336
+      options:
+        T5:
+        - 416
+        - 422
+        T6:
+        - 424
+        - 442
+        T7:
+        - 418
+        - 466
+        T8:
+        - 417
+        - 489
+    t3_to_t8:
+      open:
+      - 437
+      - 336
+      options:
+        T5:
+        - 416
+        - 398
+        T6:
+        - 417
+        - 420
+        T7:
+        - 417
+        - 443
+        T8:
+        - 416
+        - 463
+cities:
+  altra:
+    market_npc_coords:
+    - 800
+    - 400
+    name: Outra Cidade
+  caerleon:
+    market_npc_coords:
+    - 1000
+    - 500
+    name: Caerleon (Black Market)
+item_tier_groups:
+  t1_to_t8:
+  - Casaco de mercenário
+  - Capuz de Mercenário
+  - Sapatos de Mercenário
+  - Espada Larga
+  - Escudo
+  t2_to_t8:
+  - Robe de erudito
+  - Armadura de Soldado
+  - Capote de Erudito
+  - Elmo de Soldado
+  - Sandálias de Erudito
+  - Botas de Soldado
+  - Capa
+  - Bolsa
+  - Arco do
+  - Cajado de Fogo do
+  - Tomo de feitiços
+  t3_to_t8:
+  - Besta do
+  - Machado de Guerra
+  - Adaga do
+  - Martelo do
+  - Luvas de Lutador
+  - Bordão do
+  - Lança do
+  - Cajado Arcano
+  - Cajado amaldiçoado do
+  - Cajado de Gelo
+  - Cajado Sagrado do
+  - Cajado da Natureza do
+  - Tocha
+market_mode: black_market_auto
+ocr:
+  confidence_threshold: 0.6
+  language: por
+  max_quantity_sold: 100000
+  price_change_factor_limit: 4.0
+  price_recheck_delay: 0.12
+  price_region_padding: 2
+  quantity_region_padding: 0
+  screenshot_region:
+  - 100
+  - 100
+  - 1820
+  - 1080
+price_recognition:
+  price_direct_psms:
+  - 7
+  tooltip_fast_psms:
+  - 6
+price_region:
+- 849
+- 300
+- 921
+- 322
+quantity_region:
+- 1013
+- 490
+- 1208
+- 562
+screenshot_region:
+- 350
+- 130
+- 1260
+- 650
+storage:
+  html_output: reports/market_analysis.html
+  latest_data_file: data/latest_market_data.json
+  prices_file: data/prices.csv
+  report_updates_file: data/report_updates.json
+  screenshot_dir: screenshots/
+tiers:
+- T5
+- T6
+- T7
+- T8
+trading:
+  max_item_price: 10000000
+  profit_margin_percent: 50
+  quantity_multiplier: 1
