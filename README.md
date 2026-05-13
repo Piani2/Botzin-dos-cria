@@ -66,6 +66,40 @@ reports/market_analysis.html
 
 Ele mostra no topo a ultima atualizacao separada de armas e armaduras. Quando uma categoria e coletada, os dados antigos da outra categoria permanecem no HTML.
 
+## Planilha pela Albion Online Data API
+
+Para atualizar a planilha fixa com dados da API:
+
+```powershell
+.\atualizar_planilha_api.ps1
+```
+
+Ou dê dois cliques em:
+
+```text
+atualizar_planilha_api.bat
+```
+
+O arquivo padrao e salvo em:
+
+```text
+reports/albion_api_prices.xlsx
+```
+
+Ele consulta armas e armaduras, tiers 5 a 8, encantamentos .0 a .3, qualidades 1, 2 e 3, no servidor Americas/West. A planilha mostra categoria, item, tier, encantamento, menor pedido valido do Black Market entre essas qualidades, vendidos no ultimo bloco diario do historico, data de atualizacao do pedido escolhido, menores vendas das cidades entre essas qualidades e data/hora em que a planilha foi gerada.
+
+Quando o arquivo `.xlsx` ja existe, o script atualiza apenas os valores da primeira aba e preserva os estilos que voce aplicou nas celulas. Se a planilha estiver aberta ou travada pelo OneDrive, o atualizador para e avisa para fechar o arquivo antes de tentar de novo.
+
+O `gerar_planilha_api.py` gera apenas os dados em CSV. O `.xlsx` e criado/atualizado pelo `atualizar_planilha_api.ps1`, usando o proprio Excel para evitar arquivo corrompido.
+
+Exemplos:
+
+```powershell
+.\atualizar_planilha_api.ps1 --category armaduras
+.\atualizar_planilha_api.ps1 --category armas --tiers 5,6 --enchants 0,1
+.\atualizar_planilha_api.ps1 --server europe --output reports/precos_europe.xlsx
+```
+
 ## Observacoes
 
 O caminho do Tesseract esta configurado em `modules/albion_market_ocr.py`:

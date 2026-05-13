@@ -8565,3 +8565,1365 @@ Coleta interrompida. Gerando relatório parcial...
 2026-05-11 17:12:25,492 - INFO - Dados salvos em data/latest_market_data.json
 2026-05-11 17:12:25,493 - INFO - [OK] Relatório gerado: reports/market_analysis.html
 2026-05-11 17:12:25,493 - INFO - Interrompido pelo usuário
+2026-05-12 23:35:39,721 - INFO - Configurações carregadas de config.yaml
+2026-05-12 23:35:39,749 - INFO - Dados carregados de data/latest_market_data.json
+2026-05-12 23:35:39,749 - INFO - Albion Market Tracker inicializado
+2026-05-12 23:35:45,841 - INFO - 
+=== MODO AUTOMÁTICO DE COLETA ===
+2026-05-12 23:35:51,930 - INFO - Iniciando coleta de 38 itens.
+2026-05-12 23:35:51,930 - INFO - 
+[1/38] Robe de Erudito
+2026-05-12 23:35:59,055 - INFO - Robe de Erudito 5.0
+Preco: 15577 Vendidos: 6
+2026-05-12 23:36:01,912 - INFO - Robe de Erudito 5.1
+Preco: 24571 Vendidos: 24
+2026-05-12 23:36:04,753 - INFO - Robe de Erudito 5.2
+Preco: 73996 Vendidos: 3
+2026-05-12 23:36:10,674 - INFO - Robe de Erudito 5.3
+Preco: 364000 Vendidos: 0
+2026-05-12 23:36:15,550 - INFO - Robe de Erudito 6.0
+Preco: 32986 Vendidos: 51
+2026-05-12 23:36:18,363 - INFO - Robe de Erudito 6.1
+Preco: 61992 Vendidos: 2
+2026-05-12 23:36:21,187 - INFO - Robe de Erudito 6.2
+Preco: 263999 Vendidos: 0
+2026-05-12 23:36:24,010 - INFO - Robe de Erudito 6.3
+Preco: 632991 Vendidos: 0
+2026-05-12 23:36:31,975 - INFO - 
+Coleta interrompida. Gerando relatório parcial...
+2026-05-12 23:36:31,990 - INFO - Dados salvos em data/latest_market_data.json
+2026-05-12 23:36:32,008 - INFO - HTML gerado com 344 linhas
+2026-05-12 23:36:32,012 - INFO - HTML salvo em reports/market_analysis.html
+2026-05-12 23:36:32,024 - INFO - Dados salvos em data/latest_market_data.json
+2026-05-12 23:36:32,024 - INFO - [OK] Relatório gerado: reports/market_analysis.html
+2026-05-12 23:36:32,025 - INFO - Interrompido pelo usuário
+2026-05-12 23:36:41,269 - INFO - Configurações carregadas de config.yaml
+2026-05-12 23:36:41,296 - INFO - Dados carregados de data/latest_market_data.json
+2026-05-12 23:36:41,297 - INFO - Albion Market Tracker inicializado
+2026-05-12 23:36:44,114 - INFO - 
+=== MODO AUTOMÁTICO DE COLETA ===
+2026-05-12 23:36:48,785 - INFO - Iniciando coleta de 38 itens.
+2026-05-12 23:36:48,786 - INFO - 
+[1/38] Robe de Erudito
+2026-05-12 23:36:54,827 - INFO - Robe de Erudito 5.0
+Preco: 15577 Vendidos: 790
+2026-05-12 23:36:57,681 - INFO - Robe de Erudito 5.1
+Preco: 24571 Vendidos: 218
+2026-05-12 23:37:00,534 - INFO - Robe de Erudito 5.2
+Preco: 73996 Vendidos: 17
+2026-05-12 23:37:06,552 - INFO - Robe de Erudito 5.3
+Preco: 364000 Vendidos: 2
+2026-05-12 23:37:11,478 - INFO - Robe de Erudito 6.0
+Preco: 32987 Vendidos: 577
+2026-05-12 23:37:14,366 - INFO - Robe de Erudito 6.1
+Preco: 61992 Vendidos: 126
+2026-05-12 23:37:17,200 - INFO - Robe de Erudito 6.2
+Preco: 263999 Vendidos: 14
+2026-05-12 23:37:20,055 - INFO - Robe de Erudito 6.3
+Preco: 632991 Vendidos: 1
+2026-05-12 23:37:24,952 - INFO - Robe de Erudito 7.0
+Preco: 93489 Vendidos: 174
+2026-05-12 23:37:27,837 - INFO - Robe de Erudito 7.1
+Preco: 239961 Vendidos: 20
+2026-05-12 23:37:30,718 - INFO - Robe de Erudito 7.2
+Preco: 666666 Vendidos: 2
+2026-05-12 23:37:33,583 - INFO - Robe de Erudito 7.3
+Preco: 2605553 Vendidos: 0
+2026-05-12 23:37:38,461 - INFO - Robe de Erudito 8.0
+Preco: 270426 Vendidos: 17
+2026-05-12 23:37:41,355 - INFO - Robe de Erudito 8.1
+Preco: 583750 Vendidos: 5
+2026-05-12 23:37:44,218 - INFO - Robe de Erudito 8.2
+Preco: 2665992 Vendidos: 2
+2026-05-12 23:37:47,129 - INFO - Robe de Erudito 8.3
+Preco: 6999993 Vendidos: 0
+2026-05-12 23:37:48,084 - INFO - 
+[2/38] Robe de Clérigo
+2026-05-12 23:38:08,263 - INFO - Robe de Clérigo 5.0
+Preco: 13989 Vendidos: 1139
+2026-05-12 23:38:11,185 - INFO - Robe de Clérigo 5.1
+Preco: 25314 Vendidos: 150
+2026-05-12 23:38:29,057 - INFO - Robe de Clérigo 5.2
+Preco: 66970 Vendidos: 9
+2026-05-12 23:38:49,559 - INFO - Robe de Clérigo 5.3
+Preco: 303350 Vendidos: 3
+2026-05-12 23:38:54,517 - INFO - Robe de Clérigo 6.0
+Preco: 34103 Vendidos: 504
+2026-05-12 23:38:57,392 - INFO - Robe de Clérigo 6.1
+Preco: 67916 Vendidos: 75
+2026-05-12 23:39:00,237 - INFO - Robe de Clérigo 6.2
+Preco: 260916 Vendidos: 5
+2026-05-12 23:39:03,094 - INFO - Robe de Clérigo 6.3
+Preco: 601853 Vendidos: 1
+2026-05-12 23:39:07,975 - INFO - Robe de Clérigo 7.0
+Preco: 94951 Vendidos: 112
+2026-05-12 23:39:10,843 - INFO - Robe de Clérigo 7.1
+Preco: 232726 Vendidos: 12
+2026-05-12 23:39:13,736 - INFO - Robe de Clérigo 7.2
+Preco: 734937 Vendidos: 0
+2026-05-12 23:39:16,589 - INFO - Robe de Clérigo 7.3
+Preco: 2128994 Vendidos: 0
+2026-05-12 23:39:24,515 - INFO - Robe de Clérigo 8.0
+Preco: 248970 Vendidos: 11
+2026-05-12 23:39:27,378 - INFO - Robe de Clérigo 8.1
+Preco: 822222 Vendidos: 3
+2026-05-12 23:39:33,374 - INFO - Robe de Clérigo 8.2
+Preco: 2599988 Vendidos: 0
+2026-05-12 23:39:36,285 - INFO - Robe de Clérigo 8.3
+Preco: 6200000 Vendidos: 0
+2026-05-12 23:39:37,232 - INFO - 
+[3/38] Robe de Mago
+2026-05-12 23:39:42,603 - INFO - Robe de Mago 5.0
+Preco: 14867 Vendidos: 625
+2026-05-12 23:39:48,462 - INFO - Robe de Mago 5.1
+Preco: 25928 Vendidos: 146
+2026-05-12 23:39:51,317 - INFO - Robe de Mago 5.2
+Preco: 67994 Vendidos: 26
+2026-05-12 23:39:54,141 - INFO - Robe de Mago 5.3
+Preco: 464999 Vendidos: 3
+2026-05-12 23:40:01,032 - INFO - Robe de Mago 6.0
+Preco: 37062 Vendidos: 484
+2026-05-12 23:40:03,868 - INFO - Robe de Mago 6.1
+Preco: 64995 Vendidos: 140
+2026-05-12 23:40:09,747 - INFO - Robe de Mago 6.2
+Preco: 285500 Vendidos: 15
+2026-05-12 23:40:30,027 - INFO - Robe de Mago 6.3
+Preco: 599988 Vendidos: 6
+2026-05-12 23:40:34,890 - INFO - Robe de Mago 7.0
+Preco: 97833 Vendidos: 200
+2026-05-12 23:40:37,742 - INFO - Robe de Mago 7.1
+Preco: 269993 Vendidos: 29
+2026-05-12 23:40:43,572 - INFO - Robe de Mago 7.2
+Preco: 670998 Vendidos: 5
+2026-05-12 23:40:46,434 - INFO - Robe de Mago 7.3
+Preco: 2400511 Vendidos: 1
+2026-05-12 23:40:54,245 - INFO - Robe de Mago 8.0
+Preco: 313970 Vendidos: 26
+2026-05-12 23:40:57,079 - INFO - Robe de Mago 8.1
+Preco: 608885 Vendidos: 7
+2026-05-12 23:40:59,930 - INFO - Robe de Mago 8.2
+Preco: 2473999 Vendidos: 0
+2026-05-12 23:41:05,864 - INFO - Robe de Mago 8.3
+Preco: 6999988 Vendidos: 1
+2026-05-12 23:41:06,815 - INFO - 
+[4/38] Robe de Druida
+2026-05-12 23:41:12,201 - INFO - Robe de Druida 5.0
+Preco: 29997 Vendidos: 298
+2026-05-12 23:41:15,035 - INFO - Robe de Druida 5.1
+Preco: 39986 Vendidos: 98
+2026-05-12 23:41:17,928 - INFO - Robe de Druida 5.2
+Preco: 73969 Vendidos: 10
+2026-05-12 23:41:23,769 - INFO - Robe de Druida 5.3
+Preco: 357600 Vendidos: 3
+2026-05-12 23:41:28,622 - INFO - Robe de Druida 6.0
+Preco: 74996 Vendidos: 438
+2026-05-12 23:41:31,497 - INFO - Robe de Druida 6.1
+Preco: 109997 Vendidos: 74
+2026-05-12 23:41:37,491 - INFO - Robe de Druida 6.2
+Preco: 277478 Vendidos: 31
+2026-05-12 23:41:40,347 - INFO - Robe de Druida 6.3
+Preco: 700000 Vendidos: 2
+2026-05-12 23:41:45,230 - INFO - Robe de Druida 7.0
+Preco: 122985 Vendidos: 70
+2026-05-12 23:41:48,082 - INFO - Robe de Druida 7.1
+Preco: 247492 Vendidos: 18
+2026-05-12 23:42:04,702 - INFO - Robe de Druida 7.2
+Preco: 744995 Vendidos: 4
+2026-05-12 23:42:07,534 - INFO - Robe de Druida 7.3
+Preco: 2204961 Vendidos: 2
+2026-05-12 23:42:12,385 - INFO - Robe de Druida 8.0
+Preco: 422469 Vendidos: 21
+2026-05-12 23:42:15,212 - INFO - Robe de Druida 8.1
+Preco: 1149760 Vendidos: 6
+2026-05-12 23:42:21,082 - INFO - Robe de Druida 8.2
+Preco: 2549998 Vendidos: 1
+2026-05-12 23:42:23,950 - INFO - Robe de Druida 8.3
+Preco: 6454542 Vendidos: 0
+2026-05-12 23:42:24,897 - INFO - 
+[5/38] Casaco de Mercenário
+2026-05-12 23:42:30,247 - WARNING - Preço suspeito para Casaco de Mercenário T5.0: lido=17973, anterior=187600. Tentando confirmar...
+2026-05-12 23:42:30,527 - WARNING - Preço descartado para Casaco de Mercenário T5.0; mantendo valor anterior no relatório.
+2026-05-12 23:42:30,527 - WARNING - [ERRO] Não foi possível extrair dados de Casaco de Mercenário T5.0
+2026-05-12 23:42:30,553 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Casaco de Mercenário_T5.0_20260512_234230.png
+2026-05-12 23:42:33,392 - INFO - Casaco de Mercenário 5.1
+Preco: 27276 Vendidos: 115
+2026-05-12 23:42:36,257 - INFO - Casaco de Mercenário 5.2
+Preco: 85690 Vendidos: 29
+2026-05-12 23:42:39,112 - INFO - Casaco de Mercenário 5.3
+Preco: 333336 Vendidos: 3
+2026-05-12 23:42:43,967 - INFO - Casaco de Mercenário 6.0
+Preco: 49965 Vendidos: 308
+2026-05-12 23:42:46,816 - INFO - Casaco de Mercenário 6.1
+Preco: 91996 Vendidos: 35
+2026-05-12 23:42:52,632 - INFO - Casaco de Mercenário 6.2
+Preco: 324980 Vendidos: 5
+2026-05-12 23:42:55,439 - INFO - Casaco de Mercenário 6.3
+Preco: 947000 Vendidos: 2
+2026-05-12 23:43:00,313 - INFO - Casaco de Mercenário 7.0
+Preco: 164782 Vendidos: 75
+2026-05-12 23:43:03,141 - INFO - Casaco de Mercenário 7.1
+Preco: 348654 Vendidos: 13
+2026-05-12 23:43:06,031 - INFO - Casaco de Mercenário 7.2
+Preco: 1034994 Vendidos: 5
+2026-05-12 23:43:11,986 - INFO - Casaco de Mercenário 7.3
+Preco: 3062118 Vendidos: 1
+2026-05-12 23:43:19,885 - INFO - Casaco de Mercenário 8.0
+Preco: 338098 Vendidos: 8
+2026-05-12 23:43:22,707 - INFO - Casaco de Mercenário 8.1
+Preco: 966452 Vendidos: 3
+2026-05-12 23:43:25,562 - INFO - Casaco de Mercenário 8.2
+Preco: 2849913 Vendidos: 1
+2026-05-12 23:43:28,484 - INFO - Casaco de Mercenário 8.3
+Preco: 6999980 Vendidos: 1
+2026-05-12 23:43:29,429 - INFO - 
+[6/38] Casaco de Caçador
+2026-05-12 23:43:35,969 - INFO - Casaco de Caçador 5.0
+Preco: 18895 Vendidos: 805
+2026-05-12 23:43:38,809 - INFO - Casaco de Caçador 5.1
+Preco: 28861 Vendidos: 170
+2026-05-12 23:43:41,632 - INFO - Casaco de Caçador 5.2
+Preco: 91995 Vendidos: 10
+2026-05-12 23:43:44,498 - INFO - Casaco de Caçador 5.3
+Preco: 426999 Vendidos: 3
+2026-05-12 23:44:03,675 - INFO - Casaco de Caçador 6.0
+Preco: 46607 Vendidos: 465
+2026-05-12 23:44:06,533 - INFO - Casaco de Caçador 6.1
+Preco: 89992 Vendidos: 62
+2026-05-12 23:44:09,364 - INFO - Casaco de Caçador 6.2
+Preco: 311965 Vendidos: 18
+2026-05-12 23:44:12,251 - INFO - Casaco de Caçador 6.3
+Preco: 996997 Vendidos: 6
+2026-05-12 23:44:20,151 - INFO - Casaco de Caçador 7.0
+Preco: 164888 Vendidos: 145
+2026-05-12 23:44:23,018 - INFO - Casaco de Caçador 7.1
+Preco: 325546 Vendidos: 25
+2026-05-12 23:44:33,256 - INFO - Casaco de Caçador 7.2
+Preco: 1009996 Vendidos: 1
+2026-05-12 23:44:36,106 - INFO - Casaco de Caçador 7.3
+Preco: 2599999 Vendidos: 0
+2026-05-12 23:44:40,958 - INFO - Casaco de Caçador 8.0
+Preco: 367986 Vendidos: 14
+2026-05-12 23:44:43,810 - INFO - Casaco de Caçador 8.1
+Preco: 961494 Vendidos: 3
+2026-05-12 23:44:46,641 - INFO - Casaco de Caçador 8.2
+Preco: 2985999 Vendidos: 2
+2026-05-12 23:44:49,496 - INFO - Casaco de Caçador 8.3
+Preco: 7000000 Vendidos: 1
+2026-05-12 23:44:50,445 - INFO - 
+[7/38] Casaco de Assassino
+2026-05-12 23:44:58,835 - INFO - Casaco de Assassino 5.0
+Preco: 18428 Vendidos: 807
+2026-05-12 23:45:16,127 - INFO - Casaco de Assassino 5.1
+Preco: 26000 Vendidos: 123
+2026-05-12 23:45:19,051 - INFO - Casaco de Assassino 5.2
+Preco: 90940 Vendidos: 39
+2026-05-12 23:45:24,965 - INFO - Casaco de Assassino 5.3
+Preco: 399980 Vendidos: 1
+2026-05-12 23:45:29,821 - INFO - Casaco de Assassino 6.0
+Preco: 41731 Vendidos: 452
+2026-05-12 23:45:32,704 - INFO - Casaco de Assassino 6.1
+Preco: 97986 Vendidos: 47
+2026-05-12 23:45:35,512 - INFO - Casaco de Assassino 6.2
+Preco: 367774 Vendidos: 8
+2026-05-12 23:45:38,358 - INFO - Casaco de Assassino 6.3
+Preco: 976996 Vendidos: 1
+2026-05-12 23:45:43,204 - INFO - Casaco de Assassino 7.0
+Preco: 162651 Vendidos: 96
+2026-05-12 23:45:46,047 - INFO - Casaco de Assassino 7.1
+Preco: 417984 Vendidos: 15
+2026-05-12 23:45:48,915 - INFO - Casaco de Assassino 7.2
+Preco: 960969 Vendidos: 4
+2026-05-12 23:46:06,417 - WARNING - [ERRO] Não foi possível extrair dados de Casaco de Assassino T7.3
+2026-05-12 23:46:06,443 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Casaco de Assassino_T7.3_20260512_234606.png
+2026-05-12 23:46:11,287 - INFO - Casaco de Assassino 8.0
+Preco: 373296 Vendidos: 7
+2026-05-12 23:46:14,122 - INFO - Casaco de Assassino 8.1
+Preco: 1080569 Vendidos: 3
+2026-05-12 23:46:17,018 - INFO - Casaco de Assassino 8.2
+Preco: 2799962 Vendidos: 0
+2026-05-12 23:46:19,863 - INFO - Casaco de Assassino 8.3
+Preco: 7387992 Vendidos: 0
+2026-05-12 23:46:20,811 - INFO - 
+[8/38] Casaco de Espreitador
+2026-05-12 23:46:26,222 - INFO - Casaco de Espreitador 5.0
+Preco: 24992 Vendidos: 119
+2026-05-12 23:46:29,089 - INFO - Casaco de Espreitador 5.1
+Preco: 30970 Vendidos: 21
+2026-05-12 23:46:31,935 - INFO - Casaco de Espreitador 5.2
+Preco: 120686 Vendidos: 12
+2026-05-12 23:46:34,754 - INFO - Casaco de Espreitador 5.3
+Preco: 439999 Vendidos: 0
+2026-05-12 23:46:39,622 - INFO - Casaco de Espreitador 6.0
+Preco: 83550 Vendidos: 180
+2026-05-12 23:46:42,488 - INFO - Casaco de Espreitador 6.1
+Preco: 111996 Vendidos: 27
+2026-05-12 23:46:48,337 - INFO - Casaco de Espreitador 6.2
+Preco: 304890 Vendidos: 4
+2026-05-12 23:46:51,213 - INFO - Casaco de Espreitador 6.3
+Preco: 939972 Vendidos: 1
+2026-05-12 23:46:59,101 - INFO - Casaco de Espreitador 7.0
+Preco: 180700 Vendidos: 38
+2026-05-12 23:47:16,006 - INFO - Casaco de Espreitador 7.1
+Preco: 365919 Vendidos: 5
+2026-05-12 23:47:18,869 - INFO - Casaco de Espreitador 7.2
+Preco: 1098992 Vendidos: 1
+2026-05-12 23:47:21,796 - INFO - Casaco de Espreitador 7.3
+Preco: 2998986 Vendidos: 0
+2026-05-12 23:47:26,660 - INFO - Casaco de Espreitador 8.0
+Preco: 417776 Vendidos: 3
+2026-05-12 23:47:32,466 - INFO - Casaco de Espreitador 8.1
+Preco: 1169998 Vendidos: 1
+2026-05-12 23:47:35,354 - INFO - Casaco de Espreitador 8.2
+Preco: 3179985 Vendidos: 0
+2026-05-12 23:47:38,214 - INFO - Casaco de Espreitador 8.3
+Preco: 7200000 Vendidos: 0
+2026-05-12 23:47:39,160 - INFO - 
+[9/38] Armadura de Soldado
+2026-05-12 23:47:59,206 - INFO - Armadura de Soldado 5.0
+Preco: 17729 Vendidos: 578
+2026-05-12 23:48:05,062 - INFO - Armadura de Soldado 5.1
+Preco: 25968 Vendidos: 140
+2026-05-12 23:48:07,882 - INFO - Armadura de Soldado 5.2
+Preco: 94839 Vendidos: 11
+2026-05-12 23:48:10,703 - INFO - Armadura de Soldado 5.3
+Preco: 414984 Vendidos: 1
+2026-05-12 23:48:15,605 - INFO - Armadura de Soldado 6.0
+Preco: 43785 Vendidos: 536
+2026-05-12 23:48:18,475 - INFO - Armadura de Soldado 6.1
+Preco: 84469 Vendidos: 93
+2026-05-12 23:48:24,305 - INFO - Armadura de Soldado 6.2
+Preco: 320000 Vendidos: 14
+2026-05-12 23:48:32,624 - INFO - Armadura de Soldado 6.3
+Preco: 1038999 Vendidos: 4
+2026-05-12 23:48:37,523 - INFO - Armadura de Soldado 7.0
+Preco: 110991 Vendidos: 166
+2026-05-12 23:48:40,367 - INFO - Armadura de Soldado 7.1
+Preco: 282991 Vendidos: 30
+2026-05-12 23:48:43,186 - INFO - Armadura de Soldado 7.2
+Preco: 1167981 Vendidos: 2
+2026-05-12 23:48:46,040 - INFO - Armadura de Soldado 7.3
+Preco: 2379999 Vendidos: 0
+2026-05-12 23:48:50,903 - INFO - Armadura de Soldado 8.0
+Preco: 277982 Vendidos: 11
+2026-05-12 23:48:53,779 - INFO - Armadura de Soldado 8.1
+Preco: 969977 Vendidos: 3
+2026-05-12 23:48:56,598 - INFO - Armadura de Soldado 8.2
+Preco: 2628179 Vendidos: 2
+2026-05-12 23:48:59,481 - INFO - Armadura de Soldado 8.3
+Preco: 5638821 Vendidos: 1
+2026-05-12 23:49:00,425 - INFO - 
+[10/38] Armadura de Cavaleiro
+2026-05-12 23:49:05,822 - INFO - Armadura de Cavaleiro 5.0
+Preco: 19205 Vendidos: 675
+2026-05-12 23:49:08,663 - INFO - Armadura de Cavaleiro 5.1
+Preco: 32233 Vendidos: 74
+2026-05-12 23:49:11,532 - INFO - Armadura de Cavaleiro 5.2
+Preco: 99491 Vendidos: 27
+2026-05-12 23:49:14,338 - INFO - Armadura de Cavaleiro 5.3
+Preco: 489999 Vendidos: 4
+2026-05-12 23:49:19,196 - INFO - Armadura de Cavaleiro 6.0
+Preco: 37986 Vendidos: 547
+2026-05-12 23:49:22,074 - INFO - Armadura de Cavaleiro 6.1
+Preco: 80990 Vendidos: 125
+2026-05-12 23:49:24,911 - INFO - Armadura de Cavaleiro 6.2
+Preco: 351891 Vendidos: 10
+2026-05-12 23:49:41,939 - INFO - Armadura de Cavaleiro 6.3
+Preco: 1011111 Vendidos: 4
+2026-05-12 23:49:46,848 - INFO - Armadura de Cavaleiro 7.0
+Preco: 97763 Vendidos: 176
+2026-05-12 23:49:52,815 - INFO - Armadura de Cavaleiro 7.1
+Preco: 308868 Vendidos: 18
+2026-05-12 23:49:55,647 - INFO - Armadura de Cavaleiro 7.2
+Preco: 1007767 Vendidos: 2
+2026-05-12 23:49:58,485 - INFO - Armadura de Cavaleiro 7.3
+Preco: 2708974 Vendidos: 2
+2026-05-12 23:50:03,391 - INFO - Armadura de Cavaleiro 8.0
+Preco: 274873 Vendidos: 7
+2026-05-12 23:50:09,348 - INFO - Armadura de Cavaleiro 8.1
+Preco: 853958 Vendidos: 1
+2026-05-12 23:50:12,161 - INFO - Armadura de Cavaleiro 8.2
+Preco: 2399270 Vendidos: 1
+2026-05-12 23:50:15,008 - INFO - Armadura de Cavaleiro 8.3
+Preco: 6249989 Vendidos: 0
+2026-05-12 23:50:15,959 - INFO - 
+[11/38] Armadura de Guardião
+2026-05-12 23:50:22,509 - INFO - Armadura de Guardião 5.0
+Preco: 16809 Vendidos: 918
+2026-05-12 23:50:28,432 - INFO - Armadura de Guardião 5.1
+Preco: 27735 Vendidos: 174
+2026-05-12 23:50:31,282 - INFO - Armadura de Guardião 5.2
+Preco: 92289 Vendidos: 50
+2026-05-12 23:50:34,121 - INFO - Armadura de Guardião 5.3
+Preco: 459874 Vendidos: 3
+2026-05-12 23:50:42,038 - INFO - Armadura de Guardião 6.0
+Preco: 40712 Vendidos: 640
+2026-05-12 23:50:46,832 - INFO - Armadura de Guardião 6.1
+Preco: 79996 Vendidos: 79
+2026-05-12 23:50:52,675 - INFO - Armadura de Guardião 6.2
+Preco: 368778 Vendidos: 3
+2026-05-12 23:50:55,528 - INFO - Armadura de Guardião 6.3
+Preco: 1149994 Vendidos: 2
+2026-05-12 23:51:00,396 - INFO - Armadura de Guardião 7.0
+Preco: 95989 Vendidos: 187
+2026-05-12 23:51:03,243 - INFO - Armadura de Guardião 7.1
+Preco: 294996 Vendidos: 22
+2026-05-12 23:51:06,088 - INFO - Armadura de Guardião 7.2
+Preco: 1010969 Vendidos: 1
+2026-05-12 23:51:08,935 - INFO - Armadura de Guardião 7.3
+Preco: 2819967 Vendidos: 2
+2026-05-12 23:51:16,837 - INFO - Armadura de Guardião 8.0
+Preco: 318000 Vendidos: 18
+2026-05-12 23:51:19,708 - INFO - Armadura de Guardião 8.1
+Preco: 999997 Vendidos: 0
+2026-05-12 23:51:22,537 - INFO - Armadura de Guardião 8.2
+Preco: 3066666 Vendidos: 2
+2026-05-12 23:51:25,411 - INFO - Armadura de Guardião 8.3
+Preco: 6568570 Vendidos: 0
+2026-05-12 23:51:26,358 - INFO - 
+[12/38] Armadura de Guarda-tumbas
+2026-05-12 23:51:31,764 - INFO - Armadura de Guarda-tumbas 5.0
+Preco: 22965 Vendidos: 142
+2026-05-12 23:51:34,616 - INFO - Armadura de Guarda-tumbas 5.1
+Preco: 36997 Vendidos: 38
+2026-05-12 23:51:40,603 - INFO - Armadura de Guarda-tumbas 5.2
+Preco: 139998 Vendidos: 0
+2026-05-12 23:51:43,472 - INFO - Armadura de Guarda-tumbas 5.3
+Preco: 449111 Vendidos: 1
+2026-05-12 23:51:48,360 - INFO - Armadura de Guarda-tumbas 6.0
+Preco: 59965 Vendidos: 238
+2026-05-12 23:51:54,427 - INFO - Armadura de Guarda-tumbas 6.1
+Preco: 103980 Vendidos: 34
+2026-05-12 23:52:00,295 - INFO - Armadura de Guarda-tumbas 6.2
+Preco: 380000 Vendidos: 1
+2026-05-12 23:52:03,126 - INFO - Armadura de Guarda-tumbas 6.3
+Preco: 902999 Vendidos: 2
+2026-05-12 23:52:08,039 - INFO - Armadura de Guarda-tumbas 7.0
+Preco: 125287 Vendidos: 67
+2026-05-12 23:52:10,917 - INFO - Armadura de Guarda-tumbas 7.1
+Preco: 365357 Vendidos: 12
+2026-05-12 23:52:13,820 - INFO - Armadura de Guarda-tumbas 7.2
+Preco: 1068981 Vendidos: 1
+2026-05-12 23:52:16,689 - INFO - Armadura de Guarda-tumbas 7.3
+Preco: 2949985 Vendidos: 0
+2026-05-12 23:52:24,605 - INFO - Armadura de Guarda-tumbas 8.0
+Preco: 426950 Vendidos: 15
+2026-05-12 23:52:27,433 - INFO - Armadura de Guarda-tumbas 8.1
+Preco: 1149999 Vendidos: 2
+2026-05-12 23:52:44,642 - INFO - Armadura de Guarda-tumbas 8.2
+Preco: 3489996 Vendidos: 1
+2026-05-12 23:52:47,485 - INFO - Armadura de Guarda-tumbas 8.3
+Preco: 5779995 Vendidos: 0
+2026-05-12 23:52:48,440 - INFO - 
+[13/38] Capote de Erudito
+2026-05-12 23:52:53,878 - INFO - Capote de Erudito 5.0
+Preco: 8700 Vendidos: 425
+2026-05-12 23:52:56,718 - WARNING - Preço suspeito para Capote de Erudito T5.1: lido=19257, anterior=192890. Tentando confirmar...
+2026-05-12 23:52:57,019 - WARNING - Preço descartado para Capote de Erudito T5.1; mantendo valor anterior no relatório.
+2026-05-12 23:52:57,019 - WARNING - [ERRO] Não foi possível extrair dados de Capote de Erudito T5.1
+2026-05-12 23:52:57,046 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Capote de Erudito_T5.1_20260512_235257.png
+2026-05-12 23:52:59,867 - INFO - Capote de Erudito 5.2
+Preco: 37986 Vendidos: 24
+2026-05-12 23:53:02,723 - INFO - Capote de Erudito 5.3
+Preco: 178773 Vendidos: 3
+2026-05-12 23:53:07,573 - INFO - Capote de Erudito 6.0
+Preco: 19904 Vendidos: 414
+2026-05-12 23:53:10,439 - INFO - Capote de Erudito 6.1
+Preco: 35896 Vendidos: 75
+2026-05-12 23:53:16,370 - INFO - Capote de Erudito 6.2
+Preco: 136588 Vendidos: 9
+2026-05-12 23:53:19,248 - INFO - Capote de Erudito 6.3
+Preco: 305647 Vendidos: 3
+2026-05-12 23:53:24,122 - INFO - Capote de Erudito 7.0
+Preco: 51851 Vendidos: 124
+2026-05-12 23:53:26,991 - INFO - Capote de Erudito 7.1
+Preco: 136972 Vendidos: 20
+2026-05-12 23:53:44,227 - INFO - Capote de Erudito 7.2
+Preco: 489999 Vendidos: 4
+2026-05-12 23:53:47,027 - INFO - Capote de Erudito 7.3
+Preco: 1227927 Vendidos: 1
+2026-05-12 23:53:51,868 - INFO - Capote de Erudito 8.0
+Preco: 156841 Vendidos: 18
+2026-05-12 23:53:54,746 - INFO - Capote de Erudito 8.1
+Preco: 335986 Vendidos: 9
+2026-05-12 23:53:57,597 - INFO - Capote de Erudito 8.2
+Preco: 1106930 Vendidos: 2
+2026-05-12 23:54:00,458 - INFO - Capote de Erudito 8.3
+Preco: 2820500 Vendidos: 0
+2026-05-12 23:54:01,406 - INFO - 
+[14/38] Capote de Clérigo
+2026-05-12 23:54:06,784 - INFO - Capote de Clérigo 5.0
+Preco: 8803 Vendidos: 385
+2026-05-12 23:54:09,635 - INFO - Capote de Clérigo 5.1
+Preco: 16452 Vendidos: 129
+2026-05-12 23:54:15,516 - INFO - Capote de Clérigo 5.2
+Preco: 33328 Vendidos: 12
+2026-05-12 23:54:21,465 - INFO - Capote de Clérigo 5.3
+Preco: 167980 Vendidos: 4
+2026-05-12 23:54:28,280 - INFO - Capote de Clérigo 6.0
+Preco: 22497 Vendidos: 521
+2026-05-12 23:54:32,435 - INFO - Capote de Clérigo 6.1
+Preco: 39979 Vendidos: 83
+2026-05-12 23:54:38,295 - INFO - Capote de Clérigo 6.2
+Preco: 142958 Vendidos: 5
+2026-05-12 23:54:41,130 - INFO - Capote de Clérigo 6.3
+Preco: 404969 Vendidos: 4
+2026-05-12 23:54:46,003 - INFO - Capote de Clérigo 7.0
+Preco: 48886 Vendidos: 121
+2026-05-12 23:54:48,871 - INFO - Capote de Clérigo 7.1
+Preco: 143986 Vendidos: 31
+2026-05-12 23:54:54,766 - INFO - Capote de Clérigo 7.2
+Preco: 454678 Vendidos: 8
+2026-05-12 23:55:00,744 - INFO - Capote de Clérigo 7.3
+Preco: 1308728 Vendidos: 0
+2026-05-12 23:55:05,581 - INFO - Capote de Clérigo 8.0
+Preco: 202956 Vendidos: 16
+2026-05-12 23:55:08,407 - INFO - Capote de Clérigo 8.1
+Preco: 384964 Vendidos: 4
+2026-05-12 23:55:11,240 - INFO - Capote de Clérigo 8.2
+Preco: 1094994 Vendidos: 2
+2026-05-12 23:55:14,078 - INFO - Capote de Clérigo 8.3
+Preco: 2729821 Vendidos: 2
+2026-05-12 23:55:15,039 - INFO - 
+[15/38] Capote de Mago
+2026-05-12 23:55:23,476 - INFO - Capote de Mago 5.0
+Preco: 10117 Vendidos: 506
+2026-05-12 23:55:26,328 - INFO - Capote de Mago 5.1
+Preco: 16824 Vendidos: 107
+2026-05-12 23:55:29,192 - INFO - Capote de Mago 5.2
+Preco: 40950 Vendidos: 27
+2026-05-12 23:55:32,070 - INFO - Capote de Mago 5.3
+Preco: 189992 Vendidos: 0
+2026-05-12 23:55:39,941 - INFO - Capote de Mago 6.0
+Preco: 22888 Vendidos: 315
+2026-05-12 23:55:42,842 - INFO - Capote de Mago 6.1
+Preco: 41790 Vendidos: 80
+2026-05-12 23:55:45,716 - INFO - Capote de Mago 6.2
+Preco: 142829 Vendidos: 10
+2026-05-12 23:55:48,540 - INFO - Capote de Mago 6.3
+Preco: 435424 Vendidos: 5
+2026-05-12 23:55:56,388 - INFO - Capote de Mago 7.0
+Preco: 48988 Vendidos: 143
+2026-05-12 23:55:59,223 - INFO - Capote de Mago 7.1
+Preco: 142986 Vendidos: 16
+2026-05-12 23:56:05,083 - INFO - Capote de Mago 7.2
+Preco: 373980 Vendidos: 1
+2026-05-12 23:56:07,919 - INFO - Capote de Mago 7.3
+Preco: 1280000 Vendidos: 0
+2026-05-12 23:56:12,731 - INFO - Capote de Mago 8.0
+Preco: 169957 Vendidos: 21
+2026-05-12 23:56:18,607 - INFO - Capote de Mago 8.1
+Preco: 319998 Vendidos: 7
+2026-05-12 23:56:21,461 - INFO - Capote de Mago 8.2
+Preco: 1269893 Vendidos: 3
+2026-05-12 23:56:24,321 - INFO - Capote de Mago 8.3
+Preco: 2700000 Vendidos: 0
+2026-05-12 23:56:25,272 - INFO - 
+[16/38] Capote de Druida
+2026-05-12 23:56:31,801 - WARNING - Preço suspeito para Capote de Druida T5.0: lido=15777, anterior=155530. Tentando confirmar...
+2026-05-12 23:56:32,091 - WARNING - Preço descartado para Capote de Druida T5.0; mantendo valor anterior no relatório.
+2026-05-12 23:56:32,091 - WARNING - [ERRO] Não foi possível extrair dados de Capote de Druida T5.0
+2026-05-12 23:56:32,117 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Capote de Druida_T5.0_20260512_235632.png
+2026-05-12 23:56:34,964 - INFO - Capote de Druida 5.1
+Preco: 22983 Vendidos: 6
+2026-05-12 23:56:37,861 - INFO - Capote de Druida 5.2
+Preco: 54989 Vendidos: 2
+2026-05-12 23:56:40,728 - INFO - Capote de Druida 5.3
+Preco: 174074 Vendidos: 1
+2026-05-12 23:56:45,581 - INFO - Capote de Druida 6.0
+Preco: 42990 Vendidos: 162
+2026-05-12 23:56:48,403 - INFO - Capote de Druida 6.1
+Preco: 82990 Vendidos: 17
+2026-05-12 23:56:51,268 - INFO - Capote de Druida 6.2
+Preco: 186956 Vendidos: 6
+2026-05-12 23:56:54,179 - INFO - Capote de Druida 6.3
+Preco: 388786 Vendidos: 1
+2026-05-12 23:56:59,042 - INFO - Capote de Druida 7.0
+Preco: 73427 Vendidos: 21
+2026-05-12 23:57:16,369 - INFO - Capote de Druida 7.1
+Preco: 218993 Vendidos: 4
+2026-05-12 23:57:19,306 - INFO - Capote de Druida 7.2
+Preco: 434996 Vendidos: 0
+2026-05-12 23:57:22,146 - INFO - Capote de Druida 7.3
+Preco: 1299999 Vendidos: 0
+2026-05-12 23:57:27,038 - INFO - Capote de Druida 8.0
+Preco: 379999 Vendidos: 4
+2026-05-12 23:57:29,884 - INFO - Capote de Druida 8.1
+Preco: 499976 Vendidos: 1
+2026-05-12 23:57:32,730 - INFO - Capote de Druida 8.2
+Preco: 1679900 Vendidos: 1
+2026-05-12 23:57:52,132 - WARNING - OCR de quantidade vazio: '—\n'
+2026-05-12 23:57:52,132 - WARNING - [ERRO] Não foi possível extrair dados de Capote de Druida T8.3
+2026-05-12 23:57:52,155 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Capote de Druida_T8.3_20260512_235752.png
+2026-05-12 23:57:53,104 - INFO - 
+[17/38] Capuz de Mercenário
+2026-05-12 23:57:58,506 - INFO - Capuz de Mercenário 5.0
+Preco: 9477 Vendidos: 613
+2026-05-12 23:58:01,344 - INFO - Capuz de Mercenário 5.1
+Preco: 16151 Vendidos: 113
+2026-05-12 23:58:04,199 - INFO - Capuz de Mercenário 5.2
+Preco: 44256 Vendidos: 34
+2026-05-12 23:58:07,039 - INFO - Capuz de Mercenário 5.3
+Preco: 198962 Vendidos: 1
+2026-05-12 23:58:11,898 - INFO - Capuz de Mercenário 6.0
+Preco: 25281 Vendidos: 329
+2026-05-12 23:58:14,768 - INFO - Capuz de Mercenário 6.1
+Preco: 41945 Vendidos: 92
+2026-05-12 23:58:17,613 - INFO - Capuz de Mercenário 6.2
+Preco: 159961 Vendidos: 12
+2026-05-12 23:58:23,522 - INFO - Capuz de Mercenário 6.3
+Preco: 490498 Vendidos: 3
+2026-05-12 23:58:28,379 - INFO - Capuz de Mercenário 7.0
+Preco: 74931 Vendidos: 94
+2026-05-12 23:58:31,206 - INFO - Capuz de Mercenário 7.1
+Preco: 179992 Vendidos: 11
+2026-05-12 23:58:37,121 - INFO - Capuz de Mercenário 7.2
+Preco: 449980 Vendidos: 3
+2026-05-12 23:58:39,981 - INFO - Capuz de Mercenário 7.3
+Preco: 1519994 Vendidos: 0
+2026-05-12 23:58:44,846 - INFO - Capuz de Mercenário 8.0
+Preco: 177749 Vendidos: 27
+2026-05-12 23:58:50,739 - INFO - Capuz de Mercenário 8.1
+Preco: 475968 Vendidos: 9
+2026-05-12 23:58:53,595 - INFO - Capuz de Mercenário 8.2
+Preco: 1489999 Vendidos: 0
+2026-05-12 23:58:56,466 - INFO - Capuz de Mercenário 8.3
+Preco: 3198957 Vendidos: 0
+2026-05-12 23:58:57,419 - INFO - 
+[18/38] Capuz de Caçador
+2026-05-12 23:59:02,821 - INFO - Capuz de Caçador 5.0
+Preco: 7100 Vendidos: 1305
+2026-05-12 23:59:05,675 - WARNING - Preço suspeito para Capuz de Caçador T5.1: lido=17077, anterior=1192. Tentando confirmar...
+2026-05-12 23:59:05,960 - WARNING - Preço descartado para Capuz de Caçador T5.1; mantendo valor anterior no relatório.
+2026-05-12 23:59:05,960 - WARNING - [ERRO] Não foi possível extrair dados de Capuz de Caçador T5.1
+2026-05-12 23:59:05,984 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Capuz de Caçador_T5.1_20260512_235905.png
+2026-05-12 23:59:08,847 - INFO - Capuz de Caçador 5.2
+Preco: 44986 Vendidos: 104
+2026-05-12 23:59:17,579 - INFO - Capuz de Caçador 5.3
+Preco: 191980 Vendidos: 8
+2026-05-12 23:59:22,447 - INFO - Capuz de Caçador 6.0
+Preco: 27421 Vendidos: 1164
+2026-05-12 23:59:28,243 - INFO - Capuz de Caçador 6.1
+Preco: 53178 Vendidos: 387
+2026-05-12 23:59:31,077 - INFO - Capuz de Caçador 6.2
+Preco: 169967 Vendidos: 80
+2026-05-12 23:59:36,879 - INFO - Capuz de Caçador 6.3
+Preco: 479980 Vendidos: 12
+2026-05-12 23:59:41,748 - INFO - Capuz de Caçador 7.0
+Preco: 87496 Vendidos: 254
+2026-05-12 23:59:59,117 - INFO - Capuz de Caçador 7.1
+Preco: 184894 Vendidos: 53
+2026-05-13 00:00:01,985 - INFO - Capuz de Caçador 7.2
+Preco: 490479 Vendidos: 12
+2026-05-13 00:00:12,180 - INFO - Capuz de Caçador 7.3
+Preco: 1595000 Vendidos: 2
+2026-05-13 00:00:17,056 - INFO - Capuz de Caçador 8.0
+Preco: 179941 Vendidos: 135
+2026-05-13 00:00:19,903 - INFO - Capuz de Caçador 8.1
+Preco: 544464 Vendidos: 30
+2026-05-13 00:00:22,767 - INFO - Capuz de Caçador 8.2
+Preco: 1599999 Vendidos: 6
+2026-05-13 00:00:25,603 - INFO - Capuz de Caçador 8.3
+Preco: 4997993 Vendidos: 1
+2026-05-13 00:00:26,552 - INFO - 
+[19/38] Capuz de Assassino
+2026-05-13 00:00:31,955 - INFO - Capuz de Assassino 5.0
+Preco: 8611 Vendidos: 2009
+2026-05-13 00:00:37,854 - INFO - Capuz de Assassino 5.1
+Preco: 13000 Vendidos: 695
+2026-05-13 00:00:40,692 - INFO - Capuz de Assassino 5.2
+Preco: 43504 Vendidos: 69
+2026-05-13 00:00:46,583 - INFO - Capuz de Assassino 5.3
+Preco: 159098 Vendidos: 6
+2026-05-13 00:00:51,477 - INFO - Capuz de Assassino 6.0
+Preco: 25121 Vendidos: 1462
+2026-05-13 00:00:54,302 - INFO - Capuz de Assassino 6.1
+Preco: 41787 Vendidos: 620
+2026-05-13 00:01:00,192 - INFO - Capuz de Assassino 6.2
+Preco: 180998 Vendidos: 81
+2026-05-13 00:01:03,015 - INFO - Capuz de Assassino 6.3
+Preco: 489999 Vendidos: 8
+2026-05-13 00:01:07,865 - INFO - Capuz de Assassino 7.0
+Preco: 80986 Vendidos: 340
+2026-05-13 00:01:10,759 - INFO - Capuz de Assassino 7.1
+Preco: 154993 Vendidos: 71
+2026-05-13 00:01:16,655 - INFO - Capuz de Assassino 7.2
+Preco: 499000 Vendidos: 11
+2026-05-13 00:01:19,575 - INFO - Capuz de Assassino 7.3
+Preco: 1619986 Vendidos: 3
+2026-05-13 00:01:27,487 - INFO - Capuz de Assassino 8.0
+Preco: 185528 Vendidos: 91
+2026-05-13 00:01:30,398 - INFO - Capuz de Assassino 8.1
+Preco: 416147 Vendidos: 35
+2026-05-13 00:01:35,188 - INFO - Capuz de Assassino 8.2
+Preco: 1400469 Vendidos: 4
+2026-05-13 00:01:38,044 - INFO - Capuz de Assassino 8.3
+Preco: 3248781 Vendidos: 0
+2026-05-13 00:01:39,002 - INFO - 
+[20/38] Capuz de Espreitador
+2026-05-13 00:01:44,383 - INFO - Capuz de Espreitador 5.0
+Preco: 17994 Vendidos: 25
+2026-05-13 00:01:47,282 - INFO - Capuz de Espreitador 5.1
+Preco: 27490 Vendidos: 36
+2026-05-13 00:01:50,117 - INFO - Capuz de Espreitador 5.2
+Preco: 53986 Vendidos: 1
+2026-05-13 00:01:52,944 - INFO - Capuz de Espreitador 5.3
+Preco: 209999 Vendidos: 0
+2026-05-13 00:01:57,821 - INFO - Capuz de Espreitador 6.0
+Preco: 47999 Vendidos: 127
+2026-05-13 00:02:00,659 - INFO - Capuz de Espreitador 6.1
+Preco: 79995 Vendidos: 19
+2026-05-13 00:02:03,489 - INFO - Capuz de Espreitador 6.2
+Preco: 179985 Vendidos: 5
+2026-05-13 00:02:06,321 - INFO - Capuz de Espreitador 6.3
+Preco: 524997 Vendidos: 0
+2026-05-13 00:02:11,209 - INFO - Capuz de Espreitador 7.0
+Preco: 108995 Vendidos: 16
+2026-05-13 00:02:14,064 - INFO - Capuz de Espreitador 7.1
+Preco: 186157 Vendidos: 5
+2026-05-13 00:02:16,895 - INFO - Capuz de Espreitador 7.2
+Preco: 594997 Vendidos: 0
+2026-05-13 00:02:19,798 - INFO - Capuz de Espreitador 7.3
+Preco: 1589986 Vendidos: 0
+2026-05-13 00:02:24,677 - INFO - Capuz de Espreitador 8.0
+Preco: 372987 Vendidos: 3
+2026-05-13 00:02:27,585 - INFO - Capuz de Espreitador 8.1
+Preco: 579999 Vendidos: 2
+2026-05-13 00:02:30,404 - INFO - Capuz de Espreitador 8.2
+Preco: 1745994 Vendidos: 1
+2026-05-13 00:02:33,220 - INFO - Capuz de Espreitador 8.3
+Preco: 3639777 Vendidos: 0
+2026-05-13 00:02:34,167 - INFO - 
+[21/38] Elmo de Soldado
+2026-05-13 00:02:40,755 - INFO - Elmo de Soldado 5.0
+Preco: 6954 Vendidos: 792
+2026-05-13 00:02:46,685 - INFO - Elmo de Soldado 5.1
+Preco: 10859 Vendidos: 220
+2026-05-13 00:02:49,543 - INFO - Elmo de Soldado 5.2
+Preco: 44925 Vendidos: 13
+2026-05-13 00:02:52,430 - INFO - Elmo de Soldado 5.3
+Preco: 164399 Vendidos: 0
+2026-05-13 00:03:00,334 - INFO - Elmo de Soldado 6.0
+Preco: 15348 Vendidos: 623
+2026-05-13 00:03:03,179 - INFO - Elmo de Soldado 6.1
+Preco: 40690 Vendidos: 84
+2026-05-13 00:03:06,069 - INFO - Elmo de Soldado 6.2
+Preco: 158883 Vendidos: 16
+2026-05-13 00:03:08,923 - INFO - Elmo de Soldado 6.3
+Preco: 478842 Vendidos: 3
+2026-05-13 00:03:13,805 - INFO - Elmo de Soldado 7.0
+Preco: 55876 Vendidos: 101
+2026-05-13 00:03:16,635 - INFO - Elmo de Soldado 7.1
+Preco: 159741 Vendidos: 9
+2026-05-13 00:03:22,571 - INFO - Elmo de Soldado 7.2
+Preco: 533328 Vendidos: 9
+2026-05-13 00:03:25,385 - INFO - Elmo de Soldado 7.3
+Preco: 1549992 Vendidos: 1
+2026-05-13 00:03:33,238 - INFO - Elmo de Soldado 8.0
+Preco: 119498 Vendidos: 9
+2026-05-13 00:03:36,048 - INFO - Elmo de Soldado 8.1
+Preco: 448173 Vendidos: 1
+2026-05-13 00:03:38,918 - INFO - Elmo de Soldado 8.2
+Preco: 1547990 Vendidos: 0
+2026-05-13 00:03:41,792 - INFO - Elmo de Soldado 8.3
+Preco: 3486570 Vendidos: 0
+2026-05-13 00:03:42,750 - INFO - 
+[22/38] Elmo de Cavaleiro
+2026-05-13 00:03:55,916 - INFO - Elmo de Cavaleiro 5.0
+Preco: 7371 Vendidos: 675
+2026-05-13 00:03:58,846 - INFO - Elmo de Cavaleiro 5.1
+Preco: 10696 Vendidos: 282
+2026-05-13 00:04:04,944 - INFO - Elmo de Cavaleiro 5.2
+Preco: 48390 Vendidos: 20
+2026-05-13 00:04:11,032 - INFO - Elmo de Cavaleiro 5.3
+Preco: 219770 Vendidos: 1
+2026-05-13 00:04:15,959 - INFO - Elmo de Cavaleiro 6.0
+Preco: 16491 Vendidos: 619
+2026-05-13 00:04:18,845 - INFO - Elmo de Cavaleiro 6.1
+Preco: 38991 Vendidos: 131
+2026-05-13 00:04:21,702 - INFO - Elmo de Cavaleiro 6.2
+Preco: 294937 Vendidos: 1
+2026-05-13 00:04:27,736 - INFO - Elmo de Cavaleiro 6.3
+Preco: 479998 Vendidos: 5
+2026-05-13 00:04:32,635 - INFO - Elmo de Cavaleiro 7.0
+Preco: 58979 Vendidos: 171
+2026-05-13 00:04:38,538 - INFO - Elmo de Cavaleiro 7.1
+Preco: 148918 Vendidos: 19
+2026-05-13 00:04:41,398 - INFO - Elmo de Cavaleiro 7.2
+Preco: 528999 Vendidos: 4
+2026-05-13 00:04:44,316 - INFO - Elmo de Cavaleiro 7.3
+Preco: 1556324 Vendidos: 0
+2026-05-13 00:04:49,173 - INFO - Elmo de Cavaleiro 8.0
+Preco: 189999 Vendidos: 14
+2026-05-13 00:04:52,077 - INFO - Elmo de Cavaleiro 8.1
+Preco: 446986 Vendidos: 2
+2026-05-13 00:04:54,945 - INFO - Elmo de Cavaleiro 8.2
+Preco: 1279991 Vendidos: 1
+2026-05-13 00:04:57,799 - INFO - Elmo de Cavaleiro 8.3
+Preco: 2819882 Vendidos: 1
+2026-05-13 00:04:58,749 - INFO - 
+[23/38] Elmo de Guardião
+2026-05-13 00:05:18,951 - INFO - Elmo de Guardião 5.0
+Preco: 6970 Vendidos: 514
+2026-05-13 00:05:24,929 - INFO - Elmo de Guardião 5.1
+Preco: 10998 Vendidos: 137
+2026-05-13 00:05:27,777 - INFO - Elmo de Guardião 5.2
+Preco: 49472 Vendidos: 11
+2026-05-13 00:05:33,675 - INFO - Elmo de Guardião 5.3
+Preco: 249998 Vendidos: 0
+2026-05-13 00:05:38,576 - INFO - Elmo de Guardião 6.0
+Preco: 17939 Vendidos: 601
+2026-05-13 00:05:41,463 - INFO - Elmo de Guardião 6.1
+Preco: 45882 Vendidos: 46
+2026-05-13 00:05:47,399 - INFO - Elmo de Guardião 6.2
+Preco: 156948 Vendidos: 5
+2026-05-13 00:05:50,252 - INFO - Elmo de Guardião 6.3
+Preco: 449955 Vendidos: 0
+2026-05-13 00:05:55,178 - INFO - Elmo de Guardião 7.0
+Preco: 55937 Vendidos: 95
+2026-05-13 00:05:58,023 - INFO - Elmo de Guardião 7.1
+Preco: 159965 Vendidos: 27
+2026-05-13 00:06:00,840 - INFO - Elmo de Guardião 7.2
+Preco: 588654 Vendidos: 2
+2026-05-13 00:06:03,694 - INFO - Elmo de Guardião 7.3
+Preco: 1399784 Vendidos: 2
+2026-05-13 00:06:08,570 - INFO - Elmo de Guardião 8.0
+Preco: 130367 Vendidos: 13
+2026-05-13 00:06:11,437 - INFO - Elmo de Guardião 8.1
+Preco: 519987 Vendidos: 1
+2026-05-13 00:06:14,291 - INFO - Elmo de Guardião 8.2
+Preco: 1345253 Vendidos: 1
+2026-05-13 00:06:17,113 - INFO - Elmo de Guardião 8.3
+Preco: 3979997 Vendidos: 0
+2026-05-13 00:06:18,064 - INFO - 
+[24/38] Elmo de Guarda-tumbas
+2026-05-13 00:06:23,511 - INFO - Elmo de Guarda-tumbas 5.0
+Preco: 11497 Vendidos: 251
+2026-05-13 00:06:41,441 - WARNING - [ERRO] Não foi possível extrair dados de Elmo de Guarda-tumbas T5.1
+2026-05-13 00:06:41,465 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Elmo de Guarda-tumbas_T5.1_20260513_000641.png
+2026-05-13 00:06:44,306 - INFO - Elmo de Guarda-tumbas 5.2
+Preco: 40494 Vendidos: 6
+2026-05-13 00:06:47,137 - INFO - Elmo de Guarda-tumbas 5.3
+Preco: 299997 Vendidos: 0
+2026-05-13 00:06:52,013 - INFO - Elmo de Guarda-tumbas 6.0
+Preco: 32932 Vendidos: 233
+2026-05-13 00:06:54,902 - INFO - Elmo de Guarda-tumbas 6.1
+Preco: 55531 Vendidos: 59
+2026-05-13 00:06:57,816 - INFO - Elmo de Guarda-tumbas 6.2
+Preco: 178999 Vendidos: 12
+2026-05-13 00:07:00,691 - INFO - Elmo de Guarda-tumbas 6.3
+Preco: 459996 Vendidos: 2
+2026-05-13 00:07:08,676 - INFO - Elmo de Guarda-tumbas 7.0
+Preco: 69988 Vendidos: 55
+2026-05-13 00:07:11,552 - INFO - Elmo de Guarda-tumbas 7.1
+Preco: 167979 Vendidos: 12
+2026-05-13 00:07:14,415 - INFO - Elmo de Guarda-tumbas 7.2
+Preco: 699989 Vendidos: 1
+2026-05-13 00:07:17,274 - INFO - Elmo de Guarda-tumbas 7.3
+Preco: 1498970 Vendidos: 0
+2026-05-13 00:07:22,160 - INFO - Elmo de Guarda-tumbas 8.0
+Preco: 284989 Vendidos: 2
+2026-05-13 00:07:25,050 - INFO - Elmo de Guarda-tumbas 8.1
+Preco: 629991 Vendidos: 1
+2026-05-13 00:07:27,924 - INFO - Elmo de Guarda-tumbas 8.2
+Preco: 1419974 Vendidos: 0
+2026-05-13 00:07:30,766 - INFO - Elmo de Guarda-tumbas 8.3
+Preco: 2499979 Vendidos: 0
+2026-05-13 00:07:31,714 - INFO - 
+[25/38] Sandálias de Erudito
+2026-05-13 00:07:37,117 - WARNING - Preço suspeito para Sandálias de Erudito T5.0: lido=1977, anterior=8533. Tentando confirmar...
+2026-05-13 00:07:37,401 - WARNING - Preço descartado para Sandálias de Erudito T5.0; mantendo valor anterior no relatório.
+2026-05-13 00:07:37,401 - WARNING - [ERRO] Não foi possível extrair dados de Sandálias de Erudito T5.0
+2026-05-13 00:07:37,426 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Sandálias de Erudito_T5.0_20260513_000737.png
+2026-05-13 00:07:40,300 - INFO - Sandálias de Erudito 5.1
+Preco: 17284 Vendidos: 115
+2026-05-13 00:07:43,159 - INFO - Sandálias de Erudito 5.2
+Preco: 46450 Vendidos: 30
+2026-05-13 00:08:03,260 - INFO - Sandálias de Erudito 5.3
+Preco: 183900 Vendidos: 0
+2026-05-13 00:08:08,107 - INFO - Sandálias de Erudito 6.0
+Preco: 22475 Vendidos: 389
+2026-05-13 00:08:11,013 - INFO - Sandálias de Erudito 6.1
+Preco: 36996 Vendidos: 51
+2026-05-13 00:08:13,876 - INFO - Sandálias de Erudito 6.2
+Preco: 146336 Vendidos: 15
+2026-05-13 00:08:16,725 - INFO - Sandálias de Erudito 6.3
+Preco: 421985 Vendidos: 2
+2026-05-13 00:08:24,663 - INFO - Sandálias de Erudito 7.0
+Preco: 51458 Vendidos: 83
+2026-05-13 00:08:30,587 - INFO - Sandálias de Erudito 7.1
+Preco: 129980 Vendidos: 14
+2026-05-13 00:08:33,429 - INFO - Sandálias de Erudito 7.2
+Preco: 449945 Vendidos: 3
+2026-05-13 00:08:36,265 - INFO - Sandálias de Erudito 7.3
+Preco: 1387980 Vendidos: 0
+2026-05-13 00:08:41,095 - INFO - Sandálias de Erudito 8.0
+Preco: 155956 Vendidos: 12
+2026-05-13 00:08:43,957 - INFO - Sandálias de Erudito 8.1
+Preco: 374961 Vendidos: 6
+2026-05-13 00:08:46,831 - INFO - Sandálias de Erudito 8.2
+Preco: 1269991 Vendidos: 3
+2026-05-13 00:08:49,656 - INFO - Sandálias de Erudito 8.3
+Preco: 3799999 Vendidos: 0
+2026-05-13 00:08:50,613 - INFO - 
+[26/38] Sandálias de Clérigo
+2026-05-13 00:08:57,189 - INFO - Sandálias de Clérigo 5.0
+Preco: 8021 Vendidos: 755
+2026-05-13 00:09:00,013 - INFO - Sandálias de Clérigo 5.1
+Preco: 19196 Vendidos: 116
+2026-05-13 00:09:17,560 - INFO - Sandálias de Clérigo 5.2
+Preco: 46963 Vendidos: 17
+2026-05-13 00:09:20,396 - INFO - Sandálias de Clérigo 5.3
+Preco: 180993 Vendidos: 2
+2026-05-13 00:09:25,248 - INFO - Sandálias de Clérigo 6.0
+Preco: 19810 Vendidos: 428
+2026-05-13 00:09:28,111 - INFO - Sandálias de Clérigo 6.1
+Preco: 38985 Vendidos: 104
+2026-05-13 00:09:31,001 - INFO - Sandálias de Clérigo 6.2
+Preco: 153399 Vendidos: 11
+2026-05-13 00:09:33,825 - INFO - Sandálias de Clérigo 6.3
+Preco: 459999 Vendidos: 4
+2026-05-13 00:09:38,790 - INFO - Sandálias de Clérigo 7.0
+Preco: 48981 Vendidos: 102
+2026-05-13 00:09:41,639 - INFO - Sandálias de Clérigo 7.1
+Preco: 140977 Vendidos: 12
+2026-05-13 00:09:44,483 - INFO - Sandálias de Clérigo 7.2
+Preco: 411925 Vendidos: 3
+2026-05-13 00:09:47,384 - INFO - Sandálias de Clérigo 7.3
+Preco: 1480897 Vendidos: 0
+2026-05-13 00:09:52,278 - INFO - Sandálias de Clérigo 8.0
+Preco: 214962 Vendidos: 16
+2026-05-13 00:09:55,179 - INFO - Sandálias de Clérigo 8.1
+Preco: 434993 Vendidos: 7
+2026-05-13 00:10:12,212 - INFO - Sandálias de Clérigo 8.2
+Preco: 1169999 Vendidos: 2
+2026-05-13 00:10:15,039 - INFO - Sandálias de Clérigo 8.3
+Preco: 3575985 Vendidos: 1
+2026-05-13 00:10:15,996 - INFO - 
+[27/38] Sandálias de Mago
+2026-05-13 00:10:21,422 - INFO - Sandálias de Mago 5.0
+Preco: 9195 Vendidos: 763
+2026-05-13 00:10:24,295 - INFO - Sandálias de Mago 5.1
+Preco: 19933 Vendidos: 131
+2026-05-13 00:10:27,165 - INFO - Sandálias de Mago 5.2
+Preco: 42467 Vendidos: 11
+2026-05-13 00:10:33,106 - INFO - Sandálias de Mago 5.3
+Preco: 215478 Vendidos: 0
+2026-05-13 00:10:37,955 - INFO - Sandálias de Mago 6.0
+Preco: 19742 Vendidos: 537
+2026-05-13 00:10:40,804 - WARNING - Preço suspeito para Sandálias de Mago T6.1: lido=44460, anterior=469800. Tentando confirmar...
+2026-05-13 00:10:41,096 - WARNING - Preço descartado para Sandálias de Mago T6.1; mantendo valor anterior no relatório.
+2026-05-13 00:10:41,096 - WARNING - [ERRO] Não foi possível extrair dados de Sandálias de Mago T6.1
+2026-05-13 00:10:41,123 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Sandálias de Mago_T6.1_20260513_001041.png
+2026-05-13 00:10:44,004 - INFO - Sandálias de Mago 6.2
+Preco: 157946 Vendidos: 10
+2026-05-13 00:10:49,945 - INFO - Sandálias de Mago 6.3
+Preco: 408988 Vendidos: 4
+2026-05-13 00:10:54,807 - WARNING - Preço suspeito para Sandálias de Mago T7.0: lido=54150, anterior=540000. Tentando confirmar...
+2026-05-13 00:10:55,095 - WARNING - Preço descartado para Sandálias de Mago T7.0; mantendo valor anterior no relatório.
+2026-05-13 00:10:55,096 - WARNING - [ERRO] Não foi possível extrair dados de Sandálias de Mago T7.0
+2026-05-13 00:10:55,120 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Sandálias de Mago_T7.0_20260513_001055.png
+2026-05-13 00:11:01,044 - INFO - Sandálias de Mago 7.1
+Preco: 140388 Vendidos: 17
+2026-05-13 00:11:03,887 - INFO - Sandálias de Mago 7.2
+Preco: 335835 Vendidos: 8
+2026-05-13 00:11:06,732 - INFO - Sandálias de Mago 7.3
+Preco: 1499976 Vendidos: 0
+2026-05-13 00:11:11,574 - INFO - Sandálias de Mago 8.0
+Preco: 154427 Vendidos: 7
+2026-05-13 00:11:14,489 - INFO - Sandálias de Mago 8.1
+Preco: 381063 Vendidos: 2
+2026-05-13 00:11:17,329 - INFO - Sandálias de Mago 8.2
+Preco: 1222222 Vendidos: 1
+2026-05-13 00:11:23,410 - INFO - Sandálias de Mago 8.3
+Preco: 3999958 Vendidos: 0
+2026-05-13 00:11:24,361 - INFO - 
+[28/38] Sandálias de Druida
+2026-05-13 00:11:40,320 - INFO - Sandálias de Druida 5.0
+Preco: 14966 Vendidos: 343
+2026-05-13 00:11:43,181 - INFO - Sandálias de Druida 5.1
+Preco: 29976 Vendidos: 105
+2026-05-13 00:11:49,115 - INFO - Sandálias de Druida 5.2
+Preco: 55878 Vendidos: 15
+2026-05-13 00:11:51,984 - INFO - Sandálias de Druida 5.3
+Preco: 188937 Vendidos: 5
+2026-05-13 00:11:56,995 - INFO - Sandálias de Druida 6.0
+Preco: 33991 Vendidos: 427
+2026-05-13 00:11:59,858 - INFO - Sandálias de Druida 6.1
+Preco: 77966 Vendidos: 87
+2026-05-13 00:12:02,736 - INFO - Sandálias de Druida 6.2
+Preco: 194976 Vendidos: 15
+2026-05-13 00:12:05,551 - INFO - Sandálias de Druida 6.3
+Preco: 398999 Vendidos: 3
+2026-05-13 00:12:10,440 - INFO - Sandálias de Druida 7.0
+Preco: 65865 Vendidos: 120
+2026-05-13 00:12:13,330 - INFO - Sandálias de Druida 7.1
+Preco: 159981 Vendidos: 10
+2026-05-13 00:12:16,176 - INFO - Sandálias de Druida 7.2
+Preco: 508991 Vendidos: 2
+2026-05-13 00:12:19,023 - INFO - Sandálias de Druida 7.3
+Preco: 1499990 Vendidos: 1
+2026-05-13 00:12:23,947 - INFO - Sandálias de Druida 8.0
+Preco: 267456 Vendidos: 30
+2026-05-13 00:12:26,794 - INFO - Sandálias de Druida 8.1
+Preco: 599999 Vendidos: 5
+2026-05-13 00:12:29,660 - INFO - Sandálias de Druida 8.2
+Preco: 1498493 Vendidos: 1
+2026-05-13 00:12:32,579 - INFO - Sandálias de Druida 8.3
+Preco: 2599999 Vendidos: 0
+2026-05-13 00:12:33,527 - INFO - 
+[29/38] Sapatos de Mercenário
+2026-05-13 00:12:56,541 - INFO - Sapatos de Mercenário 5.0
+Preco: 8188 Vendidos: 2055
+2026-05-13 00:12:59,395 - INFO - Sapatos de Mercenário 5.1
+Preco: 12465 Vendidos: 624
+2026-05-13 00:13:02,261 - INFO - Sapatos de Mercenário 5.2
+Preco: 43879 Vendidos: 123
+2026-05-13 00:13:05,125 - INFO - Sapatos de Mercenário 5.3
+Preco: 164997 Vendidos: 12
+2026-05-13 00:13:10,005 - INFO - Sapatos de Mercenário 6.0
+Preco: 26803 Vendidos: 1427
+2026-05-13 00:13:16,086 - INFO - Sapatos de Mercenário 6.1
+Preco: 47488 Vendidos: 550
+2026-05-13 00:13:18,938 - INFO - Sapatos de Mercenário 6.2
+Preco: 169887 Vendidos: 54
+2026-05-13 00:13:21,836 - INFO - Sapatos de Mercenário 6.3
+Preco: 484991 Vendidos: 7
+2026-05-13 00:13:26,767 - INFO - Sapatos de Mercenário 7.0
+Preco: 73993 Vendidos: 464
+2026-05-13 00:13:29,648 - INFO - Sapatos de Mercenário 7.1
+Preco: 165731 Vendidos: 66
+2026-05-13 00:13:32,507 - INFO - Sapatos de Mercenário 7.2
+Preco: 469896 Vendidos: 8
+2026-05-13 00:13:43,763 - INFO - Sapatos de Mercenário 7.3
+Preco: 1389997 Vendidos: 3
+2026-05-13 00:13:51,680 - INFO - Sapatos de Mercenário 8.0
+Preco: 162990 Vendidos: 154
+2026-05-13 00:13:54,529 - INFO - Sapatos de Mercenário 8.1
+Preco: 484949 Vendidos: 20
+2026-05-13 00:14:12,151 - INFO - Sapatos de Mercenário 8.2
+Preco: 1357980 Vendidos: 4
+2026-05-13 00:14:29,646 - INFO - Sapatos de Mercenário 8.3
+Preco: 4134999 Vendidos: 0
+2026-05-13 00:14:30,593 - INFO - 
+[30/38] Sapatos de Caçador
+2026-05-13 00:14:38,978 - INFO - Sapatos de Caçador 5.0
+Preco: 8888 Vendidos: 951
+2026-05-13 00:14:41,824 - INFO - Sapatos de Caçador 5.1
+Preco: 12699 Vendidos: 218
+2026-05-13 00:14:44,696 - INFO - Sapatos de Caçador 5.2
+Preco: 48426 Vendidos: 24
+2026-05-13 00:14:47,509 - INFO - Sapatos de Caçador 5.3
+Preco: 193912 Vendidos: 1
+2026-05-13 00:14:52,335 - INFO - Sapatos de Caçador 6.0
+Preco: 24403 Vendidos: 300
+2026-05-13 00:14:55,179 - INFO - Sapatos de Caçador 6.1
+Preco: 41857 Vendidos: 38
+2026-05-13 00:14:58,006 - INFO - Sapatos de Caçador 6.2
+Preco: 205937 Vendidos: 7
+2026-05-13 00:15:03,915 - WARNING - Preço suspeito para Sapatos de Caçador T6.3: lido=476988, anterior=41466. Tentando confirmar...
+2026-05-13 00:15:07,166 - WARNING - Preço descartado para Sapatos de Caçador T6.3; mantendo valor anterior no relatório.
+2026-05-13 00:15:07,166 - WARNING - [ERRO] Não foi possível extrair dados de Sapatos de Caçador T6.3
+2026-05-13 00:15:07,190 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Sapatos de Caçador_T6.3_20260513_001507.png
+2026-05-13 00:15:12,061 - INFO - Sapatos de Caçador 7.0
+Preco: 87950 Vendidos: 85
+2026-05-13 00:15:14,911 - INFO - Sapatos de Caçador 7.1
+Preco: 239975 Vendidos: 18
+2026-05-13 00:15:21,156 - INFO - Sapatos de Caçador 7.2
+Preco: 477790 Vendidos: 3
+2026-05-13 00:15:24,011 - INFO - Sapatos de Caçador 7.3
+Preco: 1199991 Vendidos: 0
+2026-05-13 00:15:28,816 - INFO - Sapatos de Caçador 8.0
+Preco: 175775 Vendidos: 9
+2026-05-13 00:15:31,659 - INFO - Sapatos de Caçador 8.1
+Preco: 397343 Vendidos: 3
+2026-05-13 00:15:34,512 - INFO - Sapatos de Caçador 8.2
+Preco: 1460959 Vendidos: 1
+2026-05-13 00:15:40,435 - INFO - Sapatos de Caçador 8.3
+Preco: 3399888 Vendidos: 0
+2026-05-13 00:15:41,391 - INFO - 
+[31/38] Sapatos de Assassino
+2026-05-13 00:15:48,002 - INFO - Sapatos de Assassino 5.0
+Preco: 8545 Vendidos: 387
+2026-05-13 00:15:53,921 - INFO - Sapatos de Assassino 5.1
+Preco: 13391 Vendidos: 81
+2026-05-13 00:15:56,826 - INFO - Sapatos de Assassino 5.2
+Preco: 44499 Vendidos: 29
+2026-05-13 00:15:59,658 - INFO - Sapatos de Assassino 5.3
+Preco: 186972 Vendidos: 5
+2026-05-13 00:16:04,503 - INFO - Sapatos de Assassino 6.0
+Preco: 25989 Vendidos: 348
+2026-05-13 00:16:07,348 - INFO - Sapatos de Assassino 6.1
+Preco: 53910 Vendidos: 60
+2026-05-13 00:16:10,182 - INFO - Sapatos de Assassino 6.2
+Preco: 185951 Vendidos: 6
+2026-05-13 00:16:16,079 - INFO - Sapatos de Assassino 6.3
+Preco: 454900 Vendidos: 7
+2026-05-13 00:16:23,976 - INFO - Sapatos de Assassino 7.0
+Preco: 86728 Vendidos: 83
+2026-05-13 00:16:41,502 - INFO - Sapatos de Assassino 7.1
+Preco: 164863 Vendidos: 13
+2026-05-13 00:16:44,411 - INFO - Sapatos de Assassino 7.2
+Preco: 429683 Vendidos: 3
+2026-05-13 00:16:47,252 - INFO - Sapatos de Assassino 7.3
+Preco: 1344995 Vendidos: 0
+2026-05-13 00:16:55,154 - INFO - Sapatos de Assassino 8.0
+Preco: 176920 Vendidos: 15
+2026-05-13 00:17:01,027 - INFO - Sapatos de Assassino 8.1
+Preco: 464958 Vendidos: 4
+2026-05-13 00:17:03,879 - INFO - Sapatos de Assassino 8.2
+Preco: 1407992 Vendidos: 2
+2026-05-13 00:17:06,739 - INFO - Sapatos de Assassino 8.3
+Preco: 3200000 Vendidos: 0
+2026-05-13 00:17:07,691 - INFO - 
+[32/38] Sapatos de Espreitador
+2026-05-13 00:17:16,170 - INFO - Sapatos de Espreitador 5.0
+Preco: 30998 Vendidos: 62
+2026-05-13 00:17:19,032 - INFO - Sapatos de Espreitador 5.1
+Preco: 34989 Vendidos: 19
+2026-05-13 00:17:36,021 - INFO - Sapatos de Espreitador 5.2
+Preco: 62437 Vendidos: 4
+2026-05-13 00:17:38,870 - INFO - Sapatos de Espreitador 5.3
+Preco: 183964 Vendidos: 0
+2026-05-13 00:17:43,703 - INFO - Sapatos de Espreitador 6.0
+Preco: 96993 Vendidos: 82
+2026-05-13 00:17:46,546 - INFO - Sapatos de Espreitador 6.1
+Preco: 129997 Vendidos: 17
+2026-05-13 00:17:52,388 - INFO - Sapatos de Espreitador 6.2
+Preco: 225910 Vendidos: 15
+2026-05-13 00:17:55,306 - INFO - Sapatos de Espreitador 6.3
+Preco: 548900 Vendidos: 0
+2026-05-13 00:18:00,145 - INFO - Sapatos de Espreitador 7.0
+Preco: 135873 Vendidos: 19
+2026-05-13 00:18:03,005 - INFO - Sapatos de Espreitador 7.1
+Preco: 202966 Vendidos: 7
+2026-05-13 00:18:20,884 - WARNING - [ERRO] Não foi possível extrair dados de Sapatos de Espreitador T7.2
+2026-05-13 00:18:20,907 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Sapatos de Espreitador_T7.2_20260513_001820.png
+2026-05-13 00:18:26,795 - INFO - Sapatos de Espreitador 7.3
+Preco: 1588888 Vendidos: 0
+2026-05-13 00:18:31,643 - INFO - Sapatos de Espreitador 8.0
+Preco: 607979 Vendidos: 0
+2026-05-13 00:18:34,505 - INFO - Sapatos de Espreitador 8.1
+Preco: 889199 Vendidos: 0
+2026-05-13 00:18:37,379 - INFO - Sapatos de Espreitador 8.2
+Preco: 1999990 Vendidos: 0
+2026-05-13 00:18:40,203 - INFO - Sapatos de Espreitador 8.3
+Preco: 4199994 Vendidos: 0
+2026-05-13 00:18:41,156 - INFO - 
+[33/38] Botas de Soldado
+2026-05-13 00:18:46,543 - INFO - Botas de Soldado 5.0
+Preco: 6022 Vendidos: 659
+2026-05-13 00:18:49,394 - INFO - Botas de Soldado 5.1
+Preco: 9742 Vendidos: 140
+2026-05-13 00:18:52,223 - INFO - Botas de Soldado 5.2
+Preco: 43753 Vendidos: 14
+2026-05-13 00:18:55,059 - INFO - Botas de Soldado 5.3
+Preco: 159893 Vendidos: 0
+2026-05-13 00:19:00,042 - INFO - Botas de Soldado 6.0
+Preco: 16000 Vendidos: 306
+2026-05-13 00:19:02,936 - INFO - Botas de Soldado 6.1
+Preco: 34827 Vendidos: 45
+2026-05-13 00:19:05,772 - INFO - Botas de Soldado 6.2
+Preco: 141587 Vendidos: 16
+2026-05-13 00:19:08,634 - INFO - Botas de Soldado 6.3
+Preco: 409977 Vendidos: 3
+2026-05-13 00:19:13,537 - INFO - Botas de Soldado 7.0
+Preco: 44874 Vendidos: 92
+2026-05-13 00:19:16,394 - INFO - Botas de Soldado 7.1
+Preco: 145947 Vendidos: 13
+2026-05-13 00:19:19,214 - INFO - Botas de Soldado 7.2
+Preco: 489942 Vendidos: 1
+2026-05-13 00:19:22,096 - INFO - Botas de Soldado 7.3
+Preco: 1137980 Vendidos: 0
+2026-05-13 00:19:30,091 - INFO - Botas de Soldado 8.0
+Preco: 109988 Vendidos: 17
+2026-05-13 00:19:32,965 - INFO - Botas de Soldado 8.1
+Preco: 367981 Vendidos: 1
+2026-05-13 00:19:39,057 - INFO - Botas de Soldado 8.2
+Preco: 1068968 Vendidos: 0
+2026-05-13 00:19:41,908 - INFO - Botas de Soldado 8.3
+Preco: 2939999 Vendidos: 0
+2026-05-13 00:19:42,855 - INFO - 
+[34/38] Botas de Cavaleiro
+2026-05-13 00:19:48,399 - INFO - Botas de Cavaleiro 5.0
+Preco: 7365 Vendidos: 958
+2026-05-13 00:19:54,811 - INFO - Botas de Cavaleiro 5.1
+Preco: 11398 Vendidos: 165
+2026-05-13 00:19:57,725 - INFO - Botas de Cavaleiro 5.2
+Preco: 44279 Vendidos: 31
+2026-05-13 00:20:00,550 - INFO - Botas de Cavaleiro 5.3
+Preco: 149586 Vendidos: 4
+2026-05-13 00:20:05,418 - INFO - Botas de Cavaleiro 6.0
+Preco: 16690 Vendidos: 393
+2026-05-13 00:20:08,310 - INFO - Botas de Cavaleiro 6.1
+Preco: 32523 Vendidos: 64
+2026-05-13 00:20:11,261 - INFO - Botas de Cavaleiro 6.2
+Preco: 127861 Vendidos: 10
+2026-05-13 00:20:14,108 - INFO - Botas de Cavaleiro 6.3
+Preco: 420359 Vendidos: 3
+2026-05-13 00:20:19,011 - INFO - Botas de Cavaleiro 7.0
+Preco: 41865 Vendidos: 181
+2026-05-13 00:20:21,884 - INFO - Botas de Cavaleiro 7.1
+Preco: 111342 Vendidos: 47
+2026-05-13 00:20:24,832 - INFO - Botas de Cavaleiro 7.2
+Preco: 389999 Vendidos: 8
+2026-05-13 00:20:30,932 - INFO - Botas de Cavaleiro 7.3
+Preco: 1134998 Vendidos: 1
+2026-05-13 00:20:38,894 - INFO - Botas de Cavaleiro 8.0
+Preco: 128900 Vendidos: 20
+2026-05-13 00:20:41,761 - INFO - Botas de Cavaleiro 8.1
+Preco: 323302 Vendidos: 5
+2026-05-13 00:20:47,696 - INFO - Botas de Cavaleiro 8.2
+Preco: 1029978 Vendidos: 2
+2026-05-13 00:20:50,559 - INFO - Botas de Cavaleiro 8.3
+Preco: 2919999 Vendidos: 0
+2026-05-13 00:20:51,505 - INFO - 
+[35/38] Botas de Guardião
+2026-05-13 00:20:56,974 - INFO - Botas de Guardião 5.0
+Preco: 7770 Vendidos: 699
+2026-05-13 00:21:02,857 - INFO - Botas de Guardião 5.1
+Preco: 9968 Vendidos: 234
+2026-05-13 00:21:05,679 - INFO - Botas de Guardião 5.2
+Preco: 49659 Vendidos: 9
+2026-05-13 00:21:08,521 - INFO - Botas de Guardião 5.3
+Preco: 167872 Vendidos: 1
+2026-05-13 00:21:13,431 - INFO - Botas de Guardião 6.0
+Preco: 16419 Vendidos: 487
+2026-05-13 00:21:16,301 - INFO - Botas de Guardião 6.1
+Preco: 30950 Vendidos: 118
+2026-05-13 00:21:19,157 - INFO - Botas de Guardião 6.2
+Preco: 140765 Vendidos: 5
+2026-05-13 00:21:22,062 - INFO - Botas de Guardião 6.3
+Preco: 429993 Vendidos: 2
+2026-05-13 00:21:26,983 - INFO - Botas de Guardião 7.0
+Preco: 42851 Vendidos: 142
+2026-05-13 00:21:32,917 - INFO - Botas de Guardião 7.1
+Preco: 114888 Vendidos: 13
+2026-05-13 00:21:38,788 - INFO - Botas de Guardião 7.2
+Preco: 399780 Vendidos: 5
+2026-05-13 00:21:41,655 - INFO - Botas de Guardião 7.3
+Preco: 1139999 Vendidos: 1
+2026-05-13 00:21:49,520 - INFO - Botas de Guardião 8.0
+Preco: 118870 Vendidos: 16
+2026-05-13 00:21:52,356 - INFO - Botas de Guardião 8.1
+Preco: 316979 Vendidos: 11
+2026-05-13 00:21:55,232 - INFO - Botas de Guardião 8.2
+Preco: 1040977 Vendidos: 1
+2026-05-13 00:21:58,137 - INFO - Botas de Guardião 8.3
+Preco: 2889996 Vendidos: 0
+2026-05-13 00:21:59,088 - INFO - 
+[36/38] Botas de Guarda-tumbas
+2026-05-13 00:22:11,410 - INFO - Botas de Guarda-tumbas 5.0
+Preco: 20475 Vendidos: 89
+2026-05-13 00:22:14,257 - INFO - Botas de Guarda-tumbas 5.1
+Preco: 22693 Vendidos: 62
+2026-05-13 00:22:17,125 - INFO - Botas de Guarda-tumbas 5.2
+Preco: 57993 Vendidos: 1
+2026-05-13 00:22:23,001 - INFO - Botas de Guarda-tumbas 5.3
+Preco: 166960 Vendidos: 0
+2026-05-13 00:22:29,521 - INFO - Botas de Guarda-tumbas 6.0
+Preco: 36995 Vendidos: 168
+2026-05-13 00:22:32,391 - INFO - Botas de Guarda-tumbas 6.1
+Preco: 63000 Vendidos: 64
+2026-05-13 00:22:38,460 - INFO - Botas de Guarda-tumbas 6.2
+Preco: 163998 Vendidos: 4
+2026-05-13 00:22:41,340 - INFO - Botas de Guarda-tumbas 6.3
+Preco: 289956 Vendidos: 3
+2026-05-13 00:22:46,303 - INFO - Botas de Guarda-tumbas 7.0
+Preco: 69989 Vendidos: 72
+2026-05-13 00:22:52,280 - INFO - Botas de Guarda-tumbas 7.1
+Preco: 137990 Vendidos: 6
+2026-05-13 00:22:55,119 - INFO - Botas de Guarda-tumbas 7.2
+Preco: 514996 Vendidos: 1
+2026-05-13 00:22:57,951 - INFO - Botas de Guarda-tumbas 7.3
+Preco: 1669997 Vendidos: 0
+2026-05-13 00:23:20,863 - INFO - Botas de Guarda-tumbas 8.0
+Preco: 295000 Vendidos: 8
+2026-05-13 00:23:23,686 - INFO - Botas de Guarda-tumbas 8.1
+Preco: 606500 Vendidos: 0
+2026-05-13 00:23:26,612 - INFO - Botas de Guarda-tumbas 8.2
+Preco: 1745000 Vendidos: 0
+2026-05-13 00:23:29,449 - INFO - Botas de Guarda-tumbas 8.3
+Preco: 4023232 Vendidos: 0
+2026-05-13 00:23:30,403 - INFO - 
+[37/38] Capa
+2026-05-13 00:23:35,815 - INFO - Capa 5.0
+Preco: 9660 Vendidos: 1381
+2026-05-13 00:23:38,763 - WARNING - Preço suspeito para Capa T5.1: lido=21990, anterior=184820. Tentando confirmar...
+2026-05-13 00:23:39,056 - WARNING - Preço descartado para Capa T5.1; mantendo valor anterior no relatório.
+2026-05-13 00:23:39,056 - WARNING - [ERRO] Não foi possível extrair dados de Capa T5.1
+2026-05-13 00:23:39,081 - INFO - Screenshot de falha salvo em screenshots\failures\fail_Capa_T5.1_20260513_002339.png
+2026-05-13 00:23:45,251 - INFO - Capa 5.2
+Preco: 35000 Vendidos: 131
+2026-05-13 00:23:51,387 - INFO - Capa 5.3
+Preco: 184998 Vendidos: 13
+2026-05-13 00:23:56,275 - INFO - Capa 6.0
+Preco: 30581 Vendidos: 1658
+2026-05-13 00:23:59,144 - INFO - Capa 6.1
+Preco: 51784 Vendidos: 459
+2026-05-13 00:24:04,963 - INFO - Capa 6.2
+Preco: 190508 Vendidos: 81
+2026-05-13 00:24:07,837 - INFO - Capa 6.3
+Preco: 497997 Vendidos: 15
+2026-05-13 00:24:12,694 - INFO - Capa 7.0
+Preco: 79697 Vendidos: 341
+2026-05-13 00:24:15,567 - INFO - Capa 7.1
+Preco: 183974 Vendidos: 158
+2026-05-13 00:24:32,873 - INFO - Capa 7.2
+Preco: 477869 Vendidos: 24
+2026-05-13 00:24:35,694 - INFO - Capa 7.3
+Preco: 1689996 Vendidos: 3
+2026-05-13 00:24:54,841 - INFO - Capa 8.0
+Preco: 183967 Vendidos: 27
+2026-05-13 00:24:57,669 - INFO - Capa 8.1
+Preco: 493365 Vendidos: 8
+2026-05-13 00:25:03,563 - INFO - Capa 8.2
+Preco: 1469998 Vendidos: 8
+2026-05-13 00:25:06,424 - INFO - Capa 8.3
+Preco: 3648000 Vendidos: 2
+2026-05-13 00:25:07,369 - INFO - 
+[38/38] Bolsa
+2026-05-13 00:25:12,815 - INFO - Bolsa 5.0
+Preco: 18577 Vendidos: 1933
+2026-05-13 00:25:34,853 - INFO - Bolsa 5.1
+Preco: 32998 Vendidos: 304
+2026-05-13 00:25:37,737 - INFO - Bolsa 5.2
+Preco: 89194 Vendidos: 202
+2026-05-13 00:25:40,569 - INFO - Bolsa 5.3
+Preco: 328897 Vendidos: 38
+2026-05-13 00:25:45,453 - INFO - Bolsa 6.0
+Preco: 45956 Vendidos: 1960
+2026-05-13 00:25:48,313 - INFO - Bolsa 6.1
+Preco: 97194 Vendidos: 719
+2026-05-13 00:25:51,171 - INFO - Bolsa 6.2
+Preco: 372993 Vendidos: 111
+2026-05-13 00:25:54,096 - INFO - Bolsa 6.3
+Preco: 924999 Vendidos: 27
+2026-05-13 00:26:02,021 - INFO - Bolsa 7.0
+Preco: 142808 Vendidos: 820
+2026-05-13 00:26:07,932 - INFO - Bolsa 7.1
+Preco: 317668 Vendidos: 243
+2026-05-13 00:26:10,788 - INFO - Bolsa 7.2
+Preco: 875936 Vendidos: 46
+2026-05-13 00:26:13,627 - INFO - Bolsa 7.3
+Preco: 2579000 Vendidos: 6
+2026-05-13 00:26:18,466 - INFO - Bolsa 8.0
+Preco: 343693 Vendidos: 39
+2026-05-13 00:26:21,333 - INFO - Bolsa 8.1
+Preco: 819999 Vendidos: 27
+2026-05-13 00:26:24,231 - INFO - Bolsa 8.2
+Preco: 2859989 Vendidos: 5
+2026-05-13 00:26:41,661 - INFO - Bolsa 8.3
+Preco: 7099977 Vendidos: 4
+2026-05-13 00:26:42,618 - INFO - Coleta completa.
+2026-05-13 00:26:42,632 - INFO - Dados salvos em data/latest_market_data.json
+2026-05-13 00:26:42,646 - INFO - HTML gerado com 344 linhas
+2026-05-13 00:26:42,648 - INFO - HTML salvo em reports/market_analysis.html
+2026-05-13 00:26:42,660 - INFO - Dados salvos em data/latest_market_data.json
+2026-05-13 00:26:42,661 - INFO - [OK] Relatório gerado: reports/market_analysis.html
+2026-05-13 00:26:42,687 - ERROR - Erro ao gerar relatório: [WinError 2] O sistema não pode encontrar o arquivo especificado: 'reports/market_analysis.html'
+2026-05-13 00:26:57,787 - INFO - HTML gerado com 344 linhas
+2026-05-13 00:26:57,790 - INFO - HTML salvo em reports/market_analysis.html
+2026-05-13 00:26:57,801 - INFO - Dados salvos em data/latest_market_data.json
+2026-05-13 00:26:57,801 - INFO - [OK] Relatório gerado: reports/market_analysis.html
+2026-05-13 00:26:57,808 - ERROR - Erro ao gerar relatório: [WinError 2] O sistema não pode encontrar o arquivo especificado: 'reports/market_analysis.html'
+2026-05-13 00:27:09,602 - INFO - Aplicação encerrada

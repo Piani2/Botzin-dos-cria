@@ -2,73 +2,73 @@
   "Robe de Erudito": {
     "T5": {
       ".0": {
-        "price": 15510,
-        "quantity_sold": 1135
+        "price": 15577,
+        "quantity_sold": 790
       },
       ".1": {
-        "price": 24212,
-        "quantity_sold": 202
+        "price": 24571,
+        "quantity_sold": 218
       },
       ".2": {
-        "price": 74996,
-        "quantity_sold": 31
+        "price": 73996,
+        "quantity_sold": 17
       },
       ".3": {
-        "price": 370363,
-        "quantity_sold": 4
+        "price": 364000,
+        "quantity_sold": 2
       }
     },
     "T6": {
       ".0": {
-        "price": 35200,
-        "quantity_sold": 603
+        "price": 32987,
+        "quantity_sold": 577
       },
       ".1": {
-        "price": 66999,
-        "quantity_sold": 101
+        "price": 61992,
+        "quantity_sold": 126
       },
       ".2": {
-        "price": 296631,
-        "quantity_sold": 3
+        "price": 263999,
+        "quantity_sold": 14
       },
       ".3": {
-        "price": 651976,
-        "quantity_sold": 0
+        "price": 632991,
+        "quantity_sold": 1
       }
     },
     "T7": {
       ".0": {
-        "price": 96570,
-        "quantity_sold": 176
+        "price": 93489,
+        "quantity_sold": 174
       },
       ".1": {
-        "price": 244333,
-        "quantity_sold": 26
+        "price": 239961,
+        "quantity_sold": 20
       },
       ".2": {
-        "price": 722987,
+        "price": 666666,
         "quantity_sold": 2
       },
       ".3": {
-        "price": 2600000,
-        "quantity_sold": 2
+        "price": 2605553,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 279994,
-        "quantity_sold": 16
+        "price": 270426,
+        "quantity_sold": 17
       },
       ".1": {
-        "price": 598885,
-        "quantity_sold": 8
+        "price": 583750,
+        "quantity_sold": 5
       },
       ".2": {
-        "price": 2690990,
-        "quantity_sold": 4
+        "price": 2665992,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 6999996,
+        "price": 6999993,
         "quantity_sold": 0
       }
     }
@@ -76,73 +76,73 @@
   "Robe de Clérigo": {
     "T5": {
       ".0": {
-        "price": 16103,
-        "quantity_sold": 894
+        "price": 13989,
+        "quantity_sold": 1139
       },
       ".1": {
-        "price": 25339,
-        "quantity_sold": 128
+        "price": 25314,
+        "quantity_sold": 150
       },
       ".2": {
-        "price": 68266,
-        "quantity_sold": 23
+        "price": 66970,
+        "quantity_sold": 9
       },
       ".3": {
-        "price": 269999,
-        "quantity_sold": 0
+        "price": 303350,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 34089,
-        "quantity_sold": 518
+        "price": 34103,
+        "quantity_sold": 504
       },
       ".1": {
-        "price": 66995,
-        "quantity_sold": 76
+        "price": 67916,
+        "quantity_sold": 75
       },
       ".2": {
-        "price": 239000,
-        "quantity_sold": 25
+        "price": 260916,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 601897,
-        "quantity_sold": 4
+        "price": 601853,
+        "quantity_sold": 1
       }
     },
     "T7": {
       ".0": {
-        "price": 97910,
-        "quantity_sold": 142
+        "price": 94951,
+        "quantity_sold": 112
       },
       ".1": {
-        "price": 232778,
-        "quantity_sold": 22
+        "price": 232726,
+        "quantity_sold": 12
       },
       ".2": {
-        "price": 706858,
+        "price": 734937,
         "quantity_sold": 0
       },
       ".3": {
-        "price": 2195898,
-        "quantity_sold": 1
+        "price": 2128994,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 254429,
-        "quantity_sold": 22
+        "price": 248970,
+        "quantity_sold": 11
       },
       ".1": {
-        "price": 831990,
-        "quantity_sold": 5
+        "price": 822222,
+        "quantity_sold": 3
       },
       ".2": {
-        "price": 2627979,
+        "price": 2599988,
         "quantity_sold": 0
       },
       ".3": {
-        "price": 6299999,
+        "price": 6200000,
         "quantity_sold": 0
       }
     }
@@ -150,52 +150,52 @@
   "Robe de Mago": {
     "T5": {
       ".0": {
-        "price": 14887,
-        "quantity_sold": 575
+        "price": 14867,
+        "quantity_sold": 625
       },
       ".1": {
-        "price": 21996,
-        "quantity_sold": 189
+        "price": 25928,
+        "quantity_sold": 146
       },
       ".2": {
-        "price": 68994,
-        "quantity_sold": 53
+        "price": 67994,
+        "quantity_sold": 26
       },
       ".3": {
-        "price": 470999,
-        "quantity_sold": 4
+        "price": 464999,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 36990,
-        "quantity_sold": 539
+        "price": 37062,
+        "quantity_sold": 484
       },
       ".1": {
-        "price": 64499,
-        "quantity_sold": 126
+        "price": 64995,
+        "quantity_sold": 140
       },
       ".2": {
-        "price": 299991,
-        "quantity_sold": 16
+        "price": 285500,
+        "quantity_sold": 15
       },
       ".3": {
-        "price": 606967,
-        "quantity_sold": 5
+        "price": 599988,
+        "quantity_sold": 6
       }
     },
     "T7": {
       ".0": {
-        "price": 97905,
-        "quantity_sold": 248
+        "price": 97833,
+        "quantity_sold": 200
       },
       ".1": {
-        "price": 299524,
-        "quantity_sold": 46
+        "price": 269993,
+        "quantity_sold": 29
       },
       ".2": {
-        "price": 672968,
-        "quantity_sold": 6
+        "price": 670998,
+        "quantity_sold": 5
       },
       ".3": {
         "price": 2400511,
@@ -204,93 +204,93 @@
     },
     "T8": {
       ".0": {
-        "price": 330980,
-        "quantity_sold": 14
+        "price": 313970,
+        "quantity_sold": 26
       },
       ".1": {
-        "price": 612970,
-        "quantity_sold": 6
+        "price": 608885,
+        "quantity_sold": 7
       },
       ".2": {
-        "price": 2499969,
+        "price": 2473999,
         "quantity_sold": 0
       },
       ".3": {
-        "price": 6999989,
-        "quantity_sold": 0
+        "price": 6999988,
+        "quantity_sold": 1
       }
     }
   },
   "Robe de Druida": {
     "T5": {
       ".0": {
-        "price": 29499,
-        "quantity_sold": 332
+        "price": 29997,
+        "quantity_sold": 298
       },
       ".1": {
-        "price": 39095,
-        "quantity_sold": 115
+        "price": 39986,
+        "quantity_sold": 98
       },
       ".2": {
-        "price": 72999,
-        "quantity_sold": 48
+        "price": 73969,
+        "quantity_sold": 10
       },
       ".3": {
-        "price": 359398,
+        "price": 357600,
         "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 73499,
-        "quantity_sold": 490
+        "price": 74996,
+        "quantity_sold": 438
       },
       ".1": {
-        "price": 113000,
-        "quantity_sold": 136
+        "price": 109997,
+        "quantity_sold": 74
       },
       ".2": {
-        "price": 279923,
-        "quantity_sold": 34
+        "price": 277478,
+        "quantity_sold": 31
       },
       ".3": {
-        "price": 719971,
-        "quantity_sold": 6
+        "price": 700000,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 121999,
-        "quantity_sold": 79
+        "price": 122985,
+        "quantity_sold": 70
       },
       ".1": {
-        "price": 258977,
+        "price": 247492,
         "quantity_sold": 18
       },
       ".2": {
-        "price": 659978,
-        "quantity_sold": 9
+        "price": 744995,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 2299993,
-        "quantity_sold": 1
+        "price": 2204961,
+        "quantity_sold": 2
       }
     },
     "T8": {
       ".0": {
-        "price": 423996,
-        "quantity_sold": 47
+        "price": 422469,
+        "quantity_sold": 21
       },
       ".1": {
-        "price": 1099990,
-        "quantity_sold": 5
+        "price": 1149760,
+        "quantity_sold": 6
       },
       ".2": {
-        "price": 2599970,
-        "quantity_sold": 2
+        "price": 2549998,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 6199999,
+        "price": 6454542,
         "quantity_sold": 0
       }
     }
@@ -302,69 +302,69 @@
         "quantity_sold": 1042
       },
       ".1": {
-        "price": 27395,
-        "quantity_sold": 158
+        "price": 27276,
+        "quantity_sold": 115
       },
       ".2": {
-        "price": 85688,
-        "quantity_sold": 9
+        "price": 85690,
+        "quantity_sold": 29
       },
       ".3": {
-        "price": 333426,
-        "quantity_sold": 2
+        "price": 333336,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 49926,
-        "quantity_sold": 407
+        "price": 49965,
+        "quantity_sold": 308
       },
       ".1": {
-        "price": 97660,
-        "quantity_sold": 63
+        "price": 91996,
+        "quantity_sold": 35
       },
       ".2": {
-        "price": 299983,
-        "quantity_sold": 3
+        "price": 324980,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 859962,
-        "quantity_sold": 1
+        "price": 947000,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 164589,
-        "quantity_sold": 85
+        "price": 164782,
+        "quantity_sold": 75
       },
       ".1": {
-        "price": 336496,
+        "price": 348654,
         "quantity_sold": 13
       },
       ".2": {
-        "price": 994080,
-        "quantity_sold": 6
+        "price": 1034994,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 3095974,
-        "quantity_sold": 0
+        "price": 3062118,
+        "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 339995,
-        "quantity_sold": 9
+        "price": 338098,
+        "quantity_sold": 8
       },
       ".1": {
-        "price": 995986,
+        "price": 966452,
         "quantity_sold": 3
       },
       ".2": {
-        "price": 2744921,
-        "quantity_sold": 0
+        "price": 2849913,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 6999982,
+        "price": 6999980,
         "quantity_sold": 1
       }
     }
@@ -372,69 +372,73 @@
   "Casaco de Caçador": {
     "T5": {
       ".0": {
-        "price": 18893,
-        "quantity_sold": 1106
+        "price": 18895,
+        "quantity_sold": 805
       },
       ".1": {
-        "price": 28868,
-        "quantity_sold": 160
+        "price": 28861,
+        "quantity_sold": 170
       },
       ".2": {
-        "price": 91997,
-        "quantity_sold": 12
+        "price": 91995,
+        "quantity_sold": 10
       },
       ".3": {
-        "price": 399999,
-        "quantity_sold": 1
+        "price": 426999,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 47189,
-        "quantity_sold": 508
+        "price": 46607,
+        "quantity_sold": 465
       },
       ".1": {
-        "price": 90371,
-        "quantity_sold": 95
+        "price": 89992,
+        "quantity_sold": 62
       },
       ".2": {
-        "price": 309997,
-        "quantity_sold": 16
+        "price": 311965,
+        "quantity_sold": 18
       },
       ".3": {
-        "price": 1095999,
-        "quantity_sold": 2
+        "price": 996997,
+        "quantity_sold": 6
       }
     },
     "T7": {
       ".0": {
-        "price": 164935,
-        "quantity_sold": 144
+        "price": 164888,
+        "quantity_sold": 145
       },
       ".1": {
-        "price": 328997,
-        "quantity_sold": 22
+        "price": 325546,
+        "quantity_sold": 25
       },
       ".2": {
-        "price": 996984,
-        "quantity_sold": 6
+        "price": 1009996,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 3152066,
-        "quantity_sold": 1
+        "price": 2599999,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 431108,
-        "quantity_sold": 13
+        "price": 367986,
+        "quantity_sold": 14
       },
       ".1": {
-        "price": 988883,
-        "quantity_sold": 5
+        "price": 961494,
+        "quantity_sold": 3
       },
       ".2": {
-        "price": 2882000,
+        "price": 2985999,
+        "quantity_sold": 2
+      },
+      ".3": {
+        "price": 7000000,
         "quantity_sold": 1
       }
     }
@@ -442,52 +446,52 @@
   "Casaco de Assassino": {
     "T5": {
       ".0": {
-        "price": 18602,
-        "quantity_sold": 1045
+        "price": 18428,
+        "quantity_sold": 807
       },
       ".1": {
-        "price": 29622,
-        "quantity_sold": 204
+        "price": 26000,
+        "quantity_sold": 123
       },
       ".2": {
-        "price": 88987,
-        "quantity_sold": 12
+        "price": 90940,
+        "quantity_sold": 39
       },
       ".3": {
-        "price": 399995,
-        "quantity_sold": 2
+        "price": 399980,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 46779,
-        "quantity_sold": 365
+        "price": 41731,
+        "quantity_sold": 452
       },
       ".1": {
-        "price": 98874,
-        "quantity_sold": 76
+        "price": 97986,
+        "quantity_sold": 47
       },
       ".2": {
-        "price": 378935,
-        "quantity_sold": 17
+        "price": 367774,
+        "quantity_sold": 8
       },
       ".3": {
-        "price": 985570,
-        "quantity_sold": 0
+        "price": 976996,
+        "quantity_sold": 1
       }
     },
     "T7": {
       ".0": {
-        "price": 159971,
-        "quantity_sold": 84
+        "price": 162651,
+        "quantity_sold": 96
       },
       ".1": {
-        "price": 419999,
-        "quantity_sold": 9
+        "price": 417984,
+        "quantity_sold": 15
       },
       ".2": {
-        "price": 950000,
-        "quantity_sold": 2
+        "price": 960969,
+        "quantity_sold": 4
       },
       ".3": {
         "price": 311111,
@@ -496,72 +500,72 @@
     },
     "T8": {
       ".0": {
-        "price": 376996,
-        "quantity_sold": 9
+        "price": 373296,
+        "quantity_sold": 7
       },
       ".1": {
-        "price": 975844,
+        "price": 1080569,
         "quantity_sold": 3
       },
       ".2": {
-        "price": 2790972,
-        "quantity_sold": 2
+        "price": 2799962,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 7387993,
-        "quantity_sold": 2
+        "price": 7387992,
+        "quantity_sold": 0
       }
     }
   },
   "Casaco de Espreitador": {
     "T5": {
       ".0": {
-        "price": 23999,
-        "quantity_sold": 232
+        "price": 24992,
+        "quantity_sold": 119
       },
       ".1": {
-        "price": 29988,
-        "quantity_sold": 55
+        "price": 30970,
+        "quantity_sold": 21
       },
       ".2": {
-        "price": 120000,
-        "quantity_sold": 2
+        "price": 120686,
+        "quantity_sold": 12
       },
       ".3": {
-        "price": 459986,
+        "price": 439999,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 83553,
-        "quantity_sold": 229
+        "price": 83550,
+        "quantity_sold": 180
       },
       ".1": {
-        "price": 108498,
-        "quantity_sold": 25
+        "price": 111996,
+        "quantity_sold": 27
       },
       ".2": {
-        "price": 299997,
-        "quantity_sold": 2
+        "price": 304890,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 940092,
+        "price": 939972,
         "quantity_sold": 1
       }
     },
     "T7": {
       ".0": {
-        "price": 190650,
-        "quantity_sold": 51
+        "price": 180700,
+        "quantity_sold": 38
       },
       ".1": {
-        "price": 364998,
-        "quantity_sold": 13
+        "price": 365919,
+        "quantity_sold": 5
       },
       ".2": {
-        "price": 1395981,
-        "quantity_sold": 0
+        "price": 1098992,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 2998986,
@@ -570,19 +574,19 @@
     },
     "T8": {
       ".0": {
-        "price": 513999,
-        "quantity_sold": 7
+        "price": 417776,
+        "quantity_sold": 3
       },
       ".1": {
-        "price": 1150000,
-        "quantity_sold": 2
+        "price": 1169998,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 3078997,
+        "price": 3179985,
         "quantity_sold": 0
       },
       ".3": {
-        "price": 7999997,
+        "price": 7200000,
         "quantity_sold": 0
       }
     }
@@ -590,144 +594,144 @@
   "Armadura de Soldado": {
     "T5": {
       ".0": {
-        "price": 19439,
-        "quantity_sold": 883
+        "price": 17729,
+        "quantity_sold": 578
       },
       ".1": {
-        "price": 25974,
-        "quantity_sold": 144
+        "price": 25968,
+        "quantity_sold": 140
       },
       ".2": {
-        "price": 94995,
-        "quantity_sold": 12
+        "price": 94839,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 400000,
-        "quantity_sold": 5
+        "price": 414984,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 42989,
-        "quantity_sold": 609
+        "price": 43785,
+        "quantity_sold": 536
       },
       ".1": {
-        "price": 82996,
-        "quantity_sold": 145
+        "price": 84469,
+        "quantity_sold": 93
       },
       ".2": {
-        "price": 328888,
-        "quantity_sold": 11
+        "price": 320000,
+        "quantity_sold": 14
       },
       ".3": {
-        "price": 1043998,
-        "quantity_sold": 3
+        "price": 1038999,
+        "quantity_sold": 4
       }
     },
     "T7": {
       ".0": {
-        "price": 98535,
-        "quantity_sold": 235
+        "price": 110991,
+        "quantity_sold": 166
       },
       ".1": {
-        "price": 279999,
-        "quantity_sold": 23
+        "price": 282991,
+        "quantity_sold": 30
       },
       ".2": {
-        "price": 1178886,
-        "quantity_sold": 3
+        "price": 1167981,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 2398874,
-        "quantity_sold": 2
+        "price": 2379999,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 293985,
-        "quantity_sold": 19
+        "price": 277982,
+        "quantity_sold": 11
       },
       ".1": {
-        "price": 977758,
-        "quantity_sold": 7
+        "price": 969977,
+        "quantity_sold": 3
       },
       ".2": {
-        "price": 2629944,
-        "quantity_sold": 0
+        "price": 2628179,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 5638829,
-        "quantity_sold": 2
+        "price": 5638821,
+        "quantity_sold": 1
       }
     }
   },
   "Armadura de Cavaleiro": {
     "T5": {
       ".0": {
-        "price": 18981,
-        "quantity_sold": 854
+        "price": 19205,
+        "quantity_sold": 675
       },
       ".1": {
-        "price": 31996,
-        "quantity_sold": 201
+        "price": 32233,
+        "quantity_sold": 74
       },
       ".2": {
-        "price": 103102,
-        "quantity_sold": 33
+        "price": 99491,
+        "quantity_sold": 27
       },
       ".3": {
-        "price": 400000,
-        "quantity_sold": 3
+        "price": 489999,
+        "quantity_sold": 4
       }
     },
     "T6": {
       ".0": {
-        "price": 39759,
-        "quantity_sold": 670
+        "price": 37986,
+        "quantity_sold": 547
       },
       ".1": {
-        "price": 80846,
-        "quantity_sold": 114
+        "price": 80990,
+        "quantity_sold": 125
       },
       ".2": {
-        "price": 316664,
-        "quantity_sold": 7
+        "price": 351891,
+        "quantity_sold": 10
       },
       ".3": {
-        "price": 1009989,
-        "quantity_sold": 2
+        "price": 1011111,
+        "quantity_sold": 4
       }
     },
     "T7": {
       ".0": {
-        "price": 95992,
-        "quantity_sold": 238
+        "price": 97763,
+        "quantity_sold": 176
       },
       ".1": {
-        "price": 308887,
-        "quantity_sold": 10
+        "price": 308868,
+        "quantity_sold": 18
       },
       ".2": {
-        "price": 1000000,
-        "quantity_sold": 3
+        "price": 1007767,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 2708975,
-        "quantity_sold": 1
+        "price": 2708974,
+        "quantity_sold": 2
       }
     },
     "T8": {
       ".0": {
-        "price": 284895,
+        "price": 274873,
         "quantity_sold": 7
       },
       ".1": {
-        "price": 838970,
-        "quantity_sold": 0
+        "price": 853958,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 2399274,
-        "quantity_sold": 0
+        "price": 2399270,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 6249989,
@@ -738,147 +742,147 @@
   "Armadura de Guardião": {
     "T5": {
       ".0": {
-        "price": 16947,
-        "quantity_sold": 1147
+        "price": 16809,
+        "quantity_sold": 918
       },
       ".1": {
-        "price": 27743,
-        "quantity_sold": 204
+        "price": 27735,
+        "quantity_sold": 174
       },
       ".2": {
-        "price": 92888,
-        "quantity_sold": 16
+        "price": 92289,
+        "quantity_sold": 50
       },
       ".3": {
-        "price": 400000,
-        "quantity_sold": 5
+        "price": 459874,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 39869,
-        "quantity_sold": 540
+        "price": 40712,
+        "quantity_sold": 640
       },
       ".1": {
-        "price": 79981,
-        "quantity_sold": 112
+        "price": 79996,
+        "quantity_sold": 79
       },
       ".2": {
-        "price": 387383,
-        "quantity_sold": 6
+        "price": 368778,
+        "quantity_sold": 3
       },
       ".3": {
-        "price": 985927,
-        "quantity_sold": 4
+        "price": 1149994,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 92198,
-        "quantity_sold": 182
+        "price": 95989,
+        "quantity_sold": 187
       },
       ".1": {
-        "price": 290000,
-        "quantity_sold": 16
+        "price": 294996,
+        "quantity_sold": 22
       },
       ".2": {
-        "price": 1000000,
-        "quantity_sold": 0
+        "price": 1010969,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 2749999,
-        "quantity_sold": 1
+        "price": 2819967,
+        "quantity_sold": 2
       }
     },
     "T8": {
       ".0": {
-        "price": 333997,
-        "quantity_sold": 11
+        "price": 318000,
+        "quantity_sold": 18
       },
       ".1": {
-        "price": 1000000,
-        "quantity_sold": 7
+        "price": 999997,
+        "quantity_sold": 0
       },
       ".2": {
-        "price": 2749998,
-        "quantity_sold": 1
+        "price": 3066666,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 6449000,
-        "quantity_sold": 2
+        "price": 6568570,
+        "quantity_sold": 0
       }
     }
   },
   "Armadura de Guarda-tumbas": {
     "T5": {
       ".0": {
-        "price": 21500,
-        "quantity_sold": 248
+        "price": 22965,
+        "quantity_sold": 142
       },
       ".1": {
-        "price": 36995,
-        "quantity_sold": 75
+        "price": 36997,
+        "quantity_sold": 38
       },
       ".2": {
-        "price": 144935,
-        "quantity_sold": 6
+        "price": 139998,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 449996,
-        "quantity_sold": 2
+        "price": 449111,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 59499,
-        "quantity_sold": 268
+        "price": 59965,
+        "quantity_sold": 238
       },
       ".1": {
-        "price": 103979,
-        "quantity_sold": 60
+        "price": 103980,
+        "quantity_sold": 34
       },
       ".2": {
-        "price": 398388,
-        "quantity_sold": 3
+        "price": 380000,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 949999,
-        "quantity_sold": 3
+        "price": 902999,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 123908,
-        "quantity_sold": 68
+        "price": 125287,
+        "quantity_sold": 67
       },
       ".1": {
-        "price": 364999,
-        "quantity_sold": 17
+        "price": 365357,
+        "quantity_sold": 12
       },
       ".2": {
-        "price": 1068986,
+        "price": 1068981,
         "quantity_sold": 1
       },
       ".3": {
-        "price": 2949986,
+        "price": 2949985,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 430000,
-        "quantity_sold": 27
+        "price": 426950,
+        "quantity_sold": 15
       },
       ".1": {
-        "price": 1158997,
-        "quantity_sold": 0
+        "price": 1149999,
+        "quantity_sold": 2
       },
       ".2": {
         "price": 3489996,
         "quantity_sold": 1
       },
       ".3": {
-        "price": 5150000,
+        "price": 5779995,
         "quantity_sold": 0
       }
     }
@@ -886,73 +890,73 @@
   "Capote de Erudito": {
     "T5": {
       ".0": {
-        "price": 8725,
-        "quantity_sold": 623
+        "price": 8700,
+        "quantity_sold": 425
       },
       ".1": {
         "price": 192890,
         "quantity_sold": 428
       },
       ".2": {
-        "price": 37569,
-        "quantity_sold": 19
+        "price": 37986,
+        "quantity_sold": 24
       },
       ".3": {
-        "price": 136999,
-        "quantity_sold": 1
+        "price": 178773,
+        "quantity_sold": 3
       }
     },
     "T6": {
       ".0": {
-        "price": 19987,
-        "quantity_sold": 392
+        "price": 19904,
+        "quantity_sold": 414
       },
       ".1": {
-        "price": 34987,
-        "quantity_sold": 117
+        "price": 35896,
+        "quantity_sold": 75
       },
       ".2": {
-        "price": 132222,
-        "quantity_sold": 10
+        "price": 136588,
+        "quantity_sold": 9
       },
       ".3": {
-        "price": 304997,
-        "quantity_sold": 1
+        "price": 305647,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 51981,
-        "quantity_sold": 133
+        "price": 51851,
+        "quantity_sold": 124
       },
       ".1": {
-        "price": 136000,
-        "quantity_sold": 38
+        "price": 136972,
+        "quantity_sold": 20
       },
       ".2": {
-        "price": 499497,
-        "quantity_sold": 1
+        "price": 489999,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 1227929,
+        "price": 1227927,
         "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 165939,
-        "quantity_sold": 4
+        "price": 156841,
+        "quantity_sold": 18
       },
       ".1": {
-        "price": 341979,
-        "quantity_sold": 4
+        "price": 335986,
+        "quantity_sold": 9
       },
       ".2": {
-        "price": 1100998,
-        "quantity_sold": 0
+        "price": 1106930,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 2999000,
+        "price": 2820500,
         "quantity_sold": 0
       }
     }
@@ -960,73 +964,73 @@
   "Capote de Clérigo": {
     "T5": {
       ".0": {
-        "price": 9490,
-        "quantity_sold": 625
+        "price": 8803,
+        "quantity_sold": 385
       },
       ".1": {
-        "price": 16477,
-        "quantity_sold": 200
+        "price": 16452,
+        "quantity_sold": 129
       },
       ".2": {
-        "price": 34999,
-        "quantity_sold": 74
+        "price": 33328,
+        "quantity_sold": 12
       },
       ".3": {
-        "price": 167913,
-        "quantity_sold": 3
+        "price": 167980,
+        "quantity_sold": 4
       }
     },
     "T6": {
       ".0": {
-        "price": 22525,
-        "quantity_sold": 601
+        "price": 22497,
+        "quantity_sold": 521
       },
       ".1": {
-        "price": 38988,
-        "quantity_sold": 58
+        "price": 39979,
+        "quantity_sold": 83
       },
       ".2": {
-        "price": 142222,
-        "quantity_sold": 11
+        "price": 142958,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 409993,
-        "quantity_sold": 5
+        "price": 404969,
+        "quantity_sold": 4
       }
     },
     "T7": {
       ".0": {
-        "price": 49996,
-        "quantity_sold": 118
+        "price": 48886,
+        "quantity_sold": 121
       },
       ".1": {
-        "price": 154999,
-        "quantity_sold": 22
+        "price": 143986,
+        "quantity_sold": 31
       },
       ".2": {
-        "price": 454706,
-        "quantity_sold": 2
+        "price": 454678,
+        "quantity_sold": 8
       },
       ".3": {
         "price": 1308728,
-        "quantity_sold": 2
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 221105,
-        "quantity_sold": 7
+        "price": 202956,
+        "quantity_sold": 16
       },
       ".1": {
-        "price": 386991,
-        "quantity_sold": 3
+        "price": 384964,
+        "quantity_sold": 4
       },
       ".2": {
-        "price": 1099978,
+        "price": 1094994,
         "quantity_sold": 2
       },
       ".3": {
-        "price": 2729822,
+        "price": 2729821,
         "quantity_sold": 2
       }
     }
@@ -1034,74 +1038,74 @@
   "Capote de Mago": {
     "T5": {
       ".0": {
-        "price": 10455,
-        "quantity_sold": 750
+        "price": 10117,
+        "quantity_sold": 506
       },
       ".1": {
-        "price": 16821,
-        "quantity_sold": 130
+        "price": 16824,
+        "quantity_sold": 107
       },
       ".2": {
-        "price": 38999,
-        "quantity_sold": 22
+        "price": 40950,
+        "quantity_sold": 27
       },
       ".3": {
-        "price": 199895,
-        "quantity_sold": 5
+        "price": 189992,
+        "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 23485,
-        "quantity_sold": 342
+        "price": 22888,
+        "quantity_sold": 315
       },
       ".1": {
-        "price": 38985,
-        "quantity_sold": 108
+        "price": 41790,
+        "quantity_sold": 80
       },
       ".2": {
-        "price": 146444,
-        "quantity_sold": 8
+        "price": 142829,
+        "quantity_sold": 10
       },
       ".3": {
-        "price": 436425,
-        "quantity_sold": 2
+        "price": 435424,
+        "quantity_sold": 5
       }
     },
     "T7": {
       ".0": {
-        "price": 46769,
-        "quantity_sold": 119
+        "price": 48988,
+        "quantity_sold": 143
       },
       ".1": {
-        "price": 143987,
-        "quantity_sold": 27
+        "price": 142986,
+        "quantity_sold": 16
       },
       ".2": {
-        "price": 354868,
-        "quantity_sold": 5
+        "price": 373980,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 1289984,
+        "price": 1280000,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 178873,
-        "quantity_sold": 12
+        "price": 169957,
+        "quantity_sold": 21
       },
       ".1": {
-        "price": 325000,
+        "price": 319998,
         "quantity_sold": 7
       },
       ".2": {
-        "price": 1299929,
-        "quantity_sold": 0
+        "price": 1269893,
+        "quantity_sold": 3
       },
       ".3": {
-        "price": 2999992,
-        "quantity_sold": 1
+        "price": 2700000,
+        "quantity_sold": 0
       }
     }
   },
@@ -1113,286 +1117,286 @@
       },
       ".1": {
         "price": 22983,
-        "quantity_sold": 32
+        "quantity_sold": 6
       },
       ".2": {
         "price": 54989,
-        "quantity_sold": 11
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 174082,
-        "quantity_sold": 0
+        "price": 174074,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 40997,
-        "quantity_sold": 240
+        "price": 42990,
+        "quantity_sold": 162
       },
       ".1": {
-        "price": 79000,
-        "quantity_sold": 15
+        "price": 82990,
+        "quantity_sold": 17
       },
       ".2": {
-        "price": 184997,
-        "quantity_sold": 1
+        "price": 186956,
+        "quantity_sold": 6
       },
       ".3": {
-        "price": 380777,
-        "quantity_sold": 2
+        "price": 388786,
+        "quantity_sold": 1
       }
     },
     "T7": {
       ".0": {
-        "price": 72000,
-        "quantity_sold": 47
+        "price": 73427,
+        "quantity_sold": 21
       },
       ".1": {
-        "price": 220000,
-        "quantity_sold": 3
+        "price": 218993,
+        "quantity_sold": 4
       },
       ".2": {
-        "price": 477990,
+        "price": 434996,
         "quantity_sold": 0
       },
       ".3": {
-        "price": 1354320,
+        "price": 1299999,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 394000,
-        "quantity_sold": 5
+        "price": 379999,
+        "quantity_sold": 4
       },
       ".1": {
-        "price": 409590,
-        "quantity_sold": 2
+        "price": 499976,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 1697000,
-        "quantity_sold": 0
+        "price": 1679900,
+        "quantity_sold": 1
       }
     }
   },
   "Capuz de Mercenário": {
     "T5": {
       ".0": {
-        "price": 9736,
-        "quantity_sold": 997
+        "price": 9477,
+        "quantity_sold": 613
       },
       ".1": {
-        "price": 15297,
-        "quantity_sold": 188
+        "price": 16151,
+        "quantity_sold": 113
       },
       ".2": {
-        "price": 44273,
-        "quantity_sold": 24
+        "price": 44256,
+        "quantity_sold": 34
       },
       ".3": {
-        "price": 198987,
-        "quantity_sold": 5
+        "price": 198962,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 26849,
-        "quantity_sold": 326
+        "price": 25281,
+        "quantity_sold": 329
       },
       ".1": {
-        "price": 47951,
-        "quantity_sold": 57
+        "price": 41945,
+        "quantity_sold": 92
       },
       ".2": {
-        "price": 164995,
-        "quantity_sold": 8
+        "price": 159961,
+        "quantity_sold": 12
       },
       ".3": {
-        "price": 489000,
-        "quantity_sold": 1
+        "price": 490498,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 74973,
-        "quantity_sold": 116
+        "price": 74931,
+        "quantity_sold": 94
       },
       ".1": {
-        "price": 180607,
-        "quantity_sold": 10
+        "price": 179992,
+        "quantity_sold": 11
       },
       ".2": {
-        "price": 445000,
+        "price": 449980,
         "quantity_sold": 3
       },
       ".3": {
-        "price": 1589899,
+        "price": 1519994,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 185000,
-        "quantity_sold": 9
+        "price": 177749,
+        "quantity_sold": 27
       },
       ".1": {
-        "price": 452222,
-        "quantity_sold": 6
+        "price": 475968,
+        "quantity_sold": 9
       },
       ".2": {
-        "price": 1490916,
-        "quantity_sold": 1
+        "price": 1489999,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 3198993,
-        "quantity_sold": 1
+        "price": 3198957,
+        "quantity_sold": 0
       }
     }
   },
   "Capuz de Caçador": {
     "T5": {
       ".0": {
-        "price": 12487,
-        "quantity_sold": 1449
+        "price": 7100,
+        "quantity_sold": 1305
       },
       ".1": {
         "price": 1192,
         "quantity_sold": 479
       },
       ".2": {
-        "price": 44993,
-        "quantity_sold": 91
+        "price": 44986,
+        "quantity_sold": 104
       },
       ".3": {
-        "price": 191999,
-        "quantity_sold": 4
+        "price": 191980,
+        "quantity_sold": 8
       }
     },
     "T6": {
       ".0": {
-        "price": 27797,
-        "quantity_sold": 1335
+        "price": 27421,
+        "quantity_sold": 1164
       },
       ".1": {
-        "price": 53882,
-        "quantity_sold": 413
+        "price": 53178,
+        "quantity_sold": 387
       },
       ".2": {
-        "price": 176666,
-        "quantity_sold": 83
+        "price": 169967,
+        "quantity_sold": 80
       },
       ".3": {
-        "price": 479997,
-        "quantity_sold": 9
+        "price": 479980,
+        "quantity_sold": 12
       }
     },
     "T7": {
       ".0": {
-        "price": 88998,
-        "quantity_sold": 432
+        "price": 87496,
+        "quantity_sold": 254
       },
       ".1": {
-        "price": 180500,
-        "quantity_sold": 92
+        "price": 184894,
+        "quantity_sold": 53
       },
       ".2": {
-        "price": 494961,
-        "quantity_sold": 24
+        "price": 490479,
+        "quantity_sold": 12
       },
       ".3": {
-        "price": 1598862,
-        "quantity_sold": 0
+        "price": 1595000,
+        "quantity_sold": 2
       }
     },
     "T8": {
       ".0": {
-        "price": 179969,
-        "quantity_sold": 168
+        "price": 179941,
+        "quantity_sold": 135
       },
       ".1": {
-        "price": 578887,
-        "quantity_sold": 29
+        "price": 544464,
+        "quantity_sold": 30
       },
       ".2": {
-        "price": 1607171,
-        "quantity_sold": 3
+        "price": 1599999,
+        "quantity_sold": 6
       },
       ".3": {
-        "price": 3758851,
-        "quantity_sold": 0
+        "price": 4997993,
+        "quantity_sold": 1
       }
     }
   },
   "Capuz de Assassino": {
     "T5": {
       ".0": {
-        "price": 9146,
-        "quantity_sold": 2305
+        "price": 8611,
+        "quantity_sold": 2009
       },
       ".1": {
-        "price": 13066,
-        "quantity_sold": 992
+        "price": 13000,
+        "quantity_sold": 695
       },
       ".2": {
-        "price": 43514,
-        "quantity_sold": 95
+        "price": 43504,
+        "quantity_sold": 69
       },
       ".3": {
-        "price": 159129,
-        "quantity_sold": 15
+        "price": 159098,
+        "quantity_sold": 6
       }
     },
     "T6": {
       ".0": {
-        "price": 26542,
-        "quantity_sold": 1548
+        "price": 25121,
+        "quantity_sold": 1462
       },
       ".1": {
-        "price": 48819,
-        "quantity_sold": 485
+        "price": 41787,
+        "quantity_sold": 620
       },
       ".2": {
-        "price": 183171,
-        "quantity_sold": 69
+        "price": 180998,
+        "quantity_sold": 81
       },
       ".3": {
-        "price": 493982,
-        "quantity_sold": 12
+        "price": 489999,
+        "quantity_sold": 8
       }
     },
     "T7": {
       ".0": {
-        "price": 88992,
-        "quantity_sold": 428
+        "price": 80986,
+        "quantity_sold": 340
       },
       ".1": {
-        "price": 159966,
-        "quantity_sold": 107
+        "price": 154993,
+        "quantity_sold": 71
       },
       ".2": {
-        "price": 533994,
-        "quantity_sold": 13
+        "price": 499000,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 1620997,
-        "quantity_sold": 2
+        "price": 1619986,
+        "quantity_sold": 3
       }
     },
     "T8": {
       ".0": {
-        "price": 189262,
-        "quantity_sold": 196
+        "price": 185528,
+        "quantity_sold": 91
       },
       ".1": {
-        "price": 478980,
-        "quantity_sold": 27
+        "price": 416147,
+        "quantity_sold": 35
       },
       ".2": {
-        "price": 1406615,
-        "quantity_sold": 0
+        "price": 1400469,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 3248784,
+        "price": 3248781,
         "quantity_sold": 0
       }
     }
@@ -1400,70 +1404,70 @@
   "Capuz de Espreitador": {
     "T5": {
       ".0": {
-        "price": 17777,
-        "quantity_sold": 99
+        "price": 17994,
+        "quantity_sold": 25
       },
       ".1": {
-        "price": 22992,
-        "quantity_sold": 12
+        "price": 27490,
+        "quantity_sold": 36
       },
       ".2": {
-        "price": 53800,
-        "quantity_sold": 6
+        "price": 53986,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 229995,
+        "price": 209999,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 45999,
-        "quantity_sold": 205
+        "price": 47999,
+        "quantity_sold": 127
       },
       ".1": {
-        "price": 81000,
-        "quantity_sold": 24
+        "price": 79995,
+        "quantity_sold": 19
       },
       ".2": {
-        "price": 182906,
-        "quantity_sold": 1
+        "price": 179985,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 525000,
-        "quantity_sold": 2
+        "price": 524997,
+        "quantity_sold": 0
       }
     },
     "T7": {
       ".0": {
-        "price": 109997,
-        "quantity_sold": 29
+        "price": 108995,
+        "quantity_sold": 16
       },
       ".1": {
-        "price": 186180,
-        "quantity_sold": 2
+        "price": 186157,
+        "quantity_sold": 5
       },
       ".2": {
-        "price": 604998,
-        "quantity_sold": 1
+        "price": 594997,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 1589989,
+        "price": 1589986,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 376983,
-        "quantity_sold": 0
+        "price": 372987,
+        "quantity_sold": 3
       },
       ".1": {
-        "price": 586996,
-        "quantity_sold": 0
+        "price": 579999,
+        "quantity_sold": 2
       },
       ".2": {
-        "price": 1759987,
-        "quantity_sold": 0
+        "price": 1745994,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 3639777,
@@ -1474,73 +1478,73 @@
   "Elmo de Soldado": {
     "T5": {
       ".0": {
-        "price": 6975,
-        "quantity_sold": 1092
+        "price": 6954,
+        "quantity_sold": 792
       },
       ".1": {
-        "price": 10863,
-        "quantity_sold": 346
+        "price": 10859,
+        "quantity_sold": 220
       },
       ".2": {
         "price": 44925,
-        "quantity_sold": 31
+        "quantity_sold": 13
       },
       ".3": {
-        "price": 164591,
-        "quantity_sold": 3
+        "price": 164399,
+        "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 15185,
-        "quantity_sold": 537
+        "price": 15348,
+        "quantity_sold": 623
       },
       ".1": {
         "price": 40690,
-        "quantity_sold": 60
+        "quantity_sold": 84
       },
       ".2": {
-        "price": 159987,
-        "quantity_sold": 8
+        "price": 158883,
+        "quantity_sold": 16
       },
       ".3": {
-        "price": 499913,
-        "quantity_sold": 1
+        "price": 478842,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 56890,
-        "quantity_sold": 145
+        "price": 55876,
+        "quantity_sold": 101
       },
       ".1": {
-        "price": 199880,
-        "quantity_sold": 13
+        "price": 159741,
+        "quantity_sold": 9
       },
       ".2": {
-        "price": 540000,
-        "quantity_sold": 3
+        "price": 533328,
+        "quantity_sold": 9
       },
       ".3": {
-        "price": 1549993,
-        "quantity_sold": 0
+        "price": 1549992,
+        "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 121980,
-        "quantity_sold": 15
+        "price": 119498,
+        "quantity_sold": 9
       },
       ".1": {
-        "price": 449746,
-        "quantity_sold": 2
+        "price": 448173,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 1547995,
-        "quantity_sold": 2
+        "price": 1547990,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 3610000,
+        "price": 3486570,
         "quantity_sold": 0
       }
     }
@@ -1548,73 +1552,73 @@
   "Elmo de Cavaleiro": {
     "T5": {
       ".0": {
-        "price": 7593,
-        "quantity_sold": 896
+        "price": 7371,
+        "quantity_sold": 675
       },
       ".1": {
-        "price": 10762,
-        "quantity_sold": 351
+        "price": 10696,
+        "quantity_sold": 282
       },
       ".2": {
-        "price": 48398,
-        "quantity_sold": 33
+        "price": 48390,
+        "quantity_sold": 20
       },
       ".3": {
-        "price": 209992,
+        "price": 219770,
         "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 16919,
-        "quantity_sold": 664
+        "price": 16491,
+        "quantity_sold": 619
       },
       ".1": {
-        "price": 39993,
-        "quantity_sold": 149
+        "price": 38991,
+        "quantity_sold": 131
       },
       ".2": {
-        "price": 178888,
-        "quantity_sold": 10
+        "price": 294937,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 528998,
-        "quantity_sold": 1
+        "price": 479998,
+        "quantity_sold": 5
       }
     },
     "T7": {
       ".0": {
-        "price": 57941,
-        "quantity_sold": 194
+        "price": 58979,
+        "quantity_sold": 171
       },
       ".1": {
-        "price": 145143,
-        "quantity_sold": 26
+        "price": 148918,
+        "quantity_sold": 19
       },
       ".2": {
-        "price": 578946,
-        "quantity_sold": 1
+        "price": 528999,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 1579999,
-        "quantity_sold": 1
+        "price": 1556324,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 135548,
-        "quantity_sold": 12
+        "price": 189999,
+        "quantity_sold": 14
       },
       ".1": {
-        "price": 432213,
-        "quantity_sold": 1
+        "price": 446986,
+        "quantity_sold": 2
       },
       ".2": {
-        "price": 1279999,
-        "quantity_sold": 3
+        "price": 1279991,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 2719999,
+        "price": 2819882,
         "quantity_sold": 1
       }
     }
@@ -1622,73 +1626,73 @@
   "Elmo de Guardião": {
     "T5": {
       ".0": {
-        "price": 6974,
-        "quantity_sold": 659
+        "price": 6970,
+        "quantity_sold": 514
       },
       ".1": {
-        "price": 11596,
-        "quantity_sold": 327
+        "price": 10998,
+        "quantity_sold": 137
       },
       ".2": {
-        "price": 48888,
-        "quantity_sold": 19
+        "price": 49472,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 199929,
+        "price": 249998,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 19265,
-        "quantity_sold": 500
+        "price": 17939,
+        "quantity_sold": 601
       },
       ".1": {
-        "price": 45929,
-        "quantity_sold": 45
+        "price": 45882,
+        "quantity_sold": 46
       },
       ".2": {
-        "price": 159992,
-        "quantity_sold": 14
+        "price": 156948,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 487746,
+        "price": 449955,
         "quantity_sold": 0
       }
     },
     "T7": {
       ".0": {
-        "price": 58575,
-        "quantity_sold": 150
+        "price": 55937,
+        "quantity_sold": 95
       },
       ".1": {
-        "price": 160979,
-        "quantity_sold": 16
+        "price": 159965,
+        "quantity_sold": 27
       },
       ".2": {
-        "price": 599908,
-        "quantity_sold": 1
+        "price": 588654,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 1399787,
-        "quantity_sold": 3
+        "price": 1399784,
+        "quantity_sold": 2
       }
     },
     "T8": {
       ".0": {
-        "price": 134916,
-        "quantity_sold": 15
+        "price": 130367,
+        "quantity_sold": 13
       },
       ".1": {
-        "price": 518888,
-        "quantity_sold": 3
+        "price": 519987,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 1335881,
-        "quantity_sold": 2
+        "price": 1345253,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 3991868,
+        "price": 3979997,
         "quantity_sold": 0
       }
     }
@@ -1696,51 +1700,51 @@
   "Elmo de Guarda-tumbas": {
     "T5": {
       ".0": {
-        "price": 11872,
-        "quantity_sold": 494
+        "price": 11497,
+        "quantity_sold": 251
       },
       ".1": {
         "price": 15793,
         "quantity_sold": 32
       },
       ".2": {
-        "price": 40495,
-        "quantity_sold": 18
+        "price": 40494,
+        "quantity_sold": 6
       },
       ".3": {
-        "price": 399991,
+        "price": 299997,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 31493,
-        "quantity_sold": 319
+        "price": 32932,
+        "quantity_sold": 233
       },
       ".1": {
-        "price": 53991,
-        "quantity_sold": 40
+        "price": 55531,
+        "quantity_sold": 59
       },
       ".2": {
-        "price": 195998,
-        "quantity_sold": 1
+        "price": 178999,
+        "quantity_sold": 12
       },
       ".3": {
-        "price": 503979,
-        "quantity_sold": 0
+        "price": 459996,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 67986,
-        "quantity_sold": 56
+        "price": 69988,
+        "quantity_sold": 55
       },
       ".1": {
-        "price": 160000,
-        "quantity_sold": 13
+        "price": 167979,
+        "quantity_sold": 12
       },
       ".2": {
-        "price": 599878,
+        "price": 699989,
         "quantity_sold": 1
       },
       ".3": {
@@ -1750,16 +1754,16 @@
     },
     "T8": {
       ".0": {
-        "price": 297996,
-        "quantity_sold": 5
+        "price": 284989,
+        "quantity_sold": 2
       },
       ".1": {
-        "price": 640000,
-        "quantity_sold": 5
+        "price": 629991,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 1419980,
-        "quantity_sold": 2
+        "price": 1419974,
+        "quantity_sold": 0
       },
       ".3": {
         "price": 2499979,
@@ -1774,69 +1778,69 @@
         "quantity_sold": 592
       },
       ".1": {
-        "price": 17516,
-        "quantity_sold": 140
+        "price": 17284,
+        "quantity_sold": 115
       },
       ".2": {
-        "price": 43498,
-        "quantity_sold": 3
+        "price": 46450,
+        "quantity_sold": 30
       },
       ".3": {
-        "price": 161000,
-        "quantity_sold": 4
+        "price": 183900,
+        "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 25982,
-        "quantity_sold": 342
+        "price": 22475,
+        "quantity_sold": 389
       },
       ".1": {
-        "price": 40937,
-        "quantity_sold": 84
+        "price": 36996,
+        "quantity_sold": 51
       },
       ".2": {
-        "price": 156666,
-        "quantity_sold": 16
+        "price": 146336,
+        "quantity_sold": 15
       },
       ".3": {
-        "price": 429996,
-        "quantity_sold": 4
+        "price": 421985,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 51980,
-        "quantity_sold": 126
+        "price": 51458,
+        "quantity_sold": 83
       },
       ".1": {
-        "price": 136998,
-        "quantity_sold": 15
+        "price": 129980,
+        "quantity_sold": 14
       },
       ".2": {
-        "price": 456999,
+        "price": 449945,
         "quantity_sold": 3
       },
       ".3": {
-        "price": 1389995,
-        "quantity_sold": 1
+        "price": 1387980,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 160996,
-        "quantity_sold": 7
+        "price": 155956,
+        "quantity_sold": 12
       },
       ".1": {
-        "price": 380863,
-        "quantity_sold": 7
+        "price": 374961,
+        "quantity_sold": 6
       },
       ".2": {
-        "price": 1279000,
+        "price": 1269991,
         "quantity_sold": 3
       },
       ".3": {
-        "price": 3759000,
+        "price": 3799999,
         "quantity_sold": 0
       }
     }
@@ -1844,112 +1848,112 @@
   "Sandálias de Clérigo": {
     "T5": {
       ".0": {
-        "price": 8452,
-        "quantity_sold": 591
+        "price": 8021,
+        "quantity_sold": 755
       },
       ".1": {
-        "price": 19848,
-        "quantity_sold": 87
+        "price": 19196,
+        "quantity_sold": 116
       },
       ".2": {
-        "price": 47000,
-        "quantity_sold": 45
+        "price": 46963,
+        "quantity_sold": 17
       },
       ".3": {
-        "price": 154997,
-        "quantity_sold": 1
+        "price": 180993,
+        "quantity_sold": 2
       }
     },
     "T6": {
       ".0": {
-        "price": 19978,
-        "quantity_sold": 425
+        "price": 19810,
+        "quantity_sold": 428
       },
       ".1": {
-        "price": 40899,
-        "quantity_sold": 58
+        "price": 38985,
+        "quantity_sold": 104
       },
       ".2": {
-        "price": 152219,
-        "quantity_sold": 24
+        "price": 153399,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 470937,
-        "quantity_sold": 3
+        "price": 459999,
+        "quantity_sold": 4
       }
     },
     "T7": {
       ".0": {
-        "price": 51688,
-        "quantity_sold": 120
+        "price": 48981,
+        "quantity_sold": 102
       },
       ".1": {
-        "price": 147853,
+        "price": 140977,
         "quantity_sold": 12
       },
       ".2": {
-        "price": 418999,
+        "price": 411925,
         "quantity_sold": 3
       },
       ".3": {
-        "price": 1349880,
-        "quantity_sold": 1
+        "price": 1480897,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 231098,
-        "quantity_sold": 14
+        "price": 214962,
+        "quantity_sold": 16
       },
       ".1": {
-        "price": 448200,
-        "quantity_sold": 5
+        "price": 434993,
+        "quantity_sold": 7
       },
       ".2": {
-        "price": 1139978,
-        "quantity_sold": 1
+        "price": 1169999,
+        "quantity_sold": 2
       },
       ".3": {
         "price": 3575985,
-        "quantity_sold": 0
+        "quantity_sold": 1
       }
     }
   },
   "Sandálias de Mago": {
     "T5": {
       ".0": {
-        "price": 9636,
-        "quantity_sold": 313
+        "price": 9195,
+        "quantity_sold": 763
       },
       ".1": {
-        "price": 19969,
-        "quantity_sold": 140
+        "price": 19933,
+        "quantity_sold": 131
       },
       ".2": {
-        "price": 44499,
-        "quantity_sold": 2
+        "price": 42467,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 170000,
+        "price": 215478,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 22261,
-        "quantity_sold": 340
+        "price": 19742,
+        "quantity_sold": 537
       },
       ".1": {
         "price": 469800,
         "quantity_sold": 50
       },
       ".2": {
-        "price": 161110,
+        "price": 157946,
         "quantity_sold": 10
       },
       ".3": {
-        "price": 414996,
-        "quantity_sold": 2
+        "price": 408988,
+        "quantity_sold": 4
       }
     },
     "T7": {
@@ -1958,33 +1962,33 @@
         "quantity_sold": 114
       },
       ".1": {
-        "price": 142999,
-        "quantity_sold": 10
+        "price": 140388,
+        "quantity_sold": 17
       },
       ".2": {
-        "price": 332995,
-        "quantity_sold": 3
+        "price": 335835,
+        "quantity_sold": 8
       },
       ".3": {
-        "price": 1499987,
-        "quantity_sold": 2
+        "price": 1499976,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 159996,
-        "quantity_sold": 14
+        "price": 154427,
+        "quantity_sold": 7
       },
       ".1": {
-        "price": 384982,
-        "quantity_sold": 3
+        "price": 381063,
+        "quantity_sold": 2
       },
       ".2": {
-        "price": 1225499,
-        "quantity_sold": 0
+        "price": 1222222,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 3999960,
+        "price": 3999958,
         "quantity_sold": 0
       }
     }
@@ -1992,182 +1996,182 @@
   "Sandálias de Druida": {
     "T5": {
       ".0": {
-        "price": 14500,
-        "quantity_sold": 413
+        "price": 14966,
+        "quantity_sold": 343
       },
       ".1": {
-        "price": 29981,
-        "quantity_sold": 66
+        "price": 29976,
+        "quantity_sold": 105
       },
       ".2": {
-        "price": 55879,
-        "quantity_sold": 24
+        "price": 55878,
+        "quantity_sold": 15
       },
       ".3": {
         "price": 188937,
-        "quantity_sold": 2
+        "quantity_sold": 5
       }
     },
     "T6": {
       ".0": {
-        "price": 34999,
-        "quantity_sold": 384
+        "price": 33991,
+        "quantity_sold": 427
       },
       ".1": {
-        "price": 81999,
-        "quantity_sold": 78
+        "price": 77966,
+        "quantity_sold": 87
       },
       ".2": {
-        "price": 198996,
-        "quantity_sold": 23
+        "price": 194976,
+        "quantity_sold": 15
       },
       ".3": {
-        "price": 495490,
+        "price": 398999,
         "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 65840,
-        "quantity_sold": 117
+        "price": 65865,
+        "quantity_sold": 120
       },
       ".1": {
-        "price": 159988,
-        "quantity_sold": 20
+        "price": 159981,
+        "quantity_sold": 10
       },
       ".2": {
-        "price": 509940,
-        "quantity_sold": 3
+        "price": 508991,
+        "quantity_sold": 2
       },
       ".3": {
         "price": 1499990,
-        "quantity_sold": 0
+        "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 274995,
-        "quantity_sold": 32
+        "price": 267456,
+        "quantity_sold": 30
       },
       ".1": {
-        "price": 615586,
-        "quantity_sold": 6
+        "price": 599999,
+        "quantity_sold": 5
       },
       ".2": {
-        "price": 1498494,
-        "quantity_sold": 3
+        "price": 1498493,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 2599999,
-        "quantity_sold": 1
+        "quantity_sold": 0
       }
     }
   },
   "Sapatos de Mercenário": {
     "T5": {
       ".0": {
-        "price": 8206,
-        "quantity_sold": 2109
+        "price": 8188,
+        "quantity_sold": 2055
       },
       ".1": {
-        "price": 13266,
-        "quantity_sold": 721
+        "price": 12465,
+        "quantity_sold": 624
       },
       ".2": {
-        "price": 43881,
-        "quantity_sold": 137
+        "price": 43879,
+        "quantity_sold": 123
       },
       ".3": {
-        "price": 159668,
-        "quantity_sold": 19
+        "price": 164997,
+        "quantity_sold": 12
       }
     },
     "T6": {
       ".0": {
-        "price": 25994,
-        "quantity_sold": 1886
+        "price": 26803,
+        "quantity_sold": 1427
       },
       ".1": {
-        "price": 49728,
-        "quantity_sold": 503
+        "price": 47488,
+        "quantity_sold": 550
       },
       ".2": {
-        "price": 170952,
-        "quantity_sold": 81
+        "price": 169887,
+        "quantity_sold": 54
       },
       ".3": {
-        "price": 486630,
-        "quantity_sold": 10
+        "price": 484991,
+        "quantity_sold": 7
       }
     },
     "T7": {
       ".0": {
-        "price": 73847,
-        "quantity_sold": 462
+        "price": 73993,
+        "quantity_sold": 464
       },
       ".1": {
-        "price": 163971,
-        "quantity_sold": 83
+        "price": 165731,
+        "quantity_sold": 66
       },
       ".2": {
-        "price": 469970,
-        "quantity_sold": 16
+        "price": 469896,
+        "quantity_sold": 8
       },
       ".3": {
-        "price": 1393597,
+        "price": 1389997,
         "quantity_sold": 3
       }
     },
     "T8": {
       ".0": {
-        "price": 167979,
-        "quantity_sold": 200
+        "price": 162990,
+        "quantity_sold": 154
       },
       ".1": {
-        "price": 468000,
-        "quantity_sold": 40
+        "price": 484949,
+        "quantity_sold": 20
       },
       ".2": {
-        "price": 1265855,
+        "price": 1357980,
         "quantity_sold": 4
       },
       ".3": {
-        "price": 3697983,
-        "quantity_sold": 2
+        "price": 4134999,
+        "quantity_sold": 0
       }
     }
   },
   "Sapatos de Caçador": {
     "T5": {
       ".0": {
-        "price": 8964,
-        "quantity_sold": 1140
+        "price": 8888,
+        "quantity_sold": 951
       },
       ".1": {
-        "price": 12279,
-        "quantity_sold": 184
+        "price": 12699,
+        "quantity_sold": 218
       },
       ".2": {
-        "price": 43981,
-        "quantity_sold": 8
+        "price": 48426,
+        "quantity_sold": 24
       },
       ".3": {
-        "price": 192992,
+        "price": 193912,
         "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 24406,
-        "quantity_sold": 408
+        "price": 24403,
+        "quantity_sold": 300
       },
       ".1": {
-        "price": 41756,
-        "quantity_sold": 100
+        "price": 41857,
+        "quantity_sold": 38
       },
       ".2": {
-        "price": 205664,
-        "quantity_sold": 6
+        "price": 205937,
+        "quantity_sold": 7
       },
       ".3": {
         "price": 41466,
@@ -2176,34 +2180,34 @@
     },
     "T7": {
       ".0": {
-        "price": 84892,
-        "quantity_sold": 63
+        "price": 87950,
+        "quantity_sold": 85
       },
       ".1": {
-        "price": 249989,
-        "quantity_sold": 22
+        "price": 239975,
+        "quantity_sold": 18
       },
       ".2": {
-        "price": 417946,
-        "quantity_sold": 2
+        "price": 477790,
+        "quantity_sold": 3
       },
       ".3": {
-        "price": 1645888,
+        "price": 1199991,
         "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 176987,
-        "quantity_sold": 11
+        "price": 175775,
+        "quantity_sold": 9
       },
       ".1": {
-        "price": 398888,
-        "quantity_sold": 13
+        "price": 397343,
+        "quantity_sold": 3
       },
       ".2": {
-        "price": 1462968,
-        "quantity_sold": 0
+        "price": 1460959,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 3399888,
@@ -2214,73 +2218,73 @@
   "Sapatos de Assassino": {
     "T5": {
       ".0": {
-        "price": 8526,
-        "quantity_sold": 838
+        "price": 8545,
+        "quantity_sold": 387
       },
       ".1": {
-        "price": 13284,
-        "quantity_sold": 153
+        "price": 13391,
+        "quantity_sold": 81
       },
       ".2": {
-        "price": 43932,
-        "quantity_sold": 7
+        "price": 44499,
+        "quantity_sold": 29
       },
       ".3": {
-        "price": 186974,
-        "quantity_sold": 0
+        "price": 186972,
+        "quantity_sold": 5
       }
     },
     "T6": {
       ".0": {
         "price": 25989,
-        "quantity_sold": 383
+        "quantity_sold": 348
       },
       ".1": {
-        "price": 53956,
-        "quantity_sold": 61
+        "price": 53910,
+        "quantity_sold": 60
       },
       ".2": {
-        "price": 187777,
-        "quantity_sold": 9
+        "price": 185951,
+        "quantity_sold": 6
       },
       ".3": {
-        "price": 454066,
-        "quantity_sold": 4
+        "price": 454900,
+        "quantity_sold": 7
       }
     },
     "T7": {
       ".0": {
-        "price": 84984,
-        "quantity_sold": 51
+        "price": 86728,
+        "quantity_sold": 83
       },
       ".1": {
-        "price": 164914,
-        "quantity_sold": 19
+        "price": 164863,
+        "quantity_sold": 13
       },
       ".3": {
-        "price": 1450000,
+        "price": 1344995,
         "quantity_sold": 0
       },
       ".2": {
-        "price": 429745,
-        "quantity_sold": 2
+        "price": 429683,
+        "quantity_sold": 3
       }
     },
     "T8": {
       ".0": {
-        "price": 179990,
-        "quantity_sold": 7
+        "price": 176920,
+        "quantity_sold": 15
       },
       ".1": {
-        "price": 462222,
+        "price": 464958,
         "quantity_sold": 4
       },
       ".2": {
-        "price": 1198995,
-        "quantity_sold": 1
+        "price": 1407992,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 3297000,
+        "price": 3200000,
         "quantity_sold": 0
       }
     }
@@ -2288,69 +2292,69 @@
   "Sapatos de Espreitador": {
     "T5": {
       ".0": {
-        "price": 31999,
-        "quantity_sold": 61
+        "price": 30998,
+        "quantity_sold": 62
       },
       ".1": {
-        "price": 34000,
-        "quantity_sold": 90
+        "price": 34989,
+        "quantity_sold": 19
       },
       ".2": {
-        "price": 62453,
-        "quantity_sold": 0
+        "price": 62437,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 183985,
+        "price": 183964,
         "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 99995,
-        "quantity_sold": 71
+        "price": 96993,
+        "quantity_sold": 82
       },
       ".1": {
-        "price": 129993,
-        "quantity_sold": 12
+        "price": 129997,
+        "quantity_sold": 17
       },
       ".2": {
-        "price": 225952,
-        "quantity_sold": 3
+        "price": 225910,
+        "quantity_sold": 15
       },
       ".3": {
-        "price": 548996,
+        "price": 548900,
         "quantity_sold": 0
       }
     },
     "T7": {
       ".0": {
-        "price": 128977,
-        "quantity_sold": 37
+        "price": 135873,
+        "quantity_sold": 19
       },
       ".1": {
-        "price": 202996,
-        "quantity_sold": 6
+        "price": 202966,
+        "quantity_sold": 7
       },
       ".2": {
         "price": 600000,
         "quantity_sold": 1
       },
       ".3": {
-        "price": 1522100,
-        "quantity_sold": 1
+        "price": 1588888,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 608998,
-        "quantity_sold": 1
+        "price": 607979,
+        "quantity_sold": 0
       },
       ".1": {
-        "price": 898200,
+        "price": 889199,
         "quantity_sold": 0
       },
       ".2": {
-        "price": 1900000,
+        "price": 1999990,
         "quantity_sold": 0
       },
       ".3": {
@@ -2362,147 +2366,147 @@
   "Botas de Soldado": {
     "T5": {
       ".0": {
-        "price": 6166,
-        "quantity_sold": 693
+        "price": 6022,
+        "quantity_sold": 659
       },
       ".1": {
-        "price": 9751,
-        "quantity_sold": 320
+        "price": 9742,
+        "quantity_sold": 140
       },
       ".2": {
-        "price": 43650,
-        "quantity_sold": 9
+        "price": 43753,
+        "quantity_sold": 14
       },
       ".3": {
-        "price": 159923,
-        "quantity_sold": 4
+        "price": 159893,
+        "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 16094,
-        "quantity_sold": 462
+        "price": 16000,
+        "quantity_sold": 306
       },
       ".1": {
-        "price": 34826,
-        "quantity_sold": 67
+        "price": 34827,
+        "quantity_sold": 45
       },
       ".2": {
-        "price": 141953,
-        "quantity_sold": 17
+        "price": 141587,
+        "quantity_sold": 16
       },
       ".3": {
-        "price": 409994,
-        "quantity_sold": 2
+        "price": 409977,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 42499,
-        "quantity_sold": 90
+        "price": 44874,
+        "quantity_sold": 92
       },
       ".1": {
-        "price": 147973,
-        "quantity_sold": 15
+        "price": 145947,
+        "quantity_sold": 13
       },
       ".2": {
-        "price": 495995,
-        "quantity_sold": 0
+        "price": 489942,
+        "quantity_sold": 1
       },
       ".3": {
-        "price": 1137990,
-        "quantity_sold": 1
+        "price": 1137980,
+        "quantity_sold": 0
       }
     },
     "T8": {
       ".0": {
-        "price": 98987,
-        "quantity_sold": 15
+        "price": 109988,
+        "quantity_sold": 17
       },
       ".1": {
-        "price": 355984,
-        "quantity_sold": 4
+        "price": 367981,
+        "quantity_sold": 1
       },
       ".2": {
-        "price": 1079878,
-        "quantity_sold": 1
+        "price": 1068968,
+        "quantity_sold": 0
       },
       ".3": {
-        "price": 2989892,
-        "quantity_sold": 1
+        "price": 2939999,
+        "quantity_sold": 0
       }
     }
   },
   "Botas de Cavaleiro": {
     "T5": {
       ".0": {
-        "price": 7651,
-        "quantity_sold": 797
+        "price": 7365,
+        "quantity_sold": 958
       },
       ".1": {
-        "price": 11578,
-        "quantity_sold": 218
+        "price": 11398,
+        "quantity_sold": 165
       },
       ".2": {
-        "price": 44276,
-        "quantity_sold": 24
+        "price": 44279,
+        "quantity_sold": 31
       },
       ".3": {
-        "price": 149587,
-        "quantity_sold": 1
+        "price": 149586,
+        "quantity_sold": 4
       }
     },
     "T6": {
       ".0": {
-        "price": 15998,
-        "quantity_sold": 482
+        "price": 16690,
+        "quantity_sold": 393
       },
       ".1": {
-        "price": 31999,
+        "price": 32523,
         "quantity_sold": 64
       },
       ".2": {
-        "price": 129978,
-        "quantity_sold": 8
+        "price": 127861,
+        "quantity_sold": 10
       },
       ".3": {
-        "price": 424360,
-        "quantity_sold": 2
+        "price": 420359,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 40999,
-        "quantity_sold": 131
+        "price": 41865,
+        "quantity_sold": 181
       },
       ".1": {
-        "price": 113981,
-        "quantity_sold": 25
+        "price": 111342,
+        "quantity_sold": 47
       },
       ".2": {
-        "price": 409994,
-        "quantity_sold": 2
+        "price": 389999,
+        "quantity_sold": 8
       },
       ".3": {
-        "price": 1137964,
-        "quantity_sold": 0
+        "price": 1134998,
+        "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 130952,
-        "quantity_sold": 15
+        "price": 128900,
+        "quantity_sold": 20
       },
       ".1": {
-        "price": 329999,
-        "quantity_sold": 10
+        "price": 323302,
+        "quantity_sold": 5
       },
       ".2": {
-        "price": 999999,
-        "quantity_sold": 1
+        "price": 1029978,
+        "quantity_sold": 2
       },
       ".3": {
-        "price": 2949987,
+        "price": 2919999,
         "quantity_sold": 0
       }
     }
@@ -2510,73 +2514,73 @@
   "Botas de Guardião": {
     "T5": {
       ".0": {
-        "price": 7872,
-        "quantity_sold": 853
+        "price": 7770,
+        "quantity_sold": 699
       },
       ".1": {
-        "price": 9976,
-        "quantity_sold": 179
+        "price": 9968,
+        "quantity_sold": 234
       },
       ".2": {
-        "price": 46400,
-        "quantity_sold": 20
+        "price": 49659,
+        "quantity_sold": 9
       },
       ".3": {
-        "price": 167928,
-        "quantity_sold": 0
+        "price": 167872,
+        "quantity_sold": 1
       }
     },
     "T6": {
       ".0": {
-        "price": 16427,
-        "quantity_sold": 654
+        "price": 16419,
+        "quantity_sold": 487
       },
       ".1": {
-        "price": 29999,
-        "quantity_sold": 87
+        "price": 30950,
+        "quantity_sold": 118
       },
       ".2": {
-        "price": 129996,
-        "quantity_sold": 4
+        "price": 140765,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 430397,
-        "quantity_sold": 3
+        "price": 429993,
+        "quantity_sold": 2
       }
     },
     "T7": {
       ".0": {
-        "price": 42973,
-        "quantity_sold": 104
+        "price": 42851,
+        "quantity_sold": 142
       },
       ".1": {
-        "price": 116987,
-        "quantity_sold": 18
+        "price": 114888,
+        "quantity_sold": 13
       },
       ".2": {
-        "price": 398988,
-        "quantity_sold": 1
+        "price": 399780,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 1149897,
+        "price": 1139999,
         "quantity_sold": 1
       }
     },
     "T8": {
       ".0": {
-        "price": 104987,
-        "quantity_sold": 25
+        "price": 118870,
+        "quantity_sold": 16
       },
       ".2": {
-        "price": 1040000,
-        "quantity_sold": 2
+        "price": 1040977,
+        "quantity_sold": 1
       },
       ".1": {
-        "price": 299999,
-        "quantity_sold": 12
+        "price": 316979,
+        "quantity_sold": 11
       },
       ".3": {
-        "price": 2899600,
+        "price": 2889996,
         "quantity_sold": 0
       }
     }
@@ -2584,52 +2588,52 @@
   "Botas de Guarda-tumbas": {
     "T5": {
       ".0": {
-        "price": 19884,
-        "quantity_sold": 100
+        "price": 20475,
+        "quantity_sold": 89
       },
       ".1": {
-        "price": 22500,
-        "quantity_sold": 17
+        "price": 22693,
+        "quantity_sold": 62
       },
       ".2": {
-        "price": 55999,
+        "price": 57993,
         "quantity_sold": 1
       },
       ".3": {
-        "price": 167998,
-        "quantity_sold": 2
+        "price": 166960,
+        "quantity_sold": 0
       }
     },
     "T6": {
       ".0": {
-        "price": 35999,
-        "quantity_sold": 220
+        "price": 36995,
+        "quantity_sold": 168
       },
       ".1": {
-        "price": 62971,
-        "quantity_sold": 68
+        "price": 63000,
+        "quantity_sold": 64
       },
       ".2": {
-        "price": 159000,
-        "quantity_sold": 0
+        "price": 163998,
+        "quantity_sold": 4
       },
       ".3": {
-        "price": 289968,
-        "quantity_sold": 0
+        "price": 289956,
+        "quantity_sold": 3
       }
     },
     "T7": {
       ".0": {
-        "price": 69983,
-        "quantity_sold": 71
+        "price": 69989,
+        "quantity_sold": 72
       },
       ".1": {
-        "price": 134998,
-        "quantity_sold": 4
+        "price": 137990,
+        "quantity_sold": 6
       },
       ".2": {
-        "price": 514998,
-        "quantity_sold": 0
+        "price": 514996,
+        "quantity_sold": 1
       },
       ".3": {
         "price": 1669997,
@@ -2638,168 +2642,168 @@
     },
     "T8": {
       ".0": {
-        "price": 308999,
-        "quantity_sold": 3
+        "price": 295000,
+        "quantity_sold": 8
       },
       ".2": {
-        "price": 1749998,
-        "quantity_sold": 1
+        "price": 1745000,
+        "quantity_sold": 0
       },
       ".1": {
-        "price": 707200,
-        "quantity_sold": 3
+        "price": 606500,
+        "quantity_sold": 0
       },
       ".3": {
         "price": 4023232,
-        "quantity_sold": 1
+        "quantity_sold": 0
       }
     }
   },
   "Capa": {
     "T5": {
       ".0": {
-        "price": 9652,
-        "quantity_sold": 1465
+        "price": 9660,
+        "quantity_sold": 1381
       },
       ".1": {
         "price": 184820,
         "quantity_sold": 286
       },
       ".2": {
-        "price": 49998,
-        "quantity_sold": 123
+        "price": 35000,
+        "quantity_sold": 131
       },
       ".3": {
-        "price": 222219,
-        "quantity_sold": 11
+        "price": 184998,
+        "quantity_sold": 13
       }
     },
     "T6": {
       ".0": {
-        "price": 27962,
-        "quantity_sold": 2568
+        "price": 30581,
+        "quantity_sold": 1658
       },
       ".1": {
-        "price": 51806,
-        "quantity_sold": 728
+        "price": 51784,
+        "quantity_sold": 459
       },
       ".2": {
-        "price": 183983,
-        "quantity_sold": 144
+        "price": 190508,
+        "quantity_sold": 81
       },
       ".3": {
-        "price": 497999,
-        "quantity_sold": 27
+        "price": 497997,
+        "quantity_sold": 15
       }
     },
     "T7": {
       ".0": {
-        "price": 80639,
-        "quantity_sold": 516
+        "price": 79697,
+        "quantity_sold": 341
       },
       ".1": {
-        "price": 175974,
-        "quantity_sold": 171
+        "price": 183974,
+        "quantity_sold": 158
       },
       ".2": {
-        "price": 470978,
-        "quantity_sold": 35
+        "price": 477869,
+        "quantity_sold": 24
       },
       ".3": {
-        "price": 1689987,
-        "quantity_sold": 6
+        "price": 1689996,
+        "quantity_sold": 3
       }
     },
     "T8": {
       ".0": {
-        "price": 189974,
-        "quantity_sold": 49
+        "price": 183967,
+        "quantity_sold": 27
       },
       ".1": {
-        "price": 504991,
-        "quantity_sold": 12
+        "price": 493365,
+        "quantity_sold": 8
       },
       ".2": {
-        "price": 1479995,
-        "quantity_sold": 4
+        "price": 1469998,
+        "quantity_sold": 8
       },
       ".3": {
-        "price": 3498884,
-        "quantity_sold": 1
+        "price": 3648000,
+        "quantity_sold": 2
       }
     }
   },
   "Bolsa": {
     "T5": {
       ".0": {
-        "price": 19277,
-        "quantity_sold": 1492
+        "price": 18577,
+        "quantity_sold": 1933
       },
       ".1": {
-        "price": 33392,
-        "quantity_sold": 739
+        "price": 32998,
+        "quantity_sold": 304
       },
       ".2": {
-        "price": 89396,
-        "quantity_sold": 95
+        "price": 89194,
+        "quantity_sold": 202
       },
       ".3": {
-        "price": 328795,
-        "quantity_sold": 15
+        "price": 328897,
+        "quantity_sold": 38
       }
     },
     "T6": {
       ".0": {
-        "price": 49998,
-        "quantity_sold": 2824
+        "price": 45956,
+        "quantity_sold": 1960
       },
       ".1": {
-        "price": 98640,
-        "quantity_sold": 1086
+        "price": 97194,
+        "quantity_sold": 719
       },
       ".2": {
-        "price": 373973,
-        "quantity_sold": 157
+        "price": 372993,
+        "quantity_sold": 111
       },
       ".3": {
-        "price": 933999,
-        "quantity_sold": 37
+        "price": 924999,
+        "quantity_sold": 27
       }
     },
     "T7": {
       ".0": {
-        "price": 145523,
-        "quantity_sold": 612
+        "price": 142808,
+        "quantity_sold": 820
       },
       ".1": {
-        "price": 316981,
-        "quantity_sold": 329
+        "price": 317668,
+        "quantity_sold": 243
       },
       ".2": {
-        "price": 829988,
-        "quantity_sold": 60
+        "price": 875936,
+        "quantity_sold": 46
       },
       ".3": {
-        "price": 2394998,
-        "quantity_sold": 15
+        "price": 2579000,
+        "quantity_sold": 6
       }
     },
     "T8": {
       ".0": {
-        "price": 343696,
-        "quantity_sold": 33
+        "price": 343693,
+        "quantity_sold": 39
       },
       ".1": {
-        "price": 823955,
-        "quantity_sold": 22
+        "price": 819999,
+        "quantity_sold": 27
       },
       ".2": {
-        "price": 2869997,
-        "quantity_sold": 7
+        "price": 2859989,
+        "quantity_sold": 5
       },
       ".3": {
-        "price": 7099997,
-        "quantity_sold": 0
+        "price": 7099977,
+        "quantity_sold": 4
       }
     }
   },
