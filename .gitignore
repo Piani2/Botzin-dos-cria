@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Logs e temporarios
+*.log
+*.tmp
+*.bak
+*.lock
+
+# Capturas e arquivos de debug visual
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Dados e relatorios gerados
+data/latest_market_data.json
+data/report_updates.json
+reports/*.csv
+reports/*_corrompido_*.xlsx
+reports/.*.csv
+
+# Mantem o relatorio HTML principal versionavel se quiser publicar/acompanhar o layout.
+!reports/market_analysis.html
+
+# Sistema/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
