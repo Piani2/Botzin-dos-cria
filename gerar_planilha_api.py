@@ -16,6 +16,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
+from modules.albion_html_generator import AlbionHTMLGenerator
 from modules.albion_items import build_api_item_id, get_category_items
 
 
@@ -36,15 +37,15 @@ ROYAL_CITIES = [
 BLACK_MARKET = "Black Market"
 DEFAULT_LOCATIONS = ROYAL_CITIES + [BLACK_MARKET]
 FIELDNAMES = [
+    "Gerado em",
     "Categoria",
     "Item",
     "Tier",
     "Encantamento",
-    "Black Market Pedido",
-    "Vendidos 24h",
-    "Black Market Venda Atualizado",
+    "API ID",
+    "Black Market pedido venda",
+    "Black Market venda atualizado",
     *[f"{city} venda min" for city in ROYAL_CITIES],
-    "Gerado em",
 ]
 
 SHEET_NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
@@ -109,6 +110,16 @@ def parse_args():
         "--output",
         default="reports/albion_api_prices.csv",
         help="Caminho dos dados gerados. Use .csv; o atualizador .ps1 converte para .xlsx pelo Excel.",
+    )
+    parser.add_argument(
+        "--html-output",
+        default="reports/market_analysis.html",
+        help="Caminho do relatorio HTML gerado com os mesmos dados da API.",
+    )
+    parser.add_argument(
+        "--no-html",
+        action="store_true",
+        help="Nao gerar o relatorio HTML.",
     )
     parser.add_argument(
         "--timeout",
@@ -323,25 +334,27 @@ def build_rows(catalog, prices, history, generated_at):
     rows = []
     for item in catalog:
         price_entries = prices.get(item["item_id"], {})
-        black_market = best_sell_entry(price_entries, BLACK_MARKET)
-        black_market_sell = positive_int(black_market.get("sell_price_min"))
-        black_market_sell_date = black_market.get("sell_price_min_date", "")
-        daily_sales = history.get(item["item_id"], {}).get("item_count", 0)
+        black_market_sell_entry = best_sell_entry(price_entries, BLACK_MARKET)
+        black_market_sell = positive_int(black_market_sell_entry.get("sell_price_min"))
+
+        city_values = {}
+        for city in ROYAL_CITIES:
+            city_entry = best_sell_entry(price_entries, city)
+            city_values[city] = positive_int(city_entry.get("sell_price_min"))
 
         row = {
+            "Gerado em": generated_at,
             "Categoria": item["category"],
             "Item": item["item_name"],
             "Tier": item["tier"],
             "Encantamento": item["enchantment"],
-            "Black Market Pedido": black_market_sell or "",
-            "Vendidos 24h": daily_sales or "",
-            "Black Market Venda Atualizado": black_market_sell_date,
-            "Gerado em": generated_at,
+            "API ID": item["item_id"],
+            "Black Market pedido venda": black_market_sell or "",
+            "Black Market venda atualizado": black_market_sell_entry.get("sell_price_min_date", ""),
         }
 
         for city in ROYAL_CITIES:
-            city_entry = best_sell_entry(price_entries, city)
-            row[f"{city} venda min"] = positive_int(city_entry.get("sell_price_min")) or ""
+            row[f"{city} venda min"] = city_values[city] or ""
 
         rows.append(row)
 
@@ -678,11 +691,20 @@ def main():
     ensure_output_is_writable(args.output)
     print(f"Itens unicos na consulta: {len(item_ids)}")
     prices = fetch_prices(host, item_ids, DEFAULT_LOCATIONS, args.quality, args.timeout)
-    history = fetch_daily_sales_history(host, item_ids, args.quality, args.timeout)
-    rows = build_rows(catalog, prices, history, generated_at)
+    rows = build_rows(catalog, prices, {}, generated_at)
     saved_path = save_spreadsheet(rows, args.output)
 
     print(f"Planilha gerada: {saved_path}")
+    if not args.no_html:
+        html_generator = AlbionHTMLGenerator()
+        html = html_generator.generate_from_api_rows(
+            rows,
+            timestamp=generated_at,
+            categories=selected_categories(args.category),
+            server=args.server,
+        )
+        html_generator.save_html(html, args.html_output)
+        print(f"HTML gerado: {args.html_output}")
     print("Se for XLSX, voce pode estilizar a planilha e rodar novamente sem perder os estilos.")
 
 

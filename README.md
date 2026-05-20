@@ -1,22 +1,23 @@
 # Albion Black Market Tracker
 
-Bot para coletar preco e quantidade vendida de itens no Mercado Negro do Albion Online, gerar um HTML fixo e manter os dados atualizados por categoria.
+Ferramenta para gerar planilha e relatorio HTML com dados da Albion Online Data API, e navegar pela loja do Albion usando coordenadas calibradas.
+
+O projeto nao usa mais OCR, Tesseract, captura de tela ou leitura visual. A fonte unica dos precos agora e a API. A automacao de mouse/teclado serve apenas para navegar pela loja.
 
 ## Arquivos principais
 
-- `albion_tracker.py`: menu principal e fluxo de coleta.
-- `config.yaml`: coordenadas, delays, perfis de scroll e caminhos de saida.
-- `reports/market_analysis.html`: relatorio fixo atualizado pelo bot.
-- `data/latest_market_data.json`: base persistente usada pelo relatorio.
-- `data/report_updates.json`: data/hora da ultima atualizacao de armas e armaduras.
-
-## Calibradores mantidos
-
-- `calibrar_scroll_itens.py`: calibra scroll de armas ou armaduras.
-- `calibrar_regioes_ocr.py`: calibra regioes de preco e quantidade.
-- `recalibrar_dropdowns.py`: recalibra dropdowns de tier e encantamento.
-- `recalibrar_tiers.py`: recalibra perfis especiais de tier.
-- `recalibrar_fechar_aba.py`: recalibra o botao para fechar a aba do item.
+- `gerar_planilha_api.py`: consulta a Albion Online Data API e gera os dados.
+- `atualizar_planilha_api.ps1`: atualiza a planilha `.xlsx` usando o Excel instalado no Windows.
+- `atualizar_planilha_api.bat`: atalho para executar o atualizador PowerShell.
+- `albion_tracker.py`: menu simples para atualizar os dados por categoria.
+- `modules/albion_items.py`: catalogo local de itens e conversao para ids da API.
+- `modules/albion_html_generator.py`: gera o HTML com os dados da API.
+- `modules/store_navigator.py`: navega pela loja com a logica antiga de item/pagina/tier/encantamento, sem leitura de tela.
+- `store_navigation.json`: coordenadas e perfis de navegacao calibrados.
+- `calibrar_scroll_loja.py`: recalibra paginas, scrolls/arrastos e posicoes dos itens na lista.
+- `calibrar_filtros_loja.py`: recalibra tier, encantamento, qualidade e fechar aba.
+- `reports/albion_api_prices.xlsx`: planilha principal.
+- `reports/market_analysis.html`: relatorio HTML principal.
 
 ## Como rodar
 
@@ -26,73 +27,73 @@ Instale as dependencias:
 pip install -r requirements.txt
 ```
 
-Execute o bot:
-
-```powershell
-python albion_tracker.py
-```
-
-No menu, escolha:
-
-- `Coletar ARMAS`: usa o perfil de scroll `armas`.
-- `Coletar ARMADURAS`: usa o perfil de scroll `armaduras`.
-- `Coletar AMBOS`: coleta armas e depois armaduras, usando o perfil correto para cada parte.
-
-## Calibrar scroll
-
-```powershell
-python calibrar_scroll_itens.py
-```
-
-Escolha:
-
-- `1 - Armas`: 48 itens, 9 scrolls, 3 itens finais.
-- `2 - Armaduras`: 38 itens, 7 scrolls, 3 itens finais.
-- `3 - Manual`: informe uma quantidade diferente.
-
-Para testar a calibracao:
-
-```powershell
-python calibrar_scroll_itens.py teste
-```
-
-## Relatorio HTML
-
-O relatorio sempre salva no mesmo arquivo:
-
-```text
-reports/market_analysis.html
-```
-
-Ele mostra no topo a ultima atualizacao separada de armas e armaduras. Quando uma categoria e coletada, os dados antigos da outra categoria permanecem no HTML.
-
-## Planilha pela Albion Online Data API
-
-Para atualizar a planilha fixa com dados da API:
+Para atualizar a planilha e o HTML pelo atalho:
 
 ```powershell
 .\atualizar_planilha_api.ps1
 ```
 
-Ou dê dois cliques em:
+Ou de dois cliques em:
 
 ```text
 atualizar_planilha_api.bat
 ```
 
-O arquivo padrao e salvo em:
+Para usar o menu:
+
+```powershell
+python albion_tracker.py
+```
+
+No menu, a opcao `Navegar loja por oportunidades da API` atualiza os dados, pergunta cidade, lucro minimo e quantidade maxima por item, depois navega item por item na loja.
+
+## Navegacao da loja
+
+A navegacao reaproveita a logica antiga:
+
+- seleciona item por indice na lista calibrada;
+- usa paginas de 5 itens para armas e armaduras;
+- arrasta a lista conforme os perfis em `store_navigation.json`;
+- seleciona tier e encantamento por dropdown;
+- fecha a aba do item antes de passar para o proximo.
+
+Ela nao tira print, nao le pixels e nao calcula preco pela tela. O console mostra o preco da cidade, venda no Black Market, lucro calculado e quantidade desejada para voce conferir no jogo.
+
+## Calibradores
+
+Calibrar scroll/lista:
+
+```powershell
+python calibrar_scroll_loja.py
+```
+
+Ele pergunta a lista, quantos scrolls existem e se depois do ultimo scroll ficam menos de 5 itens diferentes. Em cada pagina, voce posiciona o mouse sobre cada item e pressiona ENTER no terminal; entre paginas, captura o ponto inicial/final do arrasto.
+
+Calibrar filtros e botoes:
+
+```powershell
+python calibrar_filtros_loja.py
+```
+
+Opcoes disponiveis:
+
+- tier, escolhendo o perfil `default`, `t1_to_t8`, `t2_to_t8` ou `t3_to_t8`;
+- encantamento `.0` a `.3`;
+- qualidade `normal`, `bom` e `excepcional`;
+- botao de fechar aba.
+
+## Saidas geradas
+
+Por padrao, o atualizador gera:
 
 ```text
 reports/albion_api_prices.xlsx
+reports/market_analysis.html
 ```
 
-Ele consulta armas e armaduras, tiers 5 a 8, encantamentos .0 a .3, qualidades 1, 2 e 3, no servidor Americas/West. A planilha mostra categoria, item, tier, encantamento, menor pedido valido do Black Market entre essas qualidades, vendidos no ultimo bloco diario do historico, data de atualizacao do pedido escolhido, menores vendas das cidades entre essas qualidades e data/hora em que a planilha foi gerada.
+O script Python gera um CSV intermediario com os dados da API. O PowerShell converte esse CSV para `.xlsx` usando o Excel, preservando estilos da primeira aba quando a planilha ja existe.
 
-Quando o arquivo `.xlsx` ja existe, o script atualiza apenas os valores da primeira aba e preserva os estilos que voce aplicou nas celulas. Se a planilha estiver aberta ou travada pelo OneDrive, o atualizador para e avisa para fechar o arquivo antes de tentar de novo.
-
-O `gerar_planilha_api.py` gera apenas os dados em CSV. O `.xlsx` e criado/atualizado pelo `atualizar_planilha_api.ps1`, usando o proprio Excel para evitar arquivo corrompido.
-
-Exemplos:
+## Exemplos
 
 ```powershell
 .\atualizar_planilha_api.ps1 --category armaduras
@@ -100,12 +101,14 @@ Exemplos:
 .\atualizar_planilha_api.ps1 --server europe --output reports/precos_europe.xlsx
 ```
 
-## Observacoes
+Gerar apenas CSV e HTML direto pelo Python:
 
-O caminho do Tesseract esta configurado em `modules/albion_market_ocr.py`:
-
-```text
-C:\Program Files\Tesseract-OCR\tesseract.exe
+```powershell
+python gerar_planilha_api.py --output reports/albion_api_prices.csv
 ```
 
-Se o Tesseract estiver instalado em outro local, ajuste esse caminho.
+Gerar somente a planilha/CSV sem HTML:
+
+```powershell
+python gerar_planilha_api.py --no-html
+```

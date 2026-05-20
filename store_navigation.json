@@ -1,0 +1,188 @@
+{
+  "automation": {
+    "click_delay": 0.25,
+    "dropdown_open_delay": 0.18,
+    "dropdown_select_delay": 0.12,
+    "filter_settle_delay": 0.22,
+    "item_select_delay": 0.25
+  },
+  "navigation": {
+    "default_city": "Caerleon",
+    "default_quality": "normal",
+    "min_profit": 1,
+    "max_items": 20,
+    "pause_between_items": true
+  },
+  "black_market_ui": {
+    "item_list_first": [1049, 361],
+    "item_list_row_step": 76,
+    "item_list_scroll_per_row": -120,
+    "item_list_visible_rows": 12,
+    "item_tab_close": [782, 256],
+    "enchant_dropdown": {
+      "open": [548, 334],
+      "options": {
+        ".0": [560, 352],
+        ".1": [557, 377],
+        ".2": [558, 400],
+        ".3": [556, 422]
+      }
+    },
+    "tier_dropdown": {
+      "open": [437, 336],
+      "options": {
+        "T5": [418, 376],
+        "T6": [419, 397],
+        "T7": [418, 421],
+        "T8": [419, 442]
+      }
+    },
+    "tier_dropdown_profiles": {
+      "default": {
+        "open": [437, 336],
+        "options": {
+          "T5": [418, 376],
+          "T6": [419, 397],
+          "T7": [418, 421],
+          "T8": [419, 442]
+        }
+      },
+      "t1_to_t8": {
+        "open": [437, 336],
+        "options": {
+          "T5": [420, 442],
+          "T6": [420, 465],
+          "T7": [419, 487],
+          "T8": [418, 508]
+        }
+      },
+      "t2_to_t8": {
+        "open": [437, 336],
+        "options": {
+          "T5": [416, 422],
+          "T6": [424, 442],
+          "T7": [418, 466],
+          "T8": [417, 489]
+        }
+      },
+      "t3_to_t8": {
+        "open": [437, 336],
+        "options": {
+          "T5": [416, 398],
+          "T6": [417, 420],
+          "T7": [417, 443],
+          "T8": [416, 463]
+        }
+      }
+    },
+    "item_paging": {
+      "enabled": true,
+      "method": "drag",
+      "profile": "armas",
+      "page_size": 5,
+      "total_items": 48,
+      "reset_key": "home",
+      "drag_duration": 0.35,
+      "row_positions": [[1049, 361], [1050, 437], [1050, 510], [1047, 585], [1049, 664]],
+      "page_row_positions": {
+        "9": [[1046, 523], [1046, 602], [1050, 673]]
+      },
+      "drag_steps": [
+        {"start": [1124, 364], "end": [1122, 399]},
+        {"start": [1124, 401], "end": [1124, 437]},
+        {"start": [1124, 433], "end": [1121, 468]},
+        {"start": [1123, 469], "end": [1119, 504]},
+        {"start": [1123, 505], "end": [1121, 541]},
+        {"start": [1123, 533], "end": [1123, 568]},
+        {"start": [1124, 576], "end": [1126, 611]},
+        {"start": [1124, 605], "end": [1126, 641]},
+        {"start": [1126, 641], "end": [1127, 679]}
+      ]
+    },
+    "item_paging_profiles": {
+      "armas": {
+        "enabled": true,
+        "method": "drag",
+        "profile": "armas",
+        "page_size": 5,
+        "total_items": 48,
+        "reset_key": "home",
+        "drag_duration": 0.35,
+        "row_positions": [[1049, 361], [1050, 437], [1050, 510], [1047, 585], [1049, 664]],
+        "page_row_positions": {
+          "9": [[1046, 523], [1046, 602], [1050, 673]]
+        },
+        "drag_steps": [
+          {"start": [1124, 364], "end": [1122, 399]},
+          {"start": [1124, 401], "end": [1124, 437]},
+          {"start": [1124, 433], "end": [1121, 468]},
+          {"start": [1123, 469], "end": [1119, 504]},
+          {"start": [1123, 505], "end": [1121, 541]},
+          {"start": [1123, 533], "end": [1123, 568]},
+          {"start": [1124, 576], "end": [1126, 611]},
+          {"start": [1124, 605], "end": [1126, 641]},
+          {"start": [1126, 641], "end": [1127, 679]}
+        ]
+      },
+      "armaduras": {
+        "enabled": true,
+        "method": "drag",
+        "profile": "armaduras",
+        "page_size": 5,
+        "total_items": 38,
+        "reset_key": "home",
+        "drag_duration": 0.35,
+        "row_positions": [[1048, 359], [1047, 437], [1046, 510], [1046, 585], [1050, 659]],
+        "page_row_positions": {
+          "7": [[1046, 528], [1049, 600], [1045, 675]]
+        },
+        "drag_steps": [
+          {"start": [1123, 367], "end": [1123, 412]},
+          {"start": [1123, 411], "end": [1121, 456]},
+          {"start": [1124, 458], "end": [1120, 502]},
+          {"start": [1126, 502], "end": [1126, 546]},
+          {"start": [1125, 546], "end": [1125, 592]},
+          {"start": [1125, 592], "end": [1121, 637]},
+          {"start": [1123, 637], "end": [1124, 681]}
+        ]
+      }
+    }
+  },
+  "item_tier_groups": {
+    "t1_to_t8": [
+      "Casaco de mercenario",
+      "Capuz de Mercenario",
+      "Sapatos de Mercenario",
+      "Espada Larga",
+      "Escudo"
+    ],
+    "t2_to_t8": [
+      "Robe de erudito",
+      "Armadura de Soldado",
+      "Capote de Erudito",
+      "Elmo de Soldado",
+      "Sandalias de Erudito",
+      "Botas de Soldado",
+      "Capa",
+      "Bolsa",
+      "Arco do",
+      "Cajado de Fogo do",
+      "Tomo de feiticos"
+    ],
+    "t3_to_t8": [
+      "Besta do",
+      "Machado de Guerra",
+      "Adaga do",
+      "Martelo do",
+      "Luvas de Lutador",
+      "Bordao do",
+      "Lanca do",
+      "Cajado Arcano",
+      "Cajado amaldicoado do",
+      "Cajado de Gelo",
+      "Cajado Sagrado do",
+      "Cajado da Natureza do",
+      "Tocha"
+    ]
+  }
+}

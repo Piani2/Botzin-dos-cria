@@ -1,255 +1,259 @@
-"""
-Modulo para gerar relatorio HTML do Albion Market Tracker.
-"""
+"""Geracao do relatorio HTML com dados vindos da Albion Online Data API."""
 
+import html
 import logging
-
-from jinja2 import Template
+from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
+MONEY_COLUMNS = {
+    "Black Market pedido venda",
+    "Bridgewatch venda min",
+    "Caerleon venda min",
+    "Fort Sterling venda min",
+    "Lymhurst venda min",
+    "Martlock venda min",
+    "Thetford venda min",
+}
+
+RIGHT_COLUMNS = MONEY_COLUMNS
+MUTED_COLUMNS = {
+    "Gerado em",
+    "API ID",
+    "Black Market venda atualizado",
+}
+
 
 class AlbionHTMLGenerator:
-    """Gera relatorio HTML com tabela de itens, precos e quantidades."""
+    """Gera relatorio HTML a partir das mesmas linhas usadas na planilha da API."""
 
-    def __init__(self):
-        self.template = self.get_template()
+    def generate_from_api_rows(self, rows, timestamp=None, categories=None, server="west"):
+        categories = categories or []
+        columns = list(rows[0].keys()) if rows else self.default_columns()
+        category_label = ", ".join(categories) if categories else "todos"
+        table_head = "\n".join(f"<th>{self._text(column)}</th>" for column in columns)
+        table_rows = "\n".join(self._render_row(row, columns) for row in rows)
+        if not table_rows:
+            table_rows = (
+                f'<tr><td class="empty-row" colspan="{len(columns)}">'
+                "Nenhum dado encontrado."
+                "</td></tr>"
+            )
 
-    @staticmethod
-    def get_template():
-        """Retorna template HTML com estilo embutido."""
-        return Template("""<!DOCTYPE html>
+        return f"""<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Albion Black Market</title>
+    <title>Albion Black Market API</title>
     <style>
-        :root {
+        :root {{
             color-scheme: light;
-            --bg: #f4f1ea;
+            --bg: #f5f2ed;
             --panel: #fffdf8;
-            --ink: #1f2933;
-            --muted: #697586;
-            --line: #d8d0c2;
-            --header: #050505;
-            --accent: #a05a2c;
-            --good: #1f8a5b;
-            --empty: #a4a9b2;
-            --ench-0: #b7bec8;
-            --ench-1: #9fdab3;
-            --ench-2: #9fc9f8;
-            --ench-3: #bfa2f5;
-        }
+            --ink: #202833;
+            --muted: #657080;
+            --line: #d7d0c4;
+            --header: #111111;
+            --accent: #8b5a2b;
+            --good: #176f4a;
+            --bad: #a02f2f;
+            --empty: #9aa3ad;
+        }}
 
-        * {
+        * {{
             box-sizing: border-box;
-        }
+        }}
 
-        body {
+        body {{
             margin: 0;
             background: var(--bg);
             color: var(--ink);
             font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-        }
+        }}
 
-        main {
-            width: min(1480px, calc(100% - 32px));
+        main {{
+            width: min(1680px, calc(100% - 32px));
             margin: 0 auto;
             padding: 22px 0 32px;
-        }
+        }}
 
-        .report-header {
+        .report-header {{
             display: flex;
             align-items: flex-end;
             justify-content: space-between;
             gap: 16px;
             margin-bottom: 16px;
-        }
+        }}
 
-        h1 {
+        h1 {{
             margin: 0;
             font-size: 26px;
             line-height: 1.1;
             color: var(--header);
             letter-spacing: 0;
-        }
+        }}
 
-        .subtitle {
+        .subtitle {{
             margin-top: 6px;
             color: var(--muted);
             font-size: 13px;
-        }
+        }}
 
-        .updates {
+        .summary {{
             display: grid;
-            grid-template-columns: repeat(2, minmax(190px, 1fr));
+            grid-template-columns: repeat(3, minmax(120px, 1fr));
             gap: 10px;
-            min-width: 400px;
-        }
+            min-width: 460px;
+        }}
 
-        .update-card {
+        .summary-item {{
             border: 1px solid var(--line);
             border-radius: 8px;
             background: var(--panel);
             padding: 10px 12px;
-        }
+        }}
 
-        .update-label {
+        .summary-label {{
             display: block;
             color: var(--muted);
             font-size: 12px;
             margin-bottom: 3px;
-        }
+        }}
 
-        .update-time {
+        .summary-value {{
             display: block;
             font-size: 15px;
             font-weight: 700;
             color: var(--header);
-        }
+        }}
 
-        .table-container {
-            overflow: visible;
+        .table-container {{
+            overflow: auto;
             border: 1px solid var(--line);
             border-radius: 8px;
             background: var(--panel);
             box-shadow: 0 12px 24px rgba(33, 39, 46, 0.08);
-        }
+        }}
 
-        table {
+        table {{
             width: 100%;
             border-collapse: separate;
             border-spacing: 0;
-            min-width: 980px;
-        }
+            min-width: 1480px;
+        }}
 
-        thead {
+        thead th {{
             position: sticky;
             top: 0;
-            z-index: 10;
-        }
-
-        thead th {
-            position: sticky;
-            top: 0;
-            z-index: 11;
+            z-index: 2;
             background: var(--header);
             color: #ffffff;
             padding: 11px 10px;
-            text-align: center;
+            text-align: left;
             font-size: 13px;
             font-weight: 700;
             border-right: 1px solid rgba(255, 255, 255, 0.12);
-        }
+            white-space: nowrap;
+        }}
 
-        thead th:first-child {
-            text-align: left;
-        }
-
-        tbody td {
+        tbody td {{
             padding: 9px 10px;
             border-top: 1px solid var(--line);
             border-right: 1px solid #ece5da;
-            text-align: center;
+            text-align: left;
             vertical-align: middle;
             font-size: 13px;
-        }
+            white-space: nowrap;
+        }}
 
-        tbody tr:nth-child(even) {
+        tbody tr:nth-child(even) {{
             background: #faf6ee;
-        }
+        }}
 
-        .item-name {
-            text-align: left;
+        tbody tr:hover td {{
+            filter: brightness(0.97);
+        }}
+
+        .strong {{
             font-weight: 700;
             color: #273849;
-            min-width: 220px;
-        }
+        }}
 
-        .tier {
-            width: 70px;
+        .accent {{
             font-weight: 800;
             color: var(--accent);
-            background: rgba(160, 90, 44, 0.08);
-        }
+        }}
 
-        .complex-data {
-            display: grid;
-            gap: 3px;
-            line-height: 1.2;
-        }
+        .money,
+        .right {{
+            text-align: right;
+            font-variant-numeric: tabular-nums;
+        }}
 
-        .enchant-0 {
-            background: var(--ench-0);
-        }
-
-        .enchant-1 {
-            background: var(--ench-1);
-        }
-
-        .enchant-2 {
-            background: var(--ench-2);
-        }
-
-        .enchant-3 {
-            background: var(--ench-3);
-        }
-
-        tbody tr:hover td {
-            filter: brightness(0.97);
-        }
-
-        .quantity {
-            color: #111111;
-            font-size: 12px;
-            font-weight: 700;
-        }
-
-        .price {
+        .money {{
             color: var(--good);
             font-weight: 800;
-            font-size: 14px;
-        }
+        }}
 
-        .empty {
+        .negative {{
+            color: var(--bad);
+        }}
+
+        .muted {{
+            color: var(--muted);
+        }}
+
+        .empty {{
             color: var(--empty);
             font-weight: 700;
-        }
+            text-align: center;
+        }}
 
-        @media (max-width: 820px) {
-            main {
-                width: min(100% - 20px, 1480px);
+        .empty-row {{
+            padding: 18px;
+            text-align: center;
+            color: var(--empty);
+            font-weight: 700;
+        }}
+
+        @media (max-width: 820px) {{
+            main {{
+                width: min(100% - 20px, 1680px);
                 padding-top: 14px;
-            }
+            }}
 
-            .report-header {
+            .report-header {{
                 display: block;
-            }
+            }}
 
-            .updates {
+            .summary {{
                 grid-template-columns: 1fr;
                 min-width: 0;
                 margin-top: 12px;
-            }
-        }
+            }}
+        }}
     </style>
 </head>
 <body>
     <main>
         <header class="report-header">
             <div>
-                <h1>Albion Black Market</h1>
-                <div class="subtitle">Arquivo fixo atualizado pelo bot em {{ timestamp }}</div>
+                <h1>Albion Black Market API</h1>
+                <div class="subtitle">Relatorio gerado com dados da Albion Online Data API em {self._text(timestamp or "")}</div>
             </div>
-            <section class="updates" aria-label="Ultimas atualizacoes">
-                <div class="update-card">
-                    <span class="update-label">Armas</span>
-                    <span class="update-time">{{ updates.armas or "Ainda nao atualizado" }}</span>
+            <section class="summary" aria-label="Resumo">
+                <div class="summary-item">
+                    <span class="summary-label">Servidor</span>
+                    <span class="summary-value">{self._text(server)}</span>
                 </div>
-                <div class="update-card">
-                    <span class="update-label">Armaduras</span>
-                    <span class="update-time">{{ updates.armaduras or "Ainda nao atualizado" }}</span>
+                <div class="summary-item">
+                    <span class="summary-label">Categorias</span>
+                    <span class="summary-value">{self._text(category_label)}</span>
+                </div>
+                <div class="summary-item">
+                    <span class="summary-label">Linhas</span>
+                    <span class="summary-value">{len(rows)}</span>
                 </div>
             </section>
         </header>
@@ -258,73 +262,89 @@ class AlbionHTMLGenerator:
             <table>
                 <thead>
                     <tr>
-                        <th>Nome do Item</th>
-                        <th>Tier</th>
-                        <th>.0</th>
-                        <th>.1</th>
-                        <th>.2</th>
-                        <th>.3</th>
+                        {table_head}
                     </tr>
                 </thead>
                 <tbody>
-                    {% for row in items %}
-                    <tr>
-                        <td class="item-name">{{ row.name }}</td>
-                        <td class="tier">{{ row.tier }}</td>
-                        {% for enchant in ['.0', '.1', '.2', '.3'] %}
-                        <td class="enchant-cell enchant-{{ loop.index0 }}">
-                            {% if row.enchants[enchant] is not none %}
-                                <div class="complex-data">
-                                    <span class="price">{{ "{:,}".format(row.enchants[enchant].price).replace(',', '.') }}</span>
-                                    <span class="quantity">Vendidos: {{ row.enchants[enchant].quantity }}</span>
-                                </div>
-                            {% else %}
-                                <span class="empty">-</span>
-                            {% endif %}
-                        </td>
-                        {% endfor %}
-                    </tr>
-                    {% endfor %}
+                    {table_rows}
                 </tbody>
             </table>
         </div>
     </main>
 </body>
 </html>
-        """)
+"""
 
-    def generate(self, items_data, timestamp=None, updates=None):
-        """Gera HTML a partir dos dados."""
+    def default_columns(self):
+        return [
+            "Gerado em",
+            "Categoria",
+            "Item",
+            "Tier",
+            "Encantamento",
+            "API ID",
+            "Black Market pedido venda",
+            "Black Market venda atualizado",
+            "Bridgewatch venda min",
+            "Caerleon venda min",
+            "Fort Sterling venda min",
+            "Lymhurst venda min",
+            "Martlock venda min",
+            "Thetford venda min",
+        ]
+
+    def _render_row(self, row, columns):
+        cells = "\n".join(self._render_cell(column, row.get(column)) for column in columns)
+        return f"<tr>{cells}</tr>"
+
+    def _render_cell(self, column, value):
+        if value in (None, ""):
+            return '<td class="empty">-</td>'
+
+        classes = []
+        if column in MONEY_COLUMNS:
+            classes.append("money")
+        if column in RIGHT_COLUMNS:
+            classes.append("right")
+        if column in MUTED_COLUMNS:
+            classes.append("muted")
+        if column == "Item":
+            classes.append("strong")
+        if column in {"Tier", "Encantamento"}:
+            classes.append("accent")
+        if self._is_negative(value):
+            classes.append("negative")
+
+        class_attr = f' class="{" ".join(classes)}"' if classes else ""
+        return f"<td{class_attr}>{self._format_value(column, value)}</td>"
+
+    def _format_value(self, column, value):
+        if column in MONEY_COLUMNS:
+            return self._format_number(value)
+        return self._text(value)
+
+    def _text(self, value):
+        return html.escape("" if value is None else str(value))
+
+    def _format_number(self, value):
         try:
-            if timestamp is None:
-                from datetime import datetime
+            return f"{int(value):,}".replace(",", ".")
+        except (TypeError, ValueError):
+            return self._text(value)
 
-                timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-
-            html = self.template.render(
-                items=items_data,
-                timestamp=timestamp,
-                updates=updates or {},
-            )
-
-            logger.info(f"HTML gerado com {len(items_data)} linhas")
-            return html
-
-        except Exception as e:
-            logger.error(f"Erro ao gerar HTML: {e}")
-            return "<h1>Erro ao gerar HTML</h1>"
-
-    def generate_with_prices(self, items_data, timestamp=None, updates=None):
-        """Compatibilidade com chamadas antigas; o template atual ja inclui precos."""
-        return self.generate(items_data, timestamp=timestamp, updates=updates)
+    def _is_negative(self, value):
+        try:
+            return float(str(value).replace(",", ".")) < 0
+        except (TypeError, ValueError):
+            return False
 
     def save_html(self, html_content, filepath):
-        """Salva HTML em arquivo."""
         try:
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(html_content)
+            output = Path(filepath)
+            output.parent.mkdir(parents=True, exist_ok=True)
+            output.write_text(html_content, encoding="utf-8")
             logger.info(f"HTML salvo em {filepath}")
             return True
-        except Exception as e:
-            logger.error(f"Erro ao salvar HTML: {e}")
+        except Exception as exc:
+            logger.error(f"Erro ao salvar HTML: {exc}")
             return False
