@@ -253,8 +253,10 @@ function Convert-CsvToWorkbook {
 
         $Target = $Worksheet.Range($Worksheet.Cells.Item(1, 1), $Worksheet.Cells.Item($RowCount, $ColumnCount))
         $Worksheet.Columns.Item(4).NumberFormat = "@"
+        $Worksheet.Columns.Item(5).NumberFormat = "@"
+        $Worksheet.Columns.Item(6).NumberFormat = "@"
         $Worksheet.Columns.Item(7).NumberFormat = "@"
-        $Worksheet.Columns.Item(14).NumberFormat = "@"
+        $Worksheet.Columns.Item(8).NumberFormat = "@"
         $Target.Value2 = $Data
         $Worksheet.Range($Worksheet.Cells.Item(1, 1), $Worksheet.Cells.Item(1, $ColumnCount)).EntireColumn.AutoFit() | Out-Null
         foreach ($Name in @($Workbook.Names)) {

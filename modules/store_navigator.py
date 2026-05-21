@@ -146,7 +146,7 @@ class StoreNavigator:
         category = row.get("Categoria")
         item_name = row.get("Item")
         tier = row.get("Tier")
-        enchantment = row.get("Encantamento")
+        enchantment = self.normalize_enchantment(row.get("Encantamento"))
         item_index = self.get_item_index(category, item_name)
         if item_index is None:
             raise RuntimeError(f"Item fora do catalogo calibrado: {item_name}")
@@ -332,6 +332,14 @@ class StoreNavigator:
         normalized = unicodedata.normalize("NFD", value)
         normalized = "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn")
         return normalized.casefold().strip()
+
+    def normalize_enchantment(self, enchantment):
+        value = str(enchantment or "0").strip()
+        if not value:
+            return ".0"
+        if value.startswith("."):
+            return value
+        return f".{value}"
 
     def _format_silver(self, value):
         number = self._int_or_default(value, 0)

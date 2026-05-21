@@ -9,7 +9,7 @@ import subprocess
 import sys
 import zipfile
 import zlib
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from xml.etree import ElementTree as ET
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -35,6 +35,7 @@ ROYAL_CITIES = [
     "Thetford",
 ]
 BLACK_MARKET = "Black Market"
+PRICE_RECENCY_WINDOW = timedelta(minutes=20)
 DEFAULT_LOCATIONS = ROYAL_CITIES + [BLACK_MARKET]
 FIELDNAMES = [
     "Gerado em",
@@ -136,6 +137,12 @@ def selected_categories(category):
     return [category]
 
 
+def api_list_param(value):
+    if isinstance(value, (list, tuple, set)):
+        return ",".join(str(item) for item in value)
+    return str(value)
+
+
 def build_catalog(category, tiers, enchants):
     catalog = []
     category_items = get_category_items()
@@ -152,7 +159,7 @@ def build_catalog(category, tiers, enchants):
                         "category": category_name,
                         "item_name": item_name,
                         "tier": tier_label,
-                        "enchantment": f".{enchant}",
+                        "enchantment": str(enchant),
                         "item_id": item_id,
                     })
     return catalog
@@ -161,18 +168,20 @@ def build_catalog(category, tiers, enchants):
 def build_api_url(host, item_ids, locations, quality):
     ids_path = quote(",".join(item_ids), safe=",@_")
     locations_param = quote(",".join(locations), safe=",")
+    quality_param = quote(api_list_param(quality), safe=",")
     return (
         f"{host}/api/v2/stats/prices/{ids_path}.json"
-        f"?locations={locations_param}&qualities={quality}"
+        f"?locations={locations_param}&qualities={quality_param}"
     )
 
 
 def build_history_api_url(host, item_ids, location, quality, time_scale=24):
     ids_path = quote(",".join(item_ids), safe=",@_")
     location_param = quote(location, safe="")
+    quality_param = quote(api_list_param(quality), safe=",")
     return (
         f"{host}/api/v2/stats/history/{ids_path}.json"
-        f"?locations={location_param}&qualities={quality}&time-scale={time_scale}"
+        f"?locations={location_param}&qualities={quality_param}&time-scale={time_scale}"
     )
 
 
@@ -312,6 +321,42 @@ def positive_int(value):
     return parsed if parsed > 0 else 0
 
 
+def parse_api_datetime(value):
+    if not value:
+        return None
+
+    normalized = str(value).strip()
+    if not normalized:
+        return None
+
+    if normalized.endswith("Z"):
+        normalized = normalized[:-1] + "+00:00"
+
+    try:
+        parsed = datetime.fromisoformat(normalized)
+        if parsed.tzinfo is not None:
+            return parsed.astimezone(timezone.utc).replace(tzinfo=None)
+        return parsed
+    except ValueError:
+        pass
+
+    for date_format in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S"):
+        try:
+            return datetime.strptime(str(value).strip(), date_format)
+        except ValueError:
+            continue
+
+    return None
+
+
+def format_api_datetime(value):
+    parsed = parse_api_datetime(value)
+    if not parsed:
+        return value or ""
+
+    return parsed.strftime("%d/%m/%Y %H:%M")
+
+
 def best_sell_entry(price_entries, city):
     candidates = []
     for entry in price_entries.get(city, []):
@@ -320,7 +365,33 @@ def best_sell_entry(price_entries, city):
             candidates.append(entry)
     if not candidates:
         return {}
-    return min(candidates, key=lambda entry: positive_int(entry.get("sell_price_min")))
+
+    dated_candidates = [
+        (entry, parse_api_datetime(entry.get("sell_price_min_date")))
+        for entry in candidates
+    ]
+    dated_candidates = [
+        (entry, updated_at)
+        for entry, updated_at in dated_candidates
+        if updated_at is not None
+    ]
+    if not dated_candidates:
+        return min(candidates, key=lambda entry: positive_int(entry.get("sell_price_min")))
+
+    latest_updated_at = max(updated_at for _, updated_at in dated_candidates)
+    recent_candidates = [
+        entry
+        for entry, updated_at in dated_candidates
+        if latest_updated_at - updated_at <= PRICE_RECENCY_WINDOW
+    ]
+
+    return min(
+        recent_candidates,
+        key=lambda entry: (
+            positive_int(entry.get("sell_price_min")),
+            parse_api_datetime(entry.get("sell_price_min_date")) or datetime.min,
+        ),
+    )
 
 
 def history_sort_key(entry):
@@ -350,7 +421,9 @@ def build_rows(catalog, prices, history, generated_at):
             "Encantamento": item["enchantment"],
             "API ID": item["item_id"],
             "Black Market pedido venda": black_market_sell or "",
-            "Black Market venda atualizado": black_market_sell_entry.get("sell_price_min_date", ""),
+            "Black Market venda atualizado": format_api_datetime(
+                black_market_sell_entry.get("sell_price_min_date", "")
+            ),
         }
 
         for city in ROYAL_CITIES:
