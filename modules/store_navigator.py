@@ -133,6 +133,70 @@ class StoreNavigator:
 
         return candidates
 
+    def prepare_purchase_plan(self, rows, budget, profit_percent, tier_limits):
+        candidates = self.build_purchase_candidates(rows, profit_percent, tier_limits)
+        if not candidates:
+            print("Nenhum item elegivel para compra com os filtros escolhidos.")
+            return []
+
+        remaining_budget = int(budget)
+        print("\n=== PLANO DE COMPRA ===")
+        print(f"Banco inicial: {self._format_silver(remaining_budget)}")
+        print(f"Lucro minimo: {profit_percent}%")
+        print("A leitura do preco da tela e o clique de compra serao implementados no proximo passo.")
+
+        for row in candidates:
+            target_price = self._int_or_default(row.get("Black Market pedido venda"), 0)
+            max_buy_price = self.max_profitable_buy_price(target_price, profit_percent)
+            limit = row["_purchase_limit"]
+            print(
+                f"- {row.get('Item')} {row.get('Tier')}{row.get('Encantamento')}"
+                f" | BM venda: {self._format_silver(target_price)}"
+                f" | comprar ate: {self._format_silver(max_buy_price)}"
+                f" | limite: {limit if limit is not None else '-'}"
+            )
+
+        return candidates
+
+    def build_purchase_candidates(self, rows, profit_percent, tier_limits):
+        selected_tiers = set(tier_limits)
+        candidates = []
+        for row in rows:
+            tier_key = f"{row.get('Tier')}{self.normalize_enchantment(row.get('Encantamento'))}"
+            if tier_key not in selected_tiers:
+                continue
+
+            target_price = self._int_or_default(row.get("Black Market pedido venda"), 0)
+            if target_price <= 0:
+                continue
+
+            limit = tier_limits[tier_key]
+            if limit is None:
+                limit = self._int_or_default(row.get("Vendidos 24h"), 0)
+            if limit is not None and limit <= 0:
+                continue
+
+            candidate = dict(row)
+            candidate["_purchase_limit"] = limit
+            candidate["_max_buy_price"] = self.max_profitable_buy_price(target_price, profit_percent)
+            candidates.append(candidate)
+
+        candidates.sort(
+            key=lambda row: (
+                row.get("Categoria", ""),
+                row.get("Item", ""),
+                row.get("Tier", ""),
+                row.get("Encantamento", ""),
+            )
+        )
+        return candidates
+
+    def max_profitable_buy_price(self, target_price, profit_percent):
+        multiplier = 1 + (float(profit_percent) / 100)
+        if multiplier <= 0:
+            return 0
+        return int(target_price / multiplier)
+
     def prepare_category(self, category):
         item_count = len(self.category_items.get(category, []))
         self.active_paging = self.get_item_paging(item_count, category)
@@ -155,7 +219,11 @@ class StoreNavigator:
         self.select_item(item_index)
         time.sleep(self.item_select_delay)
 
-        self.select_quality(row.get("Qualidade") or self.default_quality)
+        quality = self.normalize_quality(row.get("Qualidade") or self.default_quality)
+        self.select_quality("normal")
+        time.sleep(self.filter_settle_delay)
+        if quality != "normal":
+            self.select_quality(quality)
         time.sleep(self.filter_settle_delay)
         self.select_tier_and_enchantment(enchantment=".0", tier_profile=tier_profile)
         time.sleep(self.filter_settle_delay)
@@ -340,6 +408,17 @@ class StoreNavigator:
         if value.startswith("."):
             return value
         return f".{value}"
+
+    def normalize_quality(self, quality):
+        value = self._normalize_item_name(quality or "normal")
+        aliases = {
+            "normal": "normal",
+            "bom": "bom",
+            "good": "bom",
+            "excepcional": "excepcional",
+            "exceptional": "excepcional",
+        }
+        return aliases.get(value, "normal")
 
     def _format_silver(self, value):
         number = self._int_or_default(value, 0)

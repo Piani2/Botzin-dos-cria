@@ -1,6 +1,6 @@
-"""Calibra filtros e botoes da loja sem OCR."""
+"""Calibra filtros, botoes e regioes da loja."""
 
-from calibration_utils import capture_point, ensure_path, load_config, save_config
+from calibration_utils import capture_point, capture_region, ensure_path, load_config, save_config
 
 
 TIER_PROFILES = [
@@ -87,10 +87,30 @@ def calibrate_close_tab(config):
     print("Botao de fechar aba salvo.")
 
 
+def calibrate_search_box(config):
+    ensure_path(config, "black_market_ui")["search_box"] = capture_point(
+        "Campo/botao onde o bot clica para escrever o nome do item na loja"
+    )
+    print("Campo de pesquisa salvo.")
+
+
+def calibrate_price_region(config):
+    ensure_path(config, "black_market_ui")["price_region"] = capture_region(
+        "Regiao onde aparece o preco do primeiro item/listagem para leitura."
+    )
+    print("Regiao de preco salva.")
+
+
+def calibrate_buy_button(config):
+    ensure_path(config, "black_market_ui")["buy_button"] = capture_point(
+        "Botao de comprar o item selecionado"
+    )
+    print("Botao de compra salvo.")
+
+
 def main():
     print("=== CALIBRAR FILTROS DA LOJA ===")
-    print("Este calibrador salva tier, encantamento, qualidade e fechar aba.")
-    print("Nao ha print, OCR ou leitura da tela.")
+    print("Este calibrador salva tier, encantamento, qualidade, pesquisa, preco, comprar e fechar aba.")
 
     while True:
         config = load_config()
@@ -98,7 +118,10 @@ def main():
         print("2. Calibrar encantamento")
         print("3. Calibrar qualidade")
         print("4. Calibrar fechar aba")
-        print("5. Sair")
+        print("5. Calibrar campo de pesquisa")
+        print("6. Calibrar regiao de preco")
+        print("7. Calibrar botao comprar")
+        print("8. Sair")
         choice = input("\nEscolha: ").strip()
 
         if choice == "1":
@@ -110,6 +133,12 @@ def main():
         elif choice == "4":
             calibrate_close_tab(config)
         elif choice == "5":
+            calibrate_search_box(config)
+        elif choice == "6":
+            calibrate_price_region(config)
+        elif choice == "7":
+            calibrate_buy_button(config)
+        elif choice == "8":
             break
         else:
             print("Opcao invalida.")

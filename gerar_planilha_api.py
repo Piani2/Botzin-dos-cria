@@ -45,6 +45,7 @@ FIELDNAMES = [
     "Encantamento",
     "API ID",
     "Black Market pedido venda",
+    "Vendidos 24h",
     "Black Market venda atualizado",
     *[f"{city} venda min" for city in ROYAL_CITIES],
 ]
@@ -407,6 +408,7 @@ def build_rows(catalog, prices, history, generated_at):
         price_entries = prices.get(item["item_id"], {})
         black_market_sell_entry = best_sell_entry(price_entries, BLACK_MARKET)
         black_market_sell = positive_int(black_market_sell_entry.get("sell_price_min"))
+        daily_sales = history.get(item["item_id"], {}).get("item_count", 0)
 
         city_values = {}
         for city in ROYAL_CITIES:
@@ -421,6 +423,7 @@ def build_rows(catalog, prices, history, generated_at):
             "Encantamento": item["enchantment"],
             "API ID": item["item_id"],
             "Black Market pedido venda": black_market_sell or "",
+            "Vendidos 24h": daily_sales or "",
             "Black Market venda atualizado": format_api_datetime(
                 black_market_sell_entry.get("sell_price_min_date", "")
             ),
@@ -764,7 +767,8 @@ def main():
     ensure_output_is_writable(args.output)
     print(f"Itens unicos na consulta: {len(item_ids)}")
     prices = fetch_prices(host, item_ids, DEFAULT_LOCATIONS, args.quality, args.timeout)
-    rows = build_rows(catalog, prices, {}, generated_at)
+    history = fetch_daily_sales_history(host, item_ids, args.quality, args.timeout)
+    rows = build_rows(catalog, prices, history, generated_at)
     saved_path = save_spreadsheet(rows, args.output)
 
     print(f"Planilha gerada: {saved_path}")

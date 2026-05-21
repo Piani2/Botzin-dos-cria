@@ -45,7 +45,7 @@ Para usar o menu:
 python albion_tracker.py
 ```
 
-No menu, a opcao `Navegar loja por oportunidades da API` atualiza os dados, pergunta cidade, lucro minimo e quantidade maxima por item, depois navega item por item na loja.
+No menu, a opcao `Comprar itens` pergunta categoria, banco em prata, lucro minimo em %, e quais grupos de tier serao comprados. Para cada grupo, voce pode informar um limite ou pressionar ENTER para usar `Vendidos 24h` da tabela.
 
 ## Navegacao da loja
 
@@ -80,7 +80,10 @@ Opcoes disponiveis:
 - tier, escolhendo o perfil `default`, `t1_to_t8`, `t2_to_t8` ou `t3_to_t8`;
 - encantamento `.0` a `.3`;
 - qualidade `normal`, `bom` e `excepcional`;
-- botao de fechar aba.
+- botao de fechar aba;
+- campo de pesquisa da loja;
+- regiao do preco para leitura futura;
+- botao comprar.
 
 ## Saidas geradas
 

@@ -38,6 +38,17 @@ def capture_point(prompt):
     return point
 
 
+def capture_region(prompt):
+    print(prompt)
+    top_left = capture_point("Canto SUPERIOR ESQUERDO da regiao")
+    bottom_right = capture_point("Canto INFERIOR DIREITO da regiao")
+    x1, y1 = top_left
+    x2, y2 = bottom_right
+    region = [min(x1, x2), min(y1, y2), max(x1, x2), max(y1, y2)]
+    print(f"Regiao capturada: {region}")
+    return region
+
+
 def ask_int(prompt, default=None, minimum=None, maximum=None):
     suffix = f" [{default}]" if default is not None else ""
     while True:
